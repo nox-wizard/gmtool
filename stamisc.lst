@@ -2,10 +2,53 @@ format=S
 
 Decoration
 {
-bed east=$item_pine_bed-east_deed_1
-bed south=$item_pine_bed-south_deed_2
-bed small=$item_pine_bed_1deed_1
-bed small=$item_pine_bed_2deed_2
+Bed
+{
+pine east=$item_pine_bed-east_deed_1
+pine south=$item_pine_bed-south_deed_2
+pine small=$item_pine_bed_1deed_1
+pine small=$item_pine_bed_2deed_2
+alder east=$item_alder_bed-east_deed_1
+alder south=$item_alder_bed-south_deed_2
+alder small=$item_alder_bed_1deed_1
+alder small=$item_alder_bed_2deed_2
+beech east=$item_beech_bed-east_deed_1
+beech south=$item_beech_bed-south_deed_2
+beech small=$item_beech_bed_1deed_1
+beech small=$item_beech_bed_2deed_2
+cedar east=$item_cedar_bed-east_deed_1
+cedar south=$item_cedar_bed-south_deed_2
+cedar small=$item_cedar_bed_1deed_1
+cedar small=$item_cedar_bed_2deed_2
+ebony east=$item_ebony_bed-east_deed_1
+ebony south=$item_ebony_bed-south_deed_2
+ebony small=$item_ebony_bed_1deed_1
+ebony small=$item_ebony_bed_2deed_2
+mahogany east=$item_mahogany_bed-east_deed_1
+mahogany south=$item_mahogany_bed-south_deed_2
+mahogany small=$item_mahogany_bed_1deed_1
+mahogany small=$item_mahogany_bed_2deed_2
+maple east=$item_maple_bed-east_deed_1
+maple south=$item_maple_bed-south_deed_2
+maple small=$item_maple_bed_1deed_1
+maple small=$item_maple_bed_2deed_2
+oak east=$item_oak_bed-east_deed_1
+oak south=$item_oak_bed-south_deed_2
+oak small=$item_oak_bed_1deed_1
+oak small=$item_oak_bed_2deed_2
+walnut east=$item_walnut_bed-east_deed_1
+walnut south=$item_walnut_bed-south_deed_2
+walnut small=$item_walnut_bed_1deed_1
+walnut small=$item_walnut_bed_2deed_2
+yew east=$item_yew_bed-east_deed_1
+yew south=$item_yew_bed-south_deed_2
+yew small=$item_yew_bed_1deed_1
+yew small=$item_yew_bed_2deed_2
+basic east=$item_basfur_bed-east_deed_1
+basic south=$item_basfur_bed-south_deed_2
+basic small=$item_basfur_bed_1deed_1
+basic small=$item_basfur_bed_2deed_2
+}
 fireplace east=$item_fireplace-east_deed
 fireplace south=$item_fireplace-south_deed
 oven east=$item_oven-east_deed
