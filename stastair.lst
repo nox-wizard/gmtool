@@ -165,26 +165,26 @@ wooden stairs=$item_wooden_stairs2_17=0748
 }
 Sandstone 1
 {
-sandstone stairs=$item_sandostone_stairs1_1=03EF
-sandstone stairs=$item_sandostone_stairs1_2=03F0
-sandstone stairs=$item_sandostone_stairs1_3=03F1
-sandstone stairs=$item_sandostone_stairs1_4=03F2
-sandstone stairs=$item_sandostone_stairs1_5=03F3
-sandstone stairs=$item_sandostone_stairs1_6=03F4
-sandstone stairs=$item_sandostone_stairs1_7=03F5
-sandstone stairs=$item_sandostone_stairs1_8=03F6
-sandstone stairs=$item_sandostone_stairs1_9=03F7
-sandstone stairs=$item_sandostone_stairs1_10=03F8
-sandstone stairs=$item_sandostone_stairs1_11=03F9
-sandstone stairs=$item_sandostone_stairs1_12=03FA
-sandstone stairs=$item_sandostone_stairs1_13=03FB
-sandstone stairs=$item_sandostone_stairs1_14=03FC
-sandstone stairs=$item_sandostone_stairs1_15=03FD
-sandstone stairs=$item_sandostone_stairs1_16=03FE
-sandstone stairs=$item_sandostone_stairs1_17=03FF
-sandstone stairs=$item_sandostone_stairs1_18=0400
-sandstone stairs=$item_sandostone_stairs1_19=0401
-sandstone stairs=$item_sandostone_stairs1_20=0402
+sandstone stairs=$item_sandstone_stairs1_1=03EF
+sandstone stairs=$item_sandstone_stairs1_2=03F0
+sandstone stairs=$item_sandstone_stairs1_3=03F1
+sandstone stairs=$item_sandstone_stairs1_4=03F2
+sandstone stairs=$item_sandstone_stairs1_5=03F3
+sandstone stairs=$item_sandstone_stairs1_6=03F4
+sandstone stairs=$item_sandstone_stairs1_7=03F5
+sandstone stairs=$item_sandstone_stairs1_8=03F6
+sandstone stairs=$item_sandstone_stairs1_9=03F7
+sandstone stairs=$item_sandstone_stairs1_10=03F8
+sandstone stairs=$item_sandstone_stairs1_11=03F9
+sandstone stairs=$item_sandstone_stairs1_12=03FA
+sandstone stairs=$item_sandstone_stairs1_13=03FB
+sandstone stairs=$item_sandstone_stairs1_14=03FC
+sandstone stairs=$item_sandstone_stairs1_15=03FD
+sandstone stairs=$item_sandstone_stairs1_16=03FE
+sandstone stairs=$item_sandstone_stairs1_17=03FF
+sandstone stairs=$item_sandstone_stairs1_18=0400
+sandstone stairs=$item_sandstone_stairs1_19=0401
+sandstone stairs=$item_sandstone_stairs1_20=0402
 }
 Sandstone 2
 {
