@@ -2,45 +2,45 @@ format=S
 
 Hanging lights
 {
-wall sconce unlit=item_wall_sconce_unlit_1=09Fb
-wall sconce empty=item_wall_sconce_empty_1=09Fc
-wall sconce lit=item_wall_sconce_lit_1=09Fd
-wall torch unlit=item_wall_torch_unlit_1=0A05
-wall torch empty=item_wall_torch_empty_1=0A06
-wall torch lit=item_wall_torch_lit_1=0A07
-hanging lantern lit=item_hanging_lantern_lit_1=0A1A
-hanging lantern unlit=item_hanging_lantern_unlit_1=0A1D
-lantern post=item_lantern_post_1=0A1f
+wall sconce unlit=$item_wall_sconce_unlit_1=09Fb
+wall sconce empty=$item_wall_sconce_empty_1=09Fc
+wall sconce lit=$item_wall_sconce_lit_1=09Fd
+wall torch unlit=$item_wall_torch_unlit_1=0A05
+wall torch empty=$item_wall_torch_empty_1=0A06
+wall torch lit=$item_wall_torch_lit_1=0A07
+hanging lantern lit=$item_hanging_lantern_lit_1=0A1A
+hanging lantern unlit=$item_hanging_lantern_unlit_1=0A1D
+lantern post=$item_lantern_post_1=0A1f
 }
 table/floor
 {
-tall candelabra=item_tall_candelabra_lit=0B26
-tall candelabra=item_tall_candelabra_unlit=0A29
-small candelabra=item_small_candelabra_unlit=0A27=
-small candelabra=item_small_candelabra_lit=0B1D=
-tall candle=item_tall_candle_unlit=0a26
-tall candle=item_tall_candle_lit=0B1A
-little candle=item_little_candle_unlit=0a28
-little candle=item_little_candle_lit=0a0f
-big simple candle=big simple=item_big_simple_candle_unlit=1433
-big simple candle=big simple=item_big_simple_candle_lit=1430
-small simple candle=small simple=item_small_simple_candle_unlit=142F
-small simple candle=small simple=item_small_simple_candle_lit=142c
-thin simple candle=thin simple=item_thin_simple_candle_unlit=1437
-thin simple candle=thin simple=item_thin_simple_candle_lit=1434
-medium brazier=item_medium_brazier_lit=0E31
-tall brazier=item_tall_brazier_unlit=19aa
-small brazier=item_small_brazier_unlit=19bb
-tiny brazier=item_tiny_brazier_unlit=1f2b
-skull candle lit=skull candle=item_skull_candle_lit1=1854
-skull candle unlit=skull candle=item_skull_candle_unlit1=1853
-lamp post lit=lamp post=item_lamp_post_lit1=0B20
-lamp post unlit=lamp post=item_lamp_post_unlit1=0B21
-lamp post lit=lamp post=item_lamp_post_lit2=0B22
-lamp post unlit=lamp post=item_lamp_post_unlit2=0B23
-lamp post lit=lamp post=item_lamp_post_lit3=0B24
-lamp post unlit=lamp post=item_lamp_post_unlit3=0B25
+tall candelabra=$item_tall_candelabra_lit=0B26
+tall candelabra=$item_tall_candelabra_unlit=0A29
+small candelabra=$item_small_candelabra_unlit=0A27=
+small candelabra=$item_small_candelabra_lit=0B1D=
+tall candle=$item_tall_candle_unlit=0a26
+tall candle=$item_tall_candle_lit=0B1A
+little candle=$item_little_candle_unlit=0a28
+little candle=$item_little_candle_lit=0a0f
+big simple candle=$item_big_simple_candle_unlit=1433
+big simple candle=$item_big_simple_candle_lit=1430
+small simple candle=$item_small_simple_candle_unlit=142F
+small simple candle=$item_small_simple_candle_lit=142c
+thin simple candle=$item_thin_simple_candle_unlit=1437
+thin simple candle=$item_thin_simple_candle_lit=1434
+medium brazier=$item_medium_brazier_lit=0E31
+tall brazier=$item_tall_brazier_unlit=19aa
+small brazier=$item_small_brazier_unlit=19bb
+tiny brazier=$item_tiny_brazier_unlit=1f2b
+skull candle lit=$item_skull_candle_lit1=1854
+skull candle unlit=$item_skull_candle_unlit1=1853
+lamp post lit=$item_lamp_post_lit1=0B20
+lamp post unlit=$item_lamp_post_unlit1=0B21
+lamp post lit=$item_lamp_post_lit2=0B22
+lamp post unlit=$item_lamp_post_unlit2=0B23
+lamp post lit=$item_lamp_post_lit3=0B24
+lamp post unlit=$item_lamp_post_unlit3=0B25
 }
-hand candle=item_hand_candle_lit=0a0f
-hand torch=item_hand_torch_lit=0a12
-hand lantern=item_hand_lantern_lit=0a15
+hand candle=$item_hand_candle_lit=0a0f
+hand torch=$item_hand_torch_lit=0a12
+hand lantern=$item_hand_lantern_lit=0a15
