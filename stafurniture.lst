@@ -173,3 +173,24 @@ display case=$item_display_case_12=0B10
 display case=$item_display_case_16=0B14
 display case=$item_display_case_18=0B16
 }
+Barbaric & Stone
+{
+straw pillow=$item_straw_pillow1_1=11ea
+grass mat=$item_grass_mat1_1=11e2
+grass mat=$item_grass_mat2_1=11e3
+marble bench=$item_marble_bench_A1=0459
+marble bench=$item_marble_bench_B1_1=1DCD
+marble bench=$item_marble_bench_B1_2=1DCE
+marble bench=$item_marble_bench_B1_3=1DCF
+sandstone bench=$item_sandstone_bench_A1=045B
+sandstone bench=$item_sandstone_bench_B1_1=1DC7
+sandstone bench=$item_sandstone_bench_B1_2=1DC8
+sandstone bench=$item_sandstone_bench_B1_3=1DC9
+stone chair=$item_stone_chair=1218
+stone table1A=$item_stone_table1A_1=1201
+stone table1B=$item_stone_table1B_1=1202
+stone table1C=$item_stone_table1C_1=1203
+stone bench1A=$item_stone_bench1A_1=1207
+stone bench1B=$item_stone_bench1B_1=1208
+stone bench1C=$item_stone_bench1C_1=1209
+}
