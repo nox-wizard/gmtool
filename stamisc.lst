@@ -1,5 +1,87 @@
-format=HH
+format=S
 
+Decoration
+{
+bed east=$item_pine_bed-east_deed_1
+bed south=$item_pine_bed-south_deed_2
+bed small=$item_pine_bed_1deed_1
+bed small=$item_pine_bed_2deed_2
+fireplace east=$item_fireplace-east_deed
+fireplace south=$item_fireplace-south_deed
+oven east=$item_oven-east_deed
+oven south=$item_oven-south_deed
+guildstone=$item_guildstone_deed
+christmas tree=$item_christmas_tree_deed=14F0
+rename=$item_deed=14F0
+employment=$item_employment_deed=14F0
+Trashcan=$item_trashcan_deed=14f0
+townstone=$item_townstone_deed=14f0
+pentagram=$item_pentagram_deed=14F0
+cannon=$item_cannon_deed=14ED
+skull candle=$item_skull_candle_deed=14f0
+Dartboard=$item_dartboard_deed=14f0
+Dartboard=$item_dartboard_deed_1=14f0
+}
+Profession
+{
+large smithy=$item_large_smithy_deed=14F0
+forge=$item_forge_deed=14F0
+large forge (south)=$item_large_forge_deed_2=14F0
+large forge (east)=$item_large_forge_deed_1=14F0
+anvil (south)=$item_anvil_deed_2=14F0
+anvil (east)=$item_anvil_deed_1=14F0
+archery butte (east)=$item_archery_butte_deed_1=14F0
+archery butte (south)=$item_archery_butte_deed_2=14F0
+training dummy (south)=$item_training_dummy_deed_2=14F0
+training dummy (east)=$item_training_dummy_deed_1=14F0
+pickpocket dip (south)=$item_pickpocket_dip_deed_2=14F0
+pickpocket dip (east)=$item_pickpocket_dip_deed_1=14F0
+spinning wheel (east)=$item_spinning_wheel_deed_1=14F0
+spinning wheel (south)=$item_spinning_wheel_deed_2=14F0
+loom=$item_loom_deed_1=14F0
+loom=$item_loom_deed_2=14F0
+}
+Ships
+{
+small ship=$item_deed_small_ship
+small dragon boat=$item_deed_small_dragon_ship
+med ship=$item_deed_medium_ship
+med dragon boat=$item_deed_medium_dragon_ship
+large ship=$item_deed_large_ship
+large dragon boat=$item_deed_large_dragon_ship
+}
+Houses
+{
+small tower=$item_small_tower_deed=14F0
+small marble shop=$item_small_marble_shop_deed=14f0
+farm house=$item_farm_house_deed=14f0
+small stone shop=$item_small_stone_shop_deed=14f0
+2-story villa=$item_2-story_villa_deed=14f0
+sandstone patio house=$item_sandstone_patio_house_deed=14F0
+2-story log cabin=$item_2-story_log_cabin_deed=14F0
+large marble patio house=$item_large_marble_patio_house_deed=14f0
+small stone & plaster house=$item_small_stone_plaster_house_deed=14F0
+small stone house=$item_small_stone_house_deed=14F0
+small brick house=$item_small_brick_house_deed=14F0
+small wood house=$item_small_wood_house_deed=14F0
+small wood & plaster house=$item_small_wood_plaster_house_deed=14F0
+small wood house with straw roof=$item_small_wood_house_with_straw_roof_deed=14F0
+blue tent=$item_blue_tent_deed=14F0
+green tent=$item_green_tent_deed=14F0
+3 room brick house=$item_3_room_brick_house_deed=14F0
+2 story wood & plaster house=$item_2_story_wood_plaster_house_deed=14F0
+2 story stone & plaster house=$item_2_story_stone_plaster_house_deed=14F0
+tower=$item_tower_deed=14F0
+keep=$item_keep_deed=14F0
+4 room house=$item_4_room_house_deed=14F0
+castle=$item_castle_deed=14F0
+}
+Other Buildings
+{
+lighthouse=$item_lighthouse_deed=14F0
+telescope=$item_telescope_deed=14F0
+arbitoir=$item_arbitoir_deed=14F0
+}
 Nodraw
 {
 unused=0x00 0x00=0x0000
