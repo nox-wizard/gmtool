@@ -59,7 +59,6 @@ rename=$item_deed=14F0
 employment=$item_employment_deed=14F0
 Trashcan=$item_trashcan_deed=14f0
 townstone=$item_townstone_deed=14f0
-pentagram=$item_pentagram_deed=14F0
 cannon=$item_cannon_deed=14ED
 skull candle=$item_skull_candle_deed=14f0
 Dartboard=$item_dartboard_deed=14f0
@@ -123,261 +122,182 @@ Other Buildings
 {
 lighthouse=$item_lighthouse_deed=14F0
 telescope=$item_telescope_deed=14F0
-arbitoir=$item_arbitoir_deed=14F0
 }
-Nodraw
+Misc
 {
-unused=0x00 0x00=0x0000
-nodraw=0x00 0x01=0x0001
-nodraw=0x21 0x98=0x2198
-nodraw=0x21 0x99=0x2199
-nodraw=0x21 0x9a=0x219a
-nodraw=0x21 0x9b=0x219b
-nodraw=0x21 0x9c=0x219c
-nodraw=0x21 0x9d=0x219d
-nodraw=0x21 0x9e=0x219e
-nodraw=0x21 0x9f=0x219f
-nodraw=0x21 0xa0=0x21a0
-nodraw=0x21 0xa1=0x21a1
-nodraw=0x21 0xa2=0x21a2
-no draw=0x21 0xa4=0x21a4
-empty tile=0x10 0x18=0x1018
-dark source=0x16 0x46=0x1646
-light source=0x16 0x47=0x1647
-target tile=0x1b 0x70=0x1b70
+nodraw=$item_nodraw=0x0001
+empty tile=$item_empty=0x1018
+dark source=$item_dark_source=0x1646
+light source=$item_light_source=0x1647
+target tile=$item_target=0x1b70
 }
 Religion
 {
-ankh=0x00 0x02=0x0002
-ankh=0x00 0x03=0x0003
-ankh=0x00 0x04=0x0004
-ankh=0x00 0x05=0x0005
-ankh of sacrifice=0x1d 0x97=0x1d97
-ankh of sacrifice=0x1d 0x98=0x1d98
-Ank of sacrifice=0x1e 0x5c=0x1e5c
-ank of sacrifice=0x1e 0x5d=0x1e5d
-altar=0x12 0x0e=0x120e
-altar=0x12 0x0f=0x120f
-altar=0x12 0x10=0x1210
-altar=0x12 0x11=0x1211
-altar=0x12 0x12=0x1212
-altar=0x12 0x13=0x1213
-altar=0x12 0x14=0x1214
-altar=0x12 0x15=0x1215
-altar=0x12 0x16=0x1226
+ankh=$item_ankh1A_1=0x0002
+ankh=$item_ankh1B_1=0x0003
+ankh=$item_ankh1A_2=0x0004
+ankh=$item_ankh1B_2=0x0005
+bloody ankh=$item_bloody_ankh1A_1=0x1d97
+bloody ankh=$item_bloody_ankh1B_1=0x1d98
+bloody ankh=$item_bloody_ankh1A_2=0x1e5c
+bloody ankh=$item_bloody_ankh1B_2=0x1e5d
+altar deed=$item_arbitoir_deed=14F0
+altar=$item_altar_3=0x120e
+altar=$item_altar_4=0x120f
+altar=$item_altar_5=0x1210
+altar=$item_altar_6=0x1211
+altar=$item_altar_7=0x1212
+altar=$item_altar=0x1213
+altar=$item_altar_1=0x1214
+altar=$item_altar_2=0x1215
+altar=$item_altar_8=0x1226
+pentagram deed=$item_pentagram_deed=14F0
+pentagram=$item_pentagram_1=0fe6
+pentagram=$item_pentagram_2=0fe7
+pentagram=$item_pentagram_3=0fe8
+pentagram=$item_pentagram_4=0fe9
+pentagram=$item_pentagram_5=0fea
+pentagram=$item_pentagram_6=0feb
+pentagram=$item_pentagram_7=0fec
+pentagram=$item_pentagram_8=0fed
+pentagram=$item_pentagram_9=0fee
 }
-Cave 0xDecoration
+Cave Decoration
 {
-stalagmites=0x08 0xe0=0x08e0
-stalagmites=0x08 0xe1=0x08e1
-flowstone=0x08 0xe2=0x08e2
-flowstone=0x08 0xe3=0x08e3
-stalagmites=0x08 0xe4=0x08e4
-stalagmites=0x08 0xe5=0x08e5
-flowstone=0x08 0xe6=0x08e6
-stalagmites=0x08 0xe7=0x08e7
-flowstone=0x08 0xe8=0x08e8
-stalagmites=0x08 0xe9=0x08e9
-stalagmites=0x08 0xea=0x08ea
+stalagmites=$item_stalagmite1_1=0x08e0
+flowstone=$item_stalagmite2_1=0x08e2
+flowstone=$item_stalagmite3=0x08e3
+stalagmites=$item_stalagmite4_1=0x08e4
+flowstone=$item_stalagmite5=0x08e6
+stalagmites=$item_stalagmite6=0x08e7
+stalagmites=$item_stalagmite7_1=0x08e9
 }
 Fountain
 {
-fountain=0x09 0x0d=0x090d
-fountain=0x09 0x0e=0x090e
-fountain=0x09 0x0f=0x090f
-fountain=0x09 0x10=0x0910
-fountain=0x17 0x31=0x1731
-fountain=0x17 0x32=0x1732
-fountain=0x17 0x33=0x1733
-fountain=0x17 0x34=0x1734
-fountain=0x17 0x35=0x1735
-fountain=0x17 0x36=0x1736
-fountain=0x17 0x37=0x1737
-fountain=0x17 0x38=0x1738
-fountain=0x17 0x39=0x1739
-fountain=0x17 0x3a=0x173a
-fountain=0x17 0x3b=0x173b
-fountain=0x17 0x3c=0x173c
-fountain=0x17 0x3d=0x173d
-fountain=0x17 0x3e=0x173e
-fountain=0x17 0x3f=0x173f
-fountain=0x17 0x40=0x1740
-fountain=0x17 0x41=0x1741
-fountain=0x17 0x42=0x1742
-fountain=0x17 0x43=0x1743
-fountain=0x17 0x44=0x1744
-fountain=0x17 0x45=0x1745
-fountain=0x17 0x46=0x1746
-fountain=0x17 0x47=0x1747
-fountain=0x17 0x48=0x1748
-fountain=0x17 0x49=0x1749
-fountain=0x17 0x4a=0x174a
-fountain=0x17 0x4b=0x174b
-fountain=0x17 0x4c=0x174c
-fountain=0x17 0x4d=0x174d
-fountain=0x17 0x4e=0x174e
-fountain=0x17 0x4f=0x174f
-fountain=0x17 0x50=0x1750
-fountain=0x17 0x51=0x1751
-fountain=0x17 0x52=0x1752
-fountain=0x17 0x53=0x1753
-fountain=0x17 0x54=0x1754
-fountain=0x17 0x55=0x1755
-fountain=0x17 0x56=0x1756
-fountain=0x17 0x57=0x1757
-fountain=0x17 0x58=0x1758
-fountain=0x17 0x59=0x1759
-fountain=0x17 0x5a=0x175a
-fountain=0x19 0xc3=0x19c3
-fountain=0x19 0xc4=0x19c4
-fountain=0x19 0xc5=0x19c5
-fountain=0x19 0xc6=0x19c6
-fountain=0x19 0xc7=0x19c7
-fountain=0x19 0xc8=0x19c8
-fountain=0x19 0xc9=0x19c9
-fountain=0x19 0xca=0x19ca
-fountain=0x19 0xcb=0x19cb
-fountain=0x19 0xcc=0x19cc
-fountain=0x19 0xcd=0x19cd
-fountain=0x19 0xce=0x19ce
-fountain=0x19 0xcf=0x19cf
-fountain=0x19 0xd0=0x19d0
-fountain=0x19 0xd1=0x19d1
-fountain=0x19 0xd2=0x19d2
-fountain=0x19 0xd3=0x19d3
-fountain=0x19 0xd4=0x19d4
-fountain=0x19 0xd5=0x19d5
-fountain=0x19 0xd6=0x19d6
-fountain=0x19 0xd7=0x19d7
-fountain=0x19 0xd8=0x19d8
-fountain=0x19 0xd9=0x19d9
-fountain=0x19 0xda=0x19da
-fountain=0x19 0xdb=0x19db
-fountain=0x19 0xdc=0x19dc
-fountain=0x19 0xdd=0x19dd
-fountain=0x19 0xde=0x19de
-fountain=0x19 0xdf=0x19df
-fountain=0x19 0xe0=0x19e0
-fountain=0x19 0xe1=0x19e1
-fountain=0x19 0xe2=0x19e2
-fountain=0x19 0xe3=0x19e3
-fountain=0x19 0xe4=0x19e4
-fountain=0x19 0xe5=0x19e5
-fountain=0x19 0xe6=0x19e6
-fountain=0x19 0xe7=0x19e7
-fountain=0x19 0xe8=0x19e8
-fountain=0x19 0xe9=0x19e9
-fountain=0x19 0xea=0x19ea
-fountain=0x19 0xeb=0x19eb
-fountain=0x19 0xec=0x19ec
+fountain=$item_fountain=0x090d
+stone fountain=$item_stone_fountain1=0x1731
+stone fountain=$item_stone_fountain2=0x1732
+stone fountain=$item_stone_fountain3=0x1733
+stone fountain=$item_stone_fountain4=0x1734
+stone fountain=$item_stone_fountain5=0x1735
+stone fountain=$item_stone_fountain6=0x1736
+stone fountain=$item_stone_fountain7=0x1737
+stone fountain=$item_stone_fountain8=0x1738
+stone fountain=$item_stone_fountain9=0x1739
+stone fountain=$item_stone_fountain10=0x173a
+stone fountain=$item_stone_fountain11=0x173b
+stone fountain=$item_stone_fountain12=0x173c
+stone fountain=$item_stone_fountain13=0x173d
+stone fountain=$item_stone_fountain14=0x173e
+stone fountain=$item_stone_fountain15=0x173f
+stone fountain=$item_stone_fountain16=0x1740
+stone fountain=$item_stone_fountain17=0x1753
+stone fountain=$item_stone_fountain18=0x1757
+sandstone fountain=$item_sandstone_fountain1=0x19c3
+sandstone fountain=$item_sandstone_fountain2=0x19c4
+sandstone fountain=$item_sandstone_fountain3=0x19c5
+sandstone fountain=$item_sandstone_fountain4=0x19c6
+sandstone fountain=$item_sandstone_fountain5=0x19c7
+sandstone fountain=$item_sandstone_fountain6=0x19c8
+sandstone fountain=$item_sandstone_fountain7=0x19c9
+sandstone fountain=$item_sandstone_fountain8=0x19ca
+sandstone fountain=$item_sandstone_fountain9=0x19cb
+sandstone fountain=$item_sandstone_fountain10=0x19cc
+sandstone fountain=$item_sandstone_fountain11=0x19cd
+sandstone fountain=$item_sandstone_fountain12=0x19ce
+sandstone fountain=$item_sandstone_fountain13=0x19cf
+sandstone fountain=$item_sandstone_fountain14=0x19d0
+sandstone fountain=$item_sandstone_fountain15=0x19d1
+sandstone fountain=$item_sandstone_fountain16=0x19d2
+sandstone fountain=$item_sandstone_fountain17=0x19e5
+sandstone fountain=$item_sandstone_fountain18=0x19e9
 }
 Garbage
 {
-dirt patch=0x09 0x11=0x0911
-dirt patch=0x09 0x12=0x0912
-dirt patch=0x09 0x13=0x0913
-dirt patch=0x09 0x14=0x0914
-debris=0x0c 0x2d=0x0c2d
-debris=0x0c 0x2e=0x0c2e
-debris=0x0c 0x2f=0x0c2f
-debris=0x0c 0x30=0x0c30
-hay=0x10 0x36=0x1036
-hay=0x10 0x37=0x1037
-hay=0x0f 0x34=0x0f34
-hay=0x0f 0x35=0x0f35
-loose grain=0x14 0x49=0x1449
-wood curls=0x10 0x38=0x1038
-garbage=0x10 0xee=0x10ee
-garbage=0x10 0xef=0x10ef
-garbage=0x10 0xf0=0x10f0
-garbage=0x10 0xf1=0x10f1
-pile of garbage=0x10 0xf2=0x10f2
-pile of garbage=0x10 0xf3=0x10f3
-horse dung=0x0f 0x3b=0x0f3b
-horse dung=0x0f 0x3c=0x0f3c
-spilled flour=0x18 0x7e=0x187e
-spilled flour=0x18 0x7f=0x187f
-spilled flour=0x18 0x80=0x1880
-spilled flour=0x18 0x81=0x1881
-leaves=0x1b 0x1f=0x1b1f
-leaves=0x1b 0x20=0x1b20
-leaves=0x1b 0x21=0x1b21
-leaves=0x1b 0x22=0x1b22
-leaves=0x1b 0x23=0x1b23
-leaves=0x1b 0x24=0x1b24
-leaves=0x1b 0x25=0x1b25
-leaves=0x1b 0x26=0x1b26
-dirt=0x1b 0x27=0x1b27
-dirt=0x1b 0x28=0x1b28
-dirt=0x1b 0x29=0x1b29
-dirt=0x1b 0x2a=0x1b2a
-dirt=0x1b 0x2b=0x1b2b
-dirt=0x1b 0x2c=0x1b2c
-dirt=0x1b 0x2d=0x1b2d
-dirt=0x1b 0x2e=0x1b2e
-dirt=0x1b 0x2f=0x1b2f
-dirt=0x1b 0x30=0x1b30
-dirt=0x1b 0x31=0x1b31
-dirt=0x1b 0x32=0x1b32
-dirt=0x1b 0x33=0x1b33
-dirt=0x1b 0x34=0x1b34
-dirt=0x1b 0x35=0x1b35
-dirt=0x1b 0x36=0x1b36
-dirt=0x1b 0x37=0x1b37
-dirt=0x1b 0x38=0x1b38
-dirt=0x1b 0x39=0x1b39
-dirt=0x1b 0x3a=0x1b3a
-dirt=0x1b 0x3b=0x1b3b
-dirt=0x1b 0x3c=0x1b3c
-dirt=0x1b 0x3d=0x1b3d
-dirt=0x1b 0x3e=0x1b3e
-burned wood=0x0d 0xea=0x0dea
-refuse=0x1b 0x9f=0x1b9f
-refuse=0x1b 0xa0=0x1ba0
-refuse=0x1b 0xa1=0x1ba1
-refuse=0x1b 0xa2=0x1ba2
-refuse=0x1b 0xa3=0x1ba3
-refuse=0x1b 0xa4=0x1ba4
-refuse=0x1b 0xa5=0x1ba5
-refuse=0x1b 0xa6=0x1ba6
-refuse=0x1b 0xa7=0x1ba7
-refuse=0x1b 0xa8=0x1ba8
-refuse=0x1b 0xa9=0x1ba9
-refuse=0x1b 0xaa=0x1baa
-refuse=0x1b 0xab=0x1bab
-refuse=0x1b 0xac=0x1bac
-refuse=0x1b 0xad=0x1bad
-refuse=0x1b 0xae=0x1bae
-refuse=0x1b 0xaf=0x1baf
-refuse=0x1b 0xb0=0x1bb0
-refuse=0x1b 0xb1=0x1bb1
-refuse=0x1b 0xb2=0x1bb2
-refuse=0x1b 0xb4=0x1bb4
-refuse=0x1b 0xb5=0x1bb5
-refuse=0x1b 0xb6=0x1bb6
-refuse=0x1b 0xb7=0x1bb7
-refuse=0x1b 0xb8=0x1bb8
-refuse=0x1b 0xb9=0x1bb9
-refuse=0x1b 0xba=0x1bba
-refuse=0x1b 0xbb=0x1bbb
-refuse=0x1b 0xbc=0x1bbc
-refuse=0x1b 0xbd=0x1bbd
-dirt=0x1d 0xfd=0x1dfd
-dirt=0x1d 0xfe=0x1dfe
-dirt=0x1d 0xff=0x1dff
-dirt=0x1e 0x00=0x1e00
-mud=0x1e 0x01=0x1e01
-mud=0x1e 0x02=0x1e02
-stain=0x1e 0x07=0x1e07
-stain=0x1e 0x08=0x1e08
-stain=0x1e 0x09=0x1e09
-stain=0x1e 0x0a=0x1e0a
-stain=0x1e 0x0b=0x1e0b
-stain=0x1e 0x0c=0x1e0c
-stain=0x1e 0x0d=0x1e0d
-stain=0x1e 0x0e=0x1e0e
-burned food=0x1e 0xb0=0x1eb0
-cut hair=0x0d 0xfe=0x0dfe
+dirt patch1=$item_dirt_patch1=0911
+dirt patch2=$item_dirt_patch2=0912
+dirt patch3=$item_dirt_patch3=0913
+dirt patch4=$item_dirt_patch4=0914
+debris=$item_debris1_1=0c2d
+hay1=item_hay1=1036
+hay2=item_hay2=1037
+hay3=item_hay3=0f34
+hay4=item_hay4=0f35
+loose grain=$item_loose_grain=1449
+wood curls=$item_wood_curls=1038
+garbage=item_garbage1=10ee
+garbage=item_garbage2=10ef
+garbage=item_garbage3=10f0
+garbage=item_garbage4=10f1
+pile ofgarbage=$item_pile_of_garbage1_1=10f2
+horse dung1=$item_horse_dung1=0f3b
+horse dung2=$item_horse_dung2=0f3c
+spilled flour1=$item_spilled_flour1=187e
+spilled flour2=$item_spilled_flour2=187f
+spilled flour3=$item_spilled_flour3=1880
+spilled flour4=$item_spilled_flour4=1881
+leaves1=$item_leaves1=1b1f
+leaves2=$item_leaves2=1b20
+leaves3=$item_leaves3=1b21
+leaves4=$item_leaves4=1b22
+leaves5=$item_leaves5=1b23
+leaves6=$item_leaves6=1b24
+leaves7=$item_leaves7=1b25
+leaves8=$item_leaves8=1b26
+dirt=$item_dirt1_1=1b27
+dirt=$item_dirt2_1=1b2b
+dirt=$item_dirt3_1=1b2f
+dirt=$item_dirt4_1=1b33
+dirt=$item_dirt5_1=1b37
+dirt=$item_dirt6_1=1b3b
+burned wood=$item_burned_wood=0dea
+refuse1=$item_refuse1=1b9f
+refuse2=$item_refuse2=1ba0
+refuse3=$item_refuse3=1ba1
+refuse4=$item_refuse4=1ba2
+refuse5=$item_refuse5=1ba3
+refuse6=$item_refuse6=1ba4
+refuse7=$item_refuse7=1ba5
+refuse8=$item_refuse8=1ba6
+refuse9=$item_refuse9=1ba7
+refuse10=$item_refuse10=1ba8
+refuse11=$item_refuse11=1ba9
+refuse12=$item_refuse12=1baa
+refuse13=$item_refuse13=1bab
+refuse14=$item_refuse14=1bac
+refuse15=$item_refuse15=1bad
+refuse16=$item_refuse16=1bae
+refuse17=$item_refuse17=1baf
+refuse18=$item_refuse18=1bb0
+refuse19=$item_refuse19=1bb1
+refuse20=$item_refuse20=1bb2
+refuse21=$item_refuse21=1bb4
+refuse22=$item_refuse22=1bb5
+refuse23=$item_refuse23=1bb6
+refuse24=$item_refuse24=1bb7
+refuse25=$item_refuse25=1bb8
+refuse26=$item_refuse26=1bb9
+refuse27=$item_refuse27=1bba
+refuse28=$item_refuse28=1bbb
+refuse29=$item_refuse29=1bbc
+refuse30=$item_refuse30=1bbd
+dirtdot1=$item_dirtdot1=1dfd
+dirtdot2=$item_dirtdot2=1dfe
+dirtdot3=$item_dirtdot3=1dff
+dirtdot4=$item_dirtdot4=1e00
+mud1=$item_mud1=1e01
+mud2=$item_mud2=1e02
+footprint1 1=$item_footprint1_1=1e03
+stain1=$item_stain1=1e07
+stain2=$item_stain2=1e08
+stain3=$item_stain3=1e09
+stain4=$item_stain4=1e0a
+stain5=$item_stain5=1e0b
+stain6=$item_stain6=1e0c
+stain7=$item_stain7=1e0d
+stain8=$item_stain8=1e0e
+burned food=$item_burned_food=1eb0
+cut hair=$item_cut_hair=0dfe
 }
 Spider stuff
 {
@@ -1100,15 +1020,6 @@ serpent pillar=0x23 0x49=0x2349
 serpent pillar=0x23 0x4a=0x234a
 }
 
-Ankhs
-{
-ankh=0x0 0x2
-ankh=0x0 0x3
-ankh=0x0 0x4
-ankh=0x0 0x5
-ankh of sacrifice=0x1d 0x97
-ankh of sacrifice=0x1d 0x98
-}
 Arches
 {
 Brick
@@ -1121,63 +1032,63 @@ brick arch=00 49=0049
 }
 Stone
 {
-stone arch=00 28=0028
-stone arch=00 29=0029
-stone arch=00 2a=002a
-stone arch=00 2b=002b
-stone arch=00 2c=002c
-stone arch=00 6d=006d
-stone arch=00 6e=006e
-stone arch=00 6f=006f
-stone arch=00 70=0070
-stone arch=00 71=0071
-stone arch=00 7a=007a
-stone arch=00 7b=007b
-stone arch=00 7c=007c
-stone arch=00 7d=007d
-stone arch=00 7e=007e
-stone arch=00 7f=007f
-stone arch=00 86=0086
-stone arch=00 87=0087
-stone arch=00 8a=008a
-stone arch=00 8b=008b
-stone arch=00 c6=00c6
-stone arch=00 cd=00cd
-stone arch=00 ce=00ce
-stone arch=00 cf=00cf
-stone arch=00 d0=00d0
-stone arch=00 d1=00d1
-stone arch=00 d4=00d4
-stone arch=00 d5=00d5
-stone arch=00 d6=00d6
-stone arch=00 d7=00d7
-stone arch=00 d8=00d8
-stone arch=00 d9=00d9
-stone arch=00 da=00da
-stone arch=00 e0=00e0
-stone arch=00 e1=00e1
-stone arch=00 e2=00e2
-stone arch=00 e3=00e3
-stone arch=00 e4=00e4
-stone arch=00 e5=00e5
-stone arch=01 d5=01d5
-stone arch=01 d6=01d6
-stone arch=01 d7=01d7
-stone arch=01 d8=01d8
-stone arch=01 d9=01d9
-stone arch=01 db=01db
-stone arch=01 dc=01dc
-stone arch=01 dd=01dd
-stone arch=01 de=01de
-stone arch=01 df=01df
-stone arch=01 e0=01e0
-stone arch=01 e1=01e1
-stone arch=01 e2=01e2
-stone arch=01 e3=01e3
-stone arch=01 e4=01e4
-stone arch=01 e5=01e5
-stone arch=01 e6=01e6
-stone arch=01 e7=01e7
+sandstone arch=00 28=0028
+sandstone arch=00 29=0029
+sandstone arch=00 2a=002a
+sandstone arch=00 2b=002b
+sandstone arch=00 2c=002c
+sandstone arch=00 6d=006d
+sandstone arch=00 6e=006e
+sandstone arch=00 6f=006f
+sandstone arch=00 70=0070
+sandstone arch=00 71=0071
+sandstone arch=00 7a=007a
+sandstone arch=00 7b=007b
+sandstone arch=00 7c=007c
+sandstone arch=00 7d=007d
+sandstone arch=00 7e=007e
+sandstone arch=00 7f=007f
+sandstone arch=00 86=0086
+sandstone arch=00 87=0087
+sandstone arch=00 8a=008a
+sandstone arch=00 8b=008b
+sandstone arch=00 c6=00c6
+sandstone arch=00 cd=00cd
+sandstone arch=00 ce=00ce
+sandstone arch=00 cf=00cf
+sandstone arch=00 d0=00d0
+sandstone arch=00 d1=00d1
+sandstone arch=00 d4=00d4
+sandstone arch=00 d5=00d5
+sandstone arch=00 d6=00d6
+sandstone arch=00 d7=00d7
+sandstone arch=00 d8=00d8
+sandstone arch=00 d9=00d9
+sandstone arch=00 da=00da
+sandstone arch=00 e0=00e0
+sandstone arch=00 e1=00e1
+sandstone arch=00 e2=00e2
+sandstone arch=00 e3=00e3
+sandstone arch=00 e4=00e4
+sandstone arch=00 e5=00e5
+sandstone arch=01 d5=01d5
+sandstone arch=01 d6=01d6
+sandstone arch=01 d7=01d7
+sandstone arch=01 d8=01d8
+sandstone arch=01 d9=01d9
+sandstone arch=01 db=01db
+sandstone arch=01 dc=01dc
+sandstone arch=01 dd=01dd
+sandstone arch=01 de=01de
+sandstone arch=01 df=01df
+sandstone arch=01 e0=01e0
+sandstone arch=01 e1=01e1
+sandstone arch=01 e2=01e2
+sandstone arch=01 e3=01e3
+sandstone arch=01 e4=01e4
+sandstone arch=01 e5=01e5
+sandstone arch=01 e6=01e6
+sandstone arch=01 e7=01e7
 }
 Arch
 {
@@ -1239,21 +1150,21 @@ archway=03 a0=03a0
 }
 Sandstone
 {
-sandstone arch=01 6c=016c
-sandstone arch=01 6d=016d
-sandstone arch=01 6e=016e
-sandstone arch=01 6f=016f
-sandstone arch=01 70=0170
-sandstone arch=01 8a=018a
-sandstone arch=01 8b=018b
-sandstone arch=01 8c=018c
-sandstone arch=01 8d=018d
-sandstone arch=01 8e=018e
-sandstone arch=01 8f=018f
-sandstone arch=01 90=0190
-sandstone arch=01 91=0191
-sandstone arch=01 92=0192
-sandstone arch=01 93=0193
+sandsandstone arch=01 6c=016c
+sandsandstone arch=01 6d=016d
+sandsandstone arch=01 6e=016e
+sandsandstone arch=01 6f=016f
+sandsandstone arch=01 70=0170
+sandsandstone arch=01 8a=018a
+sandsandstone arch=01 8b=018b
+sandsandstone arch=01 8c=018c
+sandsandstone arch=01 8d=018d
+sandsandstone arch=01 8e=018e
+sandsandstone arch=01 8f=018f
+sandsandstone arch=01 90=0190
+sandsandstone arch=01 91=0191
+sandsandstone arch=01 92=0192
+sandsandstone arch=01 93=0193
 }
 Dungeon
 {
@@ -1289,195 +1200,6 @@ cannon=0e 93=0e93
 cannon=0e 94=0e94
 cannon=0e 95=0e95
 cannon=0e 96=0e96
-}
-Fireplaces
-{
-fireplace=04 5d=045d
-fireplace=04 5e=045e
-fireplace=04 5f=045f
-fireplace=04 75=0475
-fireplace=04 76=0476
-fireplace=04 77=0477
-fireplace=04 78=0478
-fireplace=04 79=0479
-fireplace=04 7a=047a
-fireplace=04 7b=047b
-fireplace=04 7c=047c
-fireplace=04 7d=047d
-fireplace=04 7e=047e
-fireplace=04 7f=047f
-fireplace=04 80=0480
-fireplace=04 82=0482
-fireplace=04 83=0483
-fireplace=04 84=0484
-fireplace=04 85=0485
-fireplace=04 86=0486
-fireplace=04 87=0487
-fireplace=04 89=0489
-fireplace=04 8a=048a
-fireplace=04 8b=048b
-fireplace=04 8c=048c
-fireplace=04 8d=048d
-fireplace=04 8e=048e
-fireplace=08 cf=08cf
-fireplace=08 d0=08d0
-fireplace=08 d3=08d3
-fireplace=08 d4=08d4
-fireplace=08 da=08da
-fireplace=08 db=08db
-fireplace=08 de=08de
-fireplace=08 df=08df
-fireplace=09 35=0935
-fireplace=09 36=0936
-fireplace=09 37=0937
-fireplace=09 38=0938
-fireplace=09 39=0939
-fireplace=09 3a=093a
-fireplace=09 3b=093b
-fireplace=09 3c=093c
-fireplace=09 3d=093d
-fireplace=09 3e=093e
-fireplace=09 3f=093f
-fireplace=09 40=0940
-fireplace=09 41=0941
-fireplace=09 42=0942
-fireplace=09 43=0943
-fireplace=09 44=0944
-fireplace=09 45=0945
-fireplace=09 46=0946
-fireplace=09 47=0947
-fireplace=09 48=0948
-fireplace=09 49=0949
-fireplace=09 4a=094a
-fireplace=09 4b=094b
-fireplace=09 4c=094c
-fireplace=09 4d=094d
-fireplace=09 4e=094e
-fireplace=09 4f=094f
-fireplace=09 50=0950
-fireplace=09 51=0951
-fireplace=09 52=0952
-fireplace=09 53=0953
-fireplace=09 54=0954
-fireplace=09 55=0955
-fireplace=09 56=0956
-fireplace=09 57=0957
-fireplace=09 58=0958
-fireplace=09 59=0959
-fireplace=09 5a=095a
-fireplace=09 5b=095b
-fireplace=09 5c=095c
-fireplace=09 5d=095d
-fireplace=09 5e=095e
-fireplace=09 5f=095f
-fireplace=09 60=0960
-fireplace=09 61=0961
-fireplace=09 62=0962
-fireplace=09 63=0963
-fireplace=09 64=0964
-fireplace=09 65=0965
-fireplace=09 66=0966
-fireplace=09 67=0967
-fireplace=09 68=0968
-fireplace=09 69=0969
-fireplace=09 6a=096a
-fireplace=09 6b=096b
-fireplace=09 6c=096c
-fireplace=11 ec=11ec
-fireplace=11 ed=11ed
-fireplace=11 ee=11ee
-fireplace=11 ef=11ef
-}
-Fountain
-{
-fountain=09 0d=090d
-fountain=09 0e=090e
-fountain=09 0f=090f
-fountain=09 10=0910
-fountain=17 31=1731
-fountain=17 32=1732
-fountain=17 33=1733
-fountain=17 34=1734
-fountain=17 35=1735
-fountain=17 36=1736
-fountain=17 37=1737
-fountain=17 38=1738
-fountain=17 39=1739
-fountain=17 3a=173a
-fountain=17 3b=173b
-fountain=17 3c=173c
-fountain=17 3d=173d
-fountain=17 3e=173e
-fountain=17 3f=173f
-fountain=17 40=1740
-fountain=17 41=1741
-fountain=17 42=1742
-fountain=17 43=1743
-fountain=17 44=1744
-fountain=17 45=1745
-fountain=17 46=1746
-fountain=17 47=1747
-fountain=17 48=1748
-fountain=17 49=1749
-fountain=17 4a=174a
-fountain=17 4b=174b
-fountain=17 4c=174c
-fountain=17 4d=174d
-fountain=17 4e=174e
-fountain=17 4f=174f
-fountain=17 50=1750
-fountain=17 51=1751
-fountain=17 52=1752
-fountain=17 53=1753
-fountain=17 54=1754
-fountain=17 55=1755
-fountain=17 56=1756
-fountain=17 57=1757
-fountain=17 58=1758
-fountain=17 59=1759
-fountain=17 5a=175a
-fountain=19 c3=19c3
-fountain=19 c4=19c4
-fountain=19 c5=19c5
-fountain=19 c6=19c6
-fountain=19 c7=19c7
-fountain=19 c8=19c8
-fountain=19 c9=19c9
-fountain=19 ca=19ca
-fountain=19 cb=19cb
-fountain=19 cc=19cc
-fountain=19 cd=19cd
-fountain=19 ce=19ce
-fountain=19 cf=19cf
-fountain=19 d0=19d0
-fountain=19 d1=19d1
-fountain=19 d2=19d2
-fountain=19 d3=19d3
-fountain=19 d4=19d4
-fountain=19 d5=19d5
-fountain=19 d6=19d6
-fountain=19 d7=19d7
-fountain=19 d8=19d8
-fountain=19 d9=19d9
-fountain=19 da=19da
-fountain=19 db=19db
-fountain=19 dc=19dc
-fountain=19 dd=19dd
-fountain=19 de=19de
-fountain=19 df=19df
-fountain=19 e0=19e0
-fountain=19 e1=19e1
-fountain=19 e2=19e2
-fountain=19 e3=19e3
-fountain=19 e4=19e4
-fountain=19 e5=19e5
-fountain=19 e6=19e6
-fountain=19 e7=19e7
-fountain=19 e8=19e8
-fountain=19 e9=19e9
-fountain=19 ea=19ea
-fountain=19 eb=19eb
-fountain=19 ec=19ec
 }
 Statues
 {
