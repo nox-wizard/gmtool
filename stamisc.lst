@@ -4,48 +4,48 @@ Decoration
 {
 Bed
 {
-pine east=$item_pine_bed-east_deed_1
-pine south=$item_pine_bed-south_deed_2
+pine east=$item_pine_bed-east_deed
+pine south=$item_pine_bed-south_deed
 pine small=$item_pine_bed_1deed_1
 pine small=$item_pine_bed_2deed_2
-alder east=$item_alder_bed-east_deed_1
-alder south=$item_alder_bed-south_deed_2
+alder east=$item_alder_bed-east_deed
+alder south=$item_alder_bed-south_deed
 alder small=$item_alder_bed_1deed_1
 alder small=$item_alder_bed_2deed_2
-beech east=$item_beech_bed-east_deed_1
-beech south=$item_beech_bed-south_deed_2
+beech east=$item_beech_bed-east_deed
+beech south=$item_beech_bed-south_deed
 beech small=$item_beech_bed_1deed_1
 beech small=$item_beech_bed_2deed_2
-cedar east=$item_cedar_bed-east_deed_1
-cedar south=$item_cedar_bed-south_deed_2
+cedar east=$item_cedar_bed-east_deed
+cedar south=$item_cedar_bed-south_deed
 cedar small=$item_cedar_bed_1deed_1
 cedar small=$item_cedar_bed_2deed_2
-ebony east=$item_ebony_bed-east_deed_1
-ebony south=$item_ebony_bed-south_deed_2
+ebony east=$item_ebony_bed-east_deed
+ebony south=$item_ebony_bed-south_deed
 ebony small=$item_ebony_bed_1deed_1
 ebony small=$item_ebony_bed_2deed_2
-mahogany east=$item_mahogany_bed-east_deed_1
-mahogany south=$item_mahogany_bed-south_deed_2
+mahogany east=$item_mahogany_bed-east_deed
+mahogany south=$item_mahogany_bed-south_deed
 mahogany small=$item_mahogany_bed_1deed_1
 mahogany small=$item_mahogany_bed_2deed_2
-maple east=$item_maple_bed-east_deed_1
-maple south=$item_maple_bed-south_deed_2
+maple east=$item_maple_bed-east_deed
+maple south=$item_maple_bed-south_deed
 maple small=$item_maple_bed_1deed_1
 maple small=$item_maple_bed_2deed_2
-oak east=$item_oak_bed-east_deed_1
-oak south=$item_oak_bed-south_deed_2
+oak east=$item_oak_bed-east_deed
+oak south=$item_oak_bed-south_deed
 oak small=$item_oak_bed_1deed_1
 oak small=$item_oak_bed_2deed_2
-walnut east=$item_walnut_bed-east_deed_1
-walnut south=$item_walnut_bed-south_deed_2
+walnut east=$item_walnut_bed-east_deed
+walnut south=$item_walnut_bed-south_deed
 walnut small=$item_walnut_bed_1deed_1
 walnut small=$item_walnut_bed_2deed_2
-yew east=$item_yew_bed-east_deed_1
-yew south=$item_yew_bed-south_deed_2
+yew east=$item_yew_bed-east_deed
+yew south=$item_yew_bed-south_deed
 yew small=$item_yew_bed_1deed_1
 yew small=$item_yew_bed_2deed_2
-basic east=$item_basfur_bed-east_deed_1
-basic south=$item_basfur_bed-south_deed_2
+basic east=$item_basfur_bed-east_deed
+basic south=$item_basfur_bed-south_deed
 basic small=$item_basfur_bed_1deed_1
 basic small=$item_basfur_bed_2deed_2
 }
@@ -174,43 +174,9 @@ stalagmites=$item_stalagmite7_1=0x08e9
 }
 Fountain
 {
-fountain=$item_fountain=0x090d
-stone fountain=$item_stone_fountain1=0x1731
-stone fountain=$item_stone_fountain2=0x1732
-stone fountain=$item_stone_fountain3=0x1733
-stone fountain=$item_stone_fountain4=0x1734
-stone fountain=$item_stone_fountain5=0x1735
-stone fountain=$item_stone_fountain6=0x1736
-stone fountain=$item_stone_fountain7=0x1737
-stone fountain=$item_stone_fountain8=0x1738
-stone fountain=$item_stone_fountain9=0x1739
-stone fountain=$item_stone_fountain10=0x173a
-stone fountain=$item_stone_fountain11=0x173b
-stone fountain=$item_stone_fountain12=0x173c
-stone fountain=$item_stone_fountain13=0x173d
-stone fountain=$item_stone_fountain14=0x173e
-stone fountain=$item_stone_fountain15=0x173f
-stone fountain=$item_stone_fountain16=0x1740
-stone fountain=$item_stone_fountain17=0x1753
-stone fountain=$item_stone_fountain18=0x1757
-sandstone fountain=$item_sandstone_fountain1=0x19c3
-sandstone fountain=$item_sandstone_fountain2=0x19c4
-sandstone fountain=$item_sandstone_fountain3=0x19c5
-sandstone fountain=$item_sandstone_fountain4=0x19c6
-sandstone fountain=$item_sandstone_fountain5=0x19c7
-sandstone fountain=$item_sandstone_fountain6=0x19c8
-sandstone fountain=$item_sandstone_fountain7=0x19c9
-sandstone fountain=$item_sandstone_fountain8=0x19ca
-sandstone fountain=$item_sandstone_fountain9=0x19cb
-sandstone fountain=$item_sandstone_fountain10=0x19cc
-sandstone fountain=$item_sandstone_fountain11=0x19cd
-sandstone fountain=$item_sandstone_fountain12=0x19ce
-sandstone fountain=$item_sandstone_fountain13=0x19cf
-sandstone fountain=$item_sandstone_fountain14=0x19d0
-sandstone fountain=$item_sandstone_fountain15=0x19d1
-sandstone fountain=$item_sandstone_fountain16=0x19d2
-sandstone fountain=$item_sandstone_fountain17=0x19e5
-sandstone fountain=$item_sandstone_fountain18=0x19e9
+fountain spark=$item_fountain=0x090d
+white fountain=$item_white_fountain_deed
+brown fountain=$item_brown_fountain_deed
 }
 Garbage
 {
@@ -494,75 +460,6 @@ key ring=0x17 0x69=0x1769
 key ring=0x17 0x6a=0x176a
 key ring=0x17 0x6b=0x176b
 }
-Telescope
-{
-telescope=0x14 0x59=0x1459
-telescope=0x14 0x5a=0x145a
-telescope=0x14 0x5b=0x145b
-telescope=0x14 0x5c=0x145c
-telescope=0x14 0x5d=0x145d
-telescope=0x14 0x5e=0x145e
-telescope=0x14 0x5f=0x145f
-telescope=0x14 0x60=0x1460
-telescope=0x14 0x61=0x1461
-telescope=0x14 0x62=0x1462
-telescope=0x14 0x63=0x1463
-telescope=0x14 0x64=0x1464
-telescope=0x14 0x65=0x1465
-telescope=0x14 0x66=0x1466
-telescope=0x14 0x67=0x1467
-telescope=0x14 0x68=0x1468
-telescope=0x14 0x69=0x1469
-telescope=0x14 0x6a=0x146a
-telescope=0x14 0x6b=0x146b
-telescope=0x14 0x6c=0x146c
-telescope=0x14 0x6d=0x146d
-telescope=0x14 0x6e=0x146e
-telescope=0x14 0x6f=0x146f
-telescope=0x14 0x70=0x1470
-telescope=0x14 0x71=0x1471
-telescope=0x14 0x72=0x1472
-telescope=0x14 0x73=0x1473
-telescope=0x14 0x74=0x1474
-telescope=0x14 0x75=0x1475
-telescope=0x14 0x76=0x1476
-telescope=0x14 0x77=0x1477
-telescope=0x14 0x78=0x1478
-telescope=0x14 0x79=0x1479
-telescope=0x14 0x7a=0x147a
-telescope=0x14 0x7b=0x147b
-telescope=0x14 0x7c=0x147c
-telescope=0x14 0x7d=0x147d
-telescope=0x14 0x7e=0x147e
-telescope=0x14 0x7f=0x147f
-telescope=0x14 0x80=0x1480
-telescope=0x14 0x81=0x1481
-telescope=0x14 0x82=0x1482
-telescope=0x14 0x83=0x1483
-telescope=0x14 0x84=0x1484
-telescope=0x14 0x85=0x1485
-telescope=0x14 0x86=0x1486
-telescope=0x14 0x87=0x1487
-telescope=0x14 0x88=0x1488
-telescope=0x14 0x89=0x1489
-telescope=0x14 0x8a=0x148a
-telescope=0x14 0x8b=0x148b
-telescope=0x14 0x8c=0x148c
-telescope=0x14 0x8d=0x148d
-telescope=0x14 0x8e=0x148e
-telescope=0x14 0x8f=0x148f
-telescope=0x14 0x90=0x1490
-telescope=0x14 0x91=0x1491
-telescope=0x14 0x92=0x1492
-telescope=0x14 0x93=0x1493
-telescope=0x14 0x94=0x1494
-telescope=0x14 0x95=0x1495
-telescope=0x14 0x96=0x1496
-telescope=0x14 0x97=0x1497
-telescope=0x14 0x98=0x1498
-telescope=0x14 0x99=0x1499
-telescope=0x14 0x9a=0x149a
-}
 Virtue system
 {
 Honest
@@ -744,56 +641,6 @@ hourglass=0x18 0x19=0x1819
 hourglass=0x18 0x1a=0x181a
 hourglass=0x18 0x1b=0x181b
 hourglass=0x18 0x1c=0x181c
-}
-Lighthouse
-{
-lighthouse=0x1a 0xa4=0x1aa4
-lighthouse=0x1a 0xa5=0x1aa5
-lighthouse=0x1a 0xa6=0x1aa6
-lighthouse=0x1a 0xa7=0x1aa7
-lighthouse=0x1a 0xa8=0x1aa8
-lighthouse=0x1a 0xa9=0x1aa9
-lighthouse=0x1a 0xaa=0x1aaa
-lighthouse=0x1a 0xab=0x1aab
-lighthouse=0x1a 0xac=0x1aac
-lighthouse=0x1a 0xad=0x1aad
-lighthouse=0x1a 0xae=0x1aae
-lighthouse=0x1a 0xaf=0x1aaf
-lighthouse=0x1a 0xb0=0x1ab0
-lighthouse=0x1a 0xb1=0x1ab1
-lighthouse=0x1a 0xb2=0x1ab2
-lighthouse=0x1a 0xb3=0x1ab3
-lighthouse=0x1a 0xb4=0x1ab4
-lighthouse=0x1a 0xb5=0x1ab5
-lighthouse=0x1a 0xb6=0x1ab6
-lighthouse=0x1a 0xb7=0x1ab7
-lighthouse=0x1a 0xb8=0x1ab8
-lighthouse=0x1a 0xb9=0x1ab9
-lighthouse=0x1a 0xba=0x1aba
-lighthouse=0x1a 0xbb=0x1abb
-lighthouse=0x1a 0xbc=0x1abc
-lighthouse=0x1a 0xbd=0x1abd
-lighthouse=0x1a 0xbe=0x1abe
-lighthouse=0x1a 0xbf=0x1abf
-lighthouse=0x1a 0xc0=0x1ac0
-lighthouse=0x1a 0xc1=0x1ac1
-lighthouse=0x1a 0xc2=0x1ac2
-lighthouse=0x1a 0xc3=0x1ac3
-lighthouse=0x1a 0xc4=0x1ac4
-lighthouse=0x1a 0xc5=0x1ac5
-lighthouse=0x1a 0xc6=0x1ac6
-lighthouse=0x1a 0xc7=0x1ac7
-lighthouse=0x1a 0xc8=0x1ac8
-lighthouse=0x1a 0xc9=0x1ac9
-lighthouse=0x1a 0xca=0x1aca
-lighthouse=0x1a 0xcb=0x1acb
-lighthouse=0x1a 0xcc=0x1acc
-lighthouse=0x1a 0xcd=0x1acd
-lighthouse=0x1a 0xce=0x1ace
-lighthouse=0x1a 0xcf=0x1acf
-lighthouse=0x1a 0xd0=0x1ad0
-lighthouse=0x1a 0xd1=0x1ad1
-lighthouse=0x1a 0xd2=0x1ad2
 }
 Special items
 {
