@@ -1,1249 +1,846 @@
-format=HH
+format=S
 
-Fences/small walls
+Palisade
 {
-Wooden
-{
-log wall=0x00 0x9a=009a
-log wall=0x00 0x9b=009b
-log wall=0x00 0x9c=009c
-log post=0x00 0x9d=009d
-log wall=0x00 0x9e=009e
-log wall=0x00 0x9f=009f
-log wall=0x00 0xa0=00a0
-log wall=0x00 0xa1=00a1
-log wall=0x00 0xa2=00a2
-log wall=0x00 0xa3=00a3
-log wall=0x00 0xa4=00a4
-log wall=0x00 0xa5=00a5
-log post=0x01 0x47=0147
-log post=0x01 0x48=0148
-wooden wall=0x02 0x2a=022a
-wooden wall=0x02 0x2b=022b
-wooden wall=0x00 0x10=0010
-wooden wall=0x00 0x11=0011
-wooden wall=0x00 0x12=0012
-wooden post=0x00 0x13=0013
-wooden wall=0x00 0x14=0014
-wooden wall=0x00 0x15=0015
-wooden wall=0x00 0x16=0016
-wooden post=0x00 0x17=0017
-wooden wall=0x00 0x18=0018
-wooden wall=0x00 0x19=0019
-wooden wall=0x00 0xb6=00b6
-wooden wall=0x00 0xb7=00b7
-wooden wall=0x00 0xb8=00b8
-wooden wall=0x00 0xbd=00bd
-wooden wall=0x00 0xbe=00be
-wooden wall=0x00 0xbf=00bf
-wooden post=0x00 0xc0=00c0
-wooden wall=0x00 0xc1=00c1
-wooden wall=0x00 0xc2=00c2
-wooden fence=0x03 0xb3=03b3
-wooden fence=0x03 0xb4=03b4
-wooden fence=0x03 0xb5=03b5
-wooden fence=0x08 0x35=0835
-wooden fence=0x08 0x36=0836
-wooden fence=0x08 0x37=0837
-wooden fence=0x08 0x5c=085c
-wooden fence=0x08 0x5d=085d
-wooden fence=0x08 0x5e=085e
-wooden fence=0x08 0x5f=085f
-wooden fence=0x08 0x60=0860
-wooden fence=0x08 0x61=0861
-wooden fence=0x08 0x62=0862
-wooden fence=0x08 0x63=0863
-wooden fence=0x08 0x64=0864
-wooden fence=0x08 0x65=0865
-wooden fence=0x08 0x77=0877
-wooden fence=0x08 0x78=0878
-wooden fence=0x08 0x8a=088a
-wooden fence=0x08 0x8b=088b
-wooden rail=0x08 0x7e=087e
-wooden rail=0x08 0x7f=087f
-wooden rail=0x08 0x80=0880
-wooden rail=0x08 0x81=0881
-wooden rail=0x08 0x82=0882
-wooden rail=0x08 0x83=0883
-wooden rail=0x08 0x84=0884
-wooden rail=0x08 0x85=0885
-wooden rail=0x08 0x86=0886
-wooden rail=0x08 0x87=0887
-wooden rail=0x08 0x88=0888
-wooden rail=0x08 0x89=0889
-pier=03 0xa5=03a5
-rope=03 0xa6=03a6
-rope=03 0xa7=03a7
-rope=03 0xa8=03a8
-rope=03 0xa9=03a9
-pier=03 0xaa=03aa
-pier=03 0xab=03ab
-pier=03 0xac=03ac
-pier=03 0xad=03ad
-pier=03 0xae=03ae
-pier=03 0xaf=03af
-pier=03 0xb0=03b0
-LBR
-{
-wooden fence=0x21 0xd1=0x21d1
-wooden fence=0x21 0xd2=0x21d2
-wooden fence=0x21 0xd3=0x21d3
-wooden fence=0x21 0xd4=0x21d4
-wooden wall=0x21 0xcd=0x21cd
-wooden wall=0x21 0xce=0x21ce
-wooden wall=0x21 0xcf=0x21cf
-wooden wall=0x21 0xd0=0x21d0
-wooden fence=0x21 0xd1=0x21d1
-wooden fence=0x21 0xd2=0x21d2
-wooden fence=0x21 0xd3=0x21d3
-wooden fence=0x21 0xd4=0x21d4
-}
-}
-Iron
-{
-iron fence=0x08 0x21=0821
-iron fence=0x08 0x22=0822
-iron fence=0x08 0x23=0823
-iron fence=0x08 0x49=0849
-iron fence=0x08 0x4a=084a
-iron fence=0x08 0x4b=084b
-}
-Stone/Wood
-{
-sandstone rail=0x08 0xf3=08f3
-sandstone rail=0x08 0xf4=08f4
-sandstone rail=0x08 0xf5=08f5
-sandstone rail=0x08 0xf6=08f6
-stone rail=0x08 0xf7=08f7
-stone rail=0x08 0xf8=08f8
-stone rail=0x08 0xf9=08f9
-stone rail=0x08 0xfa=08fa
-stone rail=0x08 0xfb=08fb
-stone rail=0x08 0xfc=08fc
-stone rail=0x08 0xeb=08eb
-stone rail=0x08 0xec=08ec
-stone rail=0x08 0xed=08ed
-stone rail=0x08 0xee=08ee
-stone rail=0x08 0xef=08ef
-stone rail=0x08 0xf0=08f0
-stone rail=0x08 0xf1=08f1
-stone rail=0x08 0xf2=08f2
-railing=0x07 0xd7=07d7
-railing=0x07 0xd8=07d8
-stone post=0x07 0xd6=07d6
-}
-Cave
-{
-cave wall=0x02 0x70=0270
-cave wall=0x02 0x71=0271
-cave wall=0x02 0x72=0272
-cave wall=0x02 0x73=0273
-cave wall=0x02 0x74=0274
-cave wall=0x02 0x75=0275
-cave wall=0x02 0x76=0276
-cave wall=0x02 0x7d=027d
-cave wall=0x02 0x7e=027e
-cave wall=0x02 0x7f=027f
-cave wall=0x02 0x80=0280
-}
-Sandstone
-{
-sandstone wall=0x01 0x64=0164
-sandstone wall=0x01 0x65=0165
-sandstone wall=0x01 0x66=0166
-sandstone post=0x01 0x67=0167
-sandstone wall=0x01 0x68=0168
-sandstone wall=0x01 0x69=0169
-sandstone wall=0x01 0x6a=016a
-sandstone post=0x01 0x6b=016b
-sandstone wall=0x01 0x82=0182
-sandstone wall=0x01 0x83=0183
-sandstone wall=0x01 0x84=0184
-sandstone wall=0x01 0x85=0185
-sandstone wall=0x01 0x97=0197
-sandstone wall=0x01 0x98=0198
-sandstone wall=0x01 0x99=0199
-sandstone wall=0x01 0x9a=019a
-sandstone wall=0x01 0xb1=01b1
-sandstone wall=0x01 0xb2=01b2
-sandstone wall=0x01 0xb3=01b3
-sandstone wall=0x01 0xb4=01b4
-sandstone wall=0x01 0xca=01ca
-wall=0x01 0xec=01ec
-wall=0x01 0xed=01ed
-wall=0x01 0xee=01ee
-wall=0x01 0xef=01ef
-wall=0x02 0x0b=020b
-wall=0x02 0x0c=020c
-}
-Marble
-{
-marble wall=0x01 0x0a=010a
-marble wall=0x01 0x0b=010b
-marble wall=0x01 0x0c=010c
-marble wall=0x01 0x0d=010d
-marble wall=0x01 0x0e=010e
-marble wall=0x01 0x0f=010f
-marble wall=0x01 0x10=0110
-marble wall=0x01 0x11=0111
-marble wall=0x01 0x17=0117
-marble wall=0x01 0x18=0118
-marble wall=0x01 0x19=0119
-marble wall=0x01 0x1a=011a
-marble wall=0x01 0x25=0125
-marble wall=0x01 0x26=0126
-marble wall=0x02 0xa1=02a1
-marble wall=0x02 0xa2=02a2
-marble wall=0x02 0xa3=02a3
-marble wall=0x02 0xa4=02a4
-marble wall=0x02 0xa5=02a5
-marble wall=0x02 0xa6=02a6
-marble wall=0x02 0xb5=02b5
-marble wall=0x02 0xb6=02b6
-marble wall=0x02 0xb7=02b7
-marble wall=0x02 0xb8=02b8
-marble wall=0x02 0xb9=02b9
-marble wall=0x02 0xba=02ba
-marble wall=0x02 0xbb=02bb
-marble wall=0x02 0xbc=02bc
-marble wall=0x04 0x42=0442
-marble wall=0x04 0x43=0443
-marble wall=0x04 0x44=0444
-marble wall=0x04 0x45=0445
-wall=0x04 0x50=0450
-wall=0x04 0x51=0451
-wall=0x04 0x52=0452
-wall=0x04 0x53=0453
-}
-Pflaster
-{
-plaster wall=0x01 0x4a=014a
-plaster wall=0x01 0x4b=014b
-wooden 0xbeam=0x01 0x41=0141
-wooden 0xbeam=0x01 0x42=0142
-wooden 0xbeam=0x01 0x43=0143
-wooden 0xbeam=0x01 0x44=0144
-wooden 0xbeam=0x03 0x9c=039c
-wooden 0xbeam=0x03 0x9d=039d
-wooden 0xbeam=0x03 0x9e=039e
-wooden 0xbeam=0x03 0x9f=039f
-}
-Hide
-{
-hide wall=0x01 0xc8=01c8
-hide wall=0x01 0xc9=01c9
+palisade wall=$item_palisade_wall_20=0421
+palisade wall=$item_palisade_wall_21=0422
+palisade wall=$item_palisade_wall_22=0423
+palisade wall=$item_palisade_wall_23=0424
+palisade wall=$item_palisade_wall_24=0425
+palisade wall=$item_palisade_wall_25=0430
+palisade wall=$item_palisade_wall_26=0431
 }
 Brick
 {
-brick wall=0x00 0x3d=003d
-brick wall=0x00 0x3e=003e
-brick wall=0x00 0x3f=003f
-brick wall=0x00 0x40=0040
-brick wall=0x00 0x41=0041
-brick wall=0x00 0x42=0042
-brick wall=0x00 0x43=0043
-brick wall=0x00 0x44=0044
-brick wall=0x00 0x4e=004e
-brick wall=0x00 0x4f=004f
-brick wall=0x00 0x50=0050
-brick wall=0x00 0x51=0051
-brick wall=0x00 0x52=0052
-brick wall=0x00 0x53=0053
-brick wall=0x00 0x54=0054
-brick wall=0x00 0x55=0055
-brick wall=0x00 0x56=0056
+brick wall=$item_brick_wall1_1=0033
+brick wall=$item_brick_wall1_2=0034
+brick wall=$item_brick_wall1_3=0035
+brick wall=$item_brick_wall1_4=0036
+brick wall=$item_brick_wall1_5=0037
+brick wall=$item_brick_wall1_6=0038
+brick wall=$item_brick_wall1_7=0039
+brick wall=$item_brick_wall1_8=003A
+brick wall=$item_brick_wall1_9=003B
+brick wall=$item_brick_wall1_10=003C
+brick wall=$item_brick_wall1_11=003D
+brick wall=$item_brick_wall1_12=003E
+brick wall=$item_brick_wall1_13=003F
+brick wall=$item_brick_wall1_14=0040
+brick wall=$item_brick_wall1_15=0041
+brick wall=$item_brick_wall1_16=0042
+brick wall=$item_brick_wall1_17=0043
+brick wall=$item_brick_wall1_18=0044
+brick wall=$item_brick_wall1_19=0045
+brick wall=$item_brick_wall1_20=0046
+brick wall=$item_brick_wall1_21=0047
+brick wall=$item_brick_wall1_22=0048
+brick wall=$item_brick_wall1_23=0049
+brick wall=$item_brick_wall1_24=004A
+brick wall=$item_brick_wall1_25=004B
+brick wall=$item_brick_wall1_26=004C
+brick wall=$item_brick_wall1_27=004D
+brick wall=$item_brick_wall1_28=004E
+brick wall=$item_brick_wall1_29=004F
+brick wall=$item_brick_wall1_30=0050
+brick wall=$item_brick_wall1_31=0051
+brick wall=$item_brick_wall1_32=0052
+brick wall=$item_brick_wall1_33=0053
+brick wall=$item_brick_wall1_34=0054
+brick wall=$item_brick_wall1_35=0055
+brick wall=$item_brick_wall1_36=0056
 }
-ruined walls
+Stone 1
 {
-stone 0xruins=03 0xb7=03b7
-stone 0xruins=03 0xb8=03b8
-stone 0xruins=03 0xb9=03b9
-stone 0xruins=03 0xba=03ba
-stone 0xruins=03 0xbb=03bb
-stone 0xruins=03 0xbc=03bc
-stone 0xruins=03 0xbd=03bd
-stone wall=0x03 0xbe=03be
-stone 0xruins=03 0xbf=03bf
-stone 0xruins=03 0xc3=03c3
-stone 0xruins=03 0xc4=03c4
-stone 0xruins=03 0xc5=03c5
-stone 0xruins=03 0xc6=03c6
+stone wall=$item_stone_wall1_1= 001A
+stone wall=$item_stone_wall1_2=001B
+stone wall=$item_stone_wall1_3=001C
+stone wall=$item_stone_wall1_4=001D
+stone wall=$item_stone_wall1_5=001E
+stone wall=$item_stone_wall1_6=001F
+stone wall=$item_stone_wall1_7=0020
+stone wall=$item_stone_wall1_8=0021
+stone wall=$item_stone_wall1_9=0022
+stone wall=$item_stone_wall1_10=0023
+stone wall=$item_stone_wall1_11=0024
+stone wall=$item_stone_wall1_12=0025
+stone wall=$item_stone_wall1_13=0026
+stone wall=$item_stone_wall1_14=0027
+stone wall=$item_stone_wall1_15=0028
+stone wall=$item_stone_wall1_16=0029
+stone wall=$item_stone_wall1_17=002A
+stone wall=$item_stone_wall1_18=002B
+stone wall=$item_stone_wall1_19=002C
+stone wall=$item_stone_wall1_20=002D
+stone wall=$item_stone_wall1_21=002E
+stone wall=$item_stone_wall1_22=002F
+stone wall=$item_stone_wall1_23=0030
+stone wall=$item_stone_wall1_24=0031
+stone wall=$item_stone_wall1_25=0032
 }
-Stone
+Stone 2
 {
-stone wall=0x03 0xcf=03cf
-stone wall=0x03 0xd0=03d0
-stone wall=0x03 0xd1=03d1
-stone wall=0x03 0xd2=03d2
-stone wall=0x03 0x64=0364
-stone wall=0x03 0x65=0365
-stone wall=0x02 0xce=02ce
-stone wall=0x02 0xcf=02cf
-stone wall=0x02 0xd0=02d0
-stone wall=0x02 0xd1=02d1
-stone wall=0x02 0xd2=02d2
-stone wall=0x02 0xd3=02d3
-stone wall=0x02 0xd4=02d4
-stone wall=0x02 0xd5=02d5
-stone wall=0x02 0xd6=02d6
-stone wall=0x02 0xd7=02d7
-stone wall=0x02 0xd8=02d8
-stone wall=0x02 0xd9=02d9
-stone wall=0x01 0xe8=01e8
-stone wall=0x01 0xe9=01e9
-stone wall=0x01 0xea=01ea
-stone wall=0x01 0xeb=01eb
-stone wall=0x00 0xe6=00e6
-stone wall=0x00 0xe7=00e7
-stone wall=0x00 0x78=0078
-stone wall=0x00 0x79=0079
-stone wall=0x00 0x5f=005f
-stone wall=0x00 0x60=0060
-stone wall=0x00 0x61=0061
-stone wall=0x00 0x62=0062
-stone wall=0x00 0x63=0063
-stone wall=0x00 0x64=0064
-stone wall=0x00 0x65=0065
-stone wall=0x00 0x66=0066
-stone wall=0x00 0x67=0067
-stone wall=0x00 0x68=0068
-stone wall=0x00 0x69=0069
-stone wall=0x00 0x6a=006a
-stone wall=0x00 0x6b=006b
-stone wall=0x00 0x6c=006c
-stone wall=0x00 0x2d=002d
-stone wall=0x00 0x2e=002e
-stone wall=0x00 0x2f=002f
-stone wall=0x00 0x30=0030
-stone wall=0x00 0x31=0031
-stone wall=0x00 0x32=0032
-stone wall=0x00 0x24=0024
-stone wall=0x00 0x25=0025
-stone wall=0x00 0x26=0026
-stone wall=0x00 0x27=0027
-stone wall=0x00 0xdc=00dc
-stone wall=0x00 0xdd=00dd
-stone wall=0x00 0xde=00de
-stone post=0x00 0xdf=00df
-dungeon=0x02 0x47=0247
-dungeon=0x02 0x48=0248
-dungeon wall=0x02 0xf9=02f9
-dungeon wall=0x02 0xfa=02fa
-dungeon wall=0x02 0xfb=02fb
-dungeon wall=0x02 0xfc=02fc
-dungeon wall=0x02 0xfd=02fd
-dungeon wall=0x02 0xfe=02fe
-dungeon wall=0x02 0xff=02ff
-dungeon wall=0x03 0x00=0300
+stone wall=$item_stone_wall2_1=0057
+stone wall=$item_stone_wall2_2=0058
+stone wall=$item_stone_wall2_3=0059
+stone wall=$item_stone_wall2_4=005A
+stone wall=$item_stone_wall2_5=005B
+stone wall=$item_stone_wall2_6=005C
+stone wall=$item_stone_wall2_7=005D
+stone wall=$item_stone_wall2_8=005E
+stone wall=$item_stone_wall2_9=005F
+stone wall=$item_stone_wall2_10=0060
+stone wall=$item_stone_wall2_11=0061
+stone wall=$item_stone_wall2_12=0062
+stone wall=$item_stone_wall2_13=0063
+stone wall=$item_stone_wall2_14=0064
+stone wall=$item_stone_wall2_15=0065
+stone wall=$item_stone_wall2_16=0066
+stone wall=$item_stone_wall2_17=0067
+stone wall=$item_stone_wall2_18=0068
+stone wall=$item_stone_wall2_19=0069
+stone wall=$item_stone_wall2_20=006A
+stone wall=$item_stone_wall2_21=006B
+stone wall=$item_stone_wall2_22=006C
+stone wall=$item_stone_wall2_23=006D
+stone wall=$item_stone_wall2_24=006E
+stone wall=$item_stone_wall2_25=006F
+stone wall=$item_stone_wall2_26=0070
+stone wall=$item_stone_wall2_27=0071
+stone wall=$item_stone_wall2_28=0072
+stone wall=$item_stone_wall2_29=0073
+stone wall=$item_stone_wall2_30=0074
+stone wall=$item_stone_wall2_31=0075
+stone wall=$item_stone_wall2_32=0076
+stone wall=$item_stone_wall2_33=0077
+stone wall=$item_stone_wall2_34=0078
+stone wall=$item_stone_wall2_35=0079
 }
+Stone 3
+{
+stone wall=$item_stone_wall3_1=007A
+stone wall=$item_stone_wall3_2=007B
+stone wall=$item_stone_wall3_3=007C
+stone wall=$item_stone_wall3_4=007D
+stone wall=$item_stone_wall3_5=007E
+stone wall=$item_stone_wall3_6=007F
+stone wall=$item_stone_wall3_7=0080
+stone wall=$item_stone_wall3_8=0081
+stone wall=$item_stone_wall3_9=0082
+stone wall=$item_stone_wall3_10=0083
+stone wall=$item_stone_wall3_11=0084
+stone wall=$item_stone_wall3_12=0085
+stone wall=$item_stone_wall3_13=0086
+stone wall=$item_stone_wall3_14=0087
+stone wall=$item_stone_wall3_15=0088
+stone wall=$item_stone_wall3_16=0089
+stone wall=$item_stone_wall3_17=008A
+stone wall=$item_stone_wall3_18=008B
+stone wall=$item_stone_wall3_19=008C
+stone wall=$item_stone_wall3_20=008D
+stone wall=$item_stone_wall3_21=008E
+stone wall=$item_stone_wall3_22=008F
 }
-
-Walls
+Stone 4
 {
-Wooden
-{
-wooden wall=0x00 0x06=0006
-wooden wall=0x00 0x07=0007
-wooden wall=0x00 0x08=0008
-wooden post=0x00 0x09=0009
-wooden wall=0x00 0x0a=000a
-wooden wall=0x00 0x0b=000b
-wooden wall=0x00 0x0c=000c
-wooden wall=0x00 0x0d=000d
-wooden wall=0x00 0xa6=00a6
-wooden wall=0x00 0xa7=00a7
-wooden wall=0x00 0xa8=00a8
-wooden post=0x00 0xa9=00a9
-wooden wall=0x00 0xaa=00aa
-wooden wall=0x00 0xab=00ab
-wooden wall=0x00 0xac=00ac
-wooden wall=0x00 0xad=00ad
-wooden wall=0x00 0xae=00ae
-wooden wall=0x00 0xaf=00af
-wooden wall=0x00 0xb0=00b0
-wooden post=0x00 0xb1=00b1
-wooden wall=0x00 0xb2=00b2
-wooden wall=0x00 0xb3=00b3
-wooden wall=0x00 0xb4=00b4
-wooden wall=0x00 0xb5=00b5
-wooden wall=0x02 0x26=0226
-wooden wall=0x02 0x27=0227
-wooden wall=0x02 0x28=0228
-wooden post=0x02 0x29=0229
-wooden wall=0x03 0x34=0334
-secret door=0x03 0x35=0335
-wooden wall=0x03 0x36=0336
-secret door=0x03 0x37=0337
-wooden wall=0x03 0x38=0338
-secret door=0x03 0x39=0339
-wooden wall=0x03 0x3a=033a
-secret door=0x03 0x3b=033b
-wooden wall=0x03 0x3c=033c
-secret door=0x03 0x3d=033d
-wooden wall=0x03 0x3e=033e
-secret door=0x03 0x3f=033f
-wooden wall=0x03 0x40=0340
-secret door=0x03 0x41=0341
-wooden wall=0x03 0x42=0342
-secret door=0x03 0x43=0343
-wooden wall=0x03 0x44=0344
-secret door=0x03 0x45=0345
-wooden wall=0x03 0x46=0346
-secret door=0x03 0x47=0347
-wooden wall=0x03 0x48=0348
-secret door=0x03 0x49=0349
-wooden wall=0x03 0x4a=034a
-secret door=0x03 0x4b=034b
-wooden wall=0x03 0x4c=034c
-secret door=0x03 0x4d=034d
-wooden wall=0x03 0x4e=034e
-secret door=0x03 0x4f=034f
-wooden wall=0x03 0x50=0350
-secret door=0x03 0x51=0351
-wooden wall=0x03 0x52=0352
-secret door=0x03 0x53=0353
-log post=0x01 0x45=0145
-log post=0x01 0x46=0146
-LBR
-{
-wooden wall=0x21 0xa9=0x21a9
-wooden wall=0x21 0xaa=0x21aa
-wooden wall=0x21 0xab=0x21ab
-wooden wall=0x21 0xac=0x21ac
-wooden wall=0x21 0xad=0x21ad
-wooden wall=0x21 0xae=0x21ae
-wooden wall=0x21 0xaf=0x21af
-wooden wall=0x21 0xb0=0x21b0
-wooden wall=0x21 0xd5=0x21d5
-wooden wall=0x21 0xd6=0x21d6
-wooden wall=0x21 0xd7=0x21d7
-wooden wall=0x21 0xd8=0x21d8
-wooden wall=0x21 0xd9=0x21d9
-wooden wall=0x21 0xda=0x21da
-wooden wall=0x21 0xdc=0x21dc
+stone wall=$item_stone_wall4_1=00C5
+stone wall=$item_stone_wall4_2=00C6
+stone wall=$item_stone_wall4_3=00C7
+stone wall=$item_stone_wall4_4=00C8
+stone wall=$item_stone_wall4_5=00C9
+stone wall=$item_stone_wall4_6=00CA
+stone wall=$item_stone_wall4_7=00CB
+stone wall=$item_stone_wall4_8=00CC
+stone wall=$item_stone_wall4_9=00CD
+stone wall=$item_stone_wall4_10=00CE
+stone wall=$item_stone_wall4_11=00CF
+stone wall=$item_stone_wall4_12=00D0
+stone wall=$item_stone_wall4_13=00D1
+stone wall=$item_stone_wall4_14=00D2
+stone wall=$item_stone_wall4_15=00D3
+stone wall=$item_stone_wall4_16=00D4
+stone wall=$item_stone_wall4_17=00D5
+stone wall=$item_stone_wall4_18=00D6
+stone wall=$item_stone_wall4_19=00D7
+stone wall=$item_stone_wall4_20=00D8
+stone wall=$item_stone_wall4_21=00D9
+stone wall=$item_stone_wall4_22=00DA
+stone wall=$item_stone_wall4_23=00DB
+stone wall=$item_stone_wall4_24=00DC
+stone wall=$item_stone_wall4_25=00DD
+stone wall=$item_stone_wall4_26=00DE
+stone wall=$item_stone_wall4_27=00DF
+stone wall=$item_stone_wall4_28=00E0
+stone wall=$item_stone_wall4_29=00E1
+stone wall=$item_stone_wall4_30=00E2
+stone wall=$item_stone_wall4_31=00E3
+stone wall=$item_stone_wall4_32=00E4
+stone wall=$item_stone_wall4_33=00E5
+stone wall=$item_stone_wall4_34=00E6
+stone wall=$item_stone_wall4_35=00E7
+stone wall=$item_stone_wall4_36=00E8
+stone wall=$item_stone_wall4_37=00E9
+stone wall=$item_stone_wall4_38=00EA
+stone wall=$item_stone_wall4_39=00EB
+stone wall=$item_stone_wall4_40=00EC
+stone wall=$item_stone_wall4_41=00ED
+stone wall=$item_stone_wall4_42=00EE
+stone wall=$item_stone_wall4_43=00EF
+stone wall=$item_stone_wall4_44=00F0
+stone wall=$item_stone_wall4_45=00F1
+stone wall=$item_stone_wall4_46=00F2
+stone wall=$item_stone_wall4_47=00F3
+stone wall=$item_stone_wall4_48=00F4
+stone wall=$item_stone_wall4_49=00F5
+stone wall=$item_stone_wall4_50=00F6
+stone wall=$item_stone_wall4_51=00F7
+stone wall=$item_stone_wall4_52=02C7
+stone wall=$item_stone_wall4_53=02C8
+stone wall=$item_stone_wall4_54=02C9
+stone wall=$item_stone_wall4_55=02CA
+stone wall=$item_stone_wall4_56=02CB
+stone wall=$item_stone_wall4_57=02CC
+stone wall=$item_stone_wall4_58=02CD
+stone wall=$item_stone_wall4_59=02CE
+stone wall=$item_stone_wall4_60=02CF
+stone wall=$item_stone_wall4_61=02D0
+stone wall=$item_stone_wall4_62=02D1
+stone wall=$item_stone_wall4_63=02D2
+stone wall=$item_stone_wall4_64=02D3
+stone wall=$item_stone_wall4_65=02D4
+stone wall=$item_stone_wall4_66=02D5
+stone wall=$item_stone_wall4_67=02D6
+stone wall=$item_stone_wall4_68=02D7
+stone wall=$item_stone_wall4_69=02D8
+stone wall=$item_stone_wall4_70=02D9
 }
-}
-Stone
+Stone 5
 {
-stone wall=0x00 0x1a=001a
-stone wall=0x00 0x1b=001b
-stone wall=0x00 0x1c=001c
-stone wall=0x00 0x1d=001d
-stone wall=0x00 0x1e=001e
-stone wall=0x00 0x1f=001f
-stone wall=0x00 0x20=0020
-stone wall=0x00 0x21=0021
-stone wall=0x00 0x57=0057
-stone wall=0x00 0x58=0058
-stone wall=0x00 0x59=0059
-stone wall=0x00 0x5a=005a
-battlement=0x00 0x72=0072
-battlement=0x00 0x73=0073
-battlement=0x00 0x74=0074
-battlement=0x00 0x75=0075
-battlement=0x00 0x76=0076
-stone wall=0x00 0x80=0080
-stone wall=0x00 0x81=0081
-stone wall=0x00 0x82=0082
-stone wall=0x00 0x84=0084
-stone wall=0x00 0x88=0088
-stone wall=0x00 0x89=0089
-stone wall=0x00 0x8c=008c
-stone wall=0x00 0x8e=008e
-stone wall=0x00 0xc5=00c5
-stone wall=0x00 0xc7=00c7
-stone wall=0x00 0xc8=00c8
-stone wall=0x00 0xc9=00c9
-stone post=0x00 0xcc=00cc
-stone buttress=0x00 0xd2=00d2
-stone buttress=0x00 0xd3=00d3
-stone wall=0x00 0xe8=00e8
-secret door=0x00 0xe9=00e9
-stone wall=0x00 0xea=00ea
-secret door=0x00 0xeb=00eb
-stone wall=0x00 0xec=00ec
-secret door=0x00 0xed=00ed
-stone wall=0x00 0xee=00ee
-secret door=0x00 0xef=00ef
-stone wall=0x00 0xf0=00f0
-secret door=0x00 0xf1=00f1
-stone wall=0x00 0xf2=00f2
-secret door=0x00 0xf3=00f3
-stone wall=0x00 0xf4=00f4
-secret door=0x00 0xf5=00f5
-stone wall=0x00 0xf6=00f6
-secret door=0x00 0xf7=00f7
-stone wall=0x01 0xcf=01cf
-stone wall=0x01 0xd0=01d0
-stone wall=0x01 0xd1=01d1
-stone post=0x01 0xd2=01d2
-dungeon wall=0x02 0x41=0241
-dungeon wall=0x02 0x42=0242
-dungeon wall=0x02 0x43=0243
-dungeon wall=0x02 0x44=0244
-dungeon wall=0x03 0x14=0314
-secret door=0x03 0x15=0315
-dungeon wall=0x03 0x16=0316
-secret door=0x03 0x17=0317
-dungeon wall=0x03 0x18=0318
-secret door=0x03 0x19=0319
-dungeon wall=0x03 0x1a=031a
-secret door=0x03 0x1b=031b
-dungeon wall=0x03 0x1c=031c
-secret door=0x03 0x1d=031d
-dungeon wall=0x03 0x1e=031e
-secret door=0x03 0x1f=031f
-dungeon wall=0x03 0x20=0320
-secret door=0x03 0x21=0321
-dungeon wall=0x03 0x22=0322
-secret door=0x03 0x23=0323
-LBR
-{
-dungeon wall=0x21 0xdd=0x21dd
-dungeon wall=0x21 0xde=0x21de
-dungeon wall=0x21 0xdf=0x21df
-dungeon wall=0x21 0xe0=0x21e0
-dungeon wall=0x21 0xe1=0x21e1
-dungeon wall=0x21 0xe2=0x21e2
-dungeon wall=0x21 0xe3=0x21e3
-dungeon wall=0x21 0xe4=0x21e4
-dungeon wall=0x21 0xe5=0x21e5
-dungeon wall=0x21 0xe6=0x21e6
-dungeon wall=0x21 0xe7=0x21e7
-dungeon wall=0x21 0xe8=0x21e8
+stone wall=$item_stone_wall5_1=01CF
+stone wall=$item_stone_wall5_2=01D0
+stone wall=$item_stone_wall5_3=01D1
+stone wall=$item_stone_wall5_4=01D2
+stone wall=$item_stone_wall5_5=01D3
+stone wall=$item_stone_wall5_6=01D4
+stone wall=$item_stone_wall5_7=01D5
+stone wall=$item_stone_wall5_8=01D6
+stone wall=$item_stone_wall5_9=01D7
+stone wall=$item_stone_wall5_10=01D8
+stone wall=$item_stone_wall5_11=01D9
+stone wall=$item_stone_wall5_12=01DA
+stone wall=$item_stone_wall5_13=01DB
+stone wall=$item_stone_wall5_14=01DC
+stone wall=$item_stone_wall5_15=01DD
+stone wall=$item_stone_wall5_16=01DE
+stone wall=$item_stone_wall5_17=01DF
+stone wall=$item_stone_wall5_18=01E0
+stone wall=$item_stone_wall5_19=01E1
+stone wall=$item_stone_wall5_20=01E2
+stone wall=$item_stone_wall5_21=01E3
+stone wall=$item_stone_wall5_22=01E4
+stone wall=$item_stone_wall5_23=01E5
+stone wall=$item_stone_wall5_24=01E6
+stone wall=$item_stone_wall5_25=01E7
+stone wall=$item_stone_wall5_26=01E8
+stone wall=$item_stone_wall5_27=01E9
+stone wall=$item_stone_wall5_28=01EA
+stone wall=$item_stone_wall5_29=01EB
 }
-stone wall=0x03 0x24=0324
-secret door=0x03 0x25=0325
-stone wall=0x03 0x26=0326
-secret door=0x03 0x27=0327
-stone wall=0x03 0x28=0328
-secret door=0x03 0x29=0329
-stone wall=0x03 0x2a=032a
-secret door=0x03 0x2b=032b
-stone wall=0x03 0x2c=032c
-secret door=0x03 0x2d=032d
-stone wall=0x03 0x2e=032e
-secret door=0x03 0x2f=032f
-stone wall=0x03 0x30=0330
-secret door=0x03 0x31=0331
-stone wall=0x03 0x32=0332
-secret door=0x03 0x33=0333
-stone wall=0x03 0x54=0354
-secret door=0x03 0x55=0355
-stone wall=0x03 0x56=0356
-secret door=0x03 0x57=0357
-stone wall=0x03 0x58=0358
-secret door=0x03 0x59=0359
-stone wall=0x03 0x5a=035a
-secret door=0x03 0x5b=035b
-stone wall=0x03 0x5c=035c
-secret door=0x03 0x5d=035d
-stone wall=0x03 0x5e=035e
-secret door=0x03 0x5f=035f
-stone wall=0x03 0x60=0360
-secret door=0x03 0x61=0361
-stone wall=0x03 0x62=0362
-secret door=0x03 0x63=0363
-stone wall=0x03 0xc0=03c0
-stone wall=0x03 0xc1=03c1
-stone wall=0x03 0xc2=03c2
-stone wall=0x03 0xc7=03c7
-stone wall=0x03 0xc8=03c8
-stone wall=0x03 0xc9=03c9
-stone wall=0x03 0xca=03ca
-stone wall=0x03 0xcb=03cb
-stone wall=0x03 0xcc=03cc
-stone wall=0x03 0xcd=03cd
-stone wall=0x03 0xce=03ce
-stone wall=0x03 0xd3=03d3
-stone wall=0x03 0xd4=03d4
-stone wall=0x03 0xd5=03d5
-stone wall=0x03 0xd6=03d6
-stone wall=0x03 0xd7=03d7
-stone wall=0x03 0xd8=03d8
-stone wall=0x03 0xd9=03d9
-stone wall=0x03 0xda=03da
-stone wall=0x03 0xdb=03db
-stone wall=0x03 0xdc=03dc
-stone wall=0x03 0xe0=03e0
-stone wall=0x03 0xe1=03e1
-stone wall=0x03 0xe2=03e2
-battlement=0x02 0xc7=02c7
-battlement=0x02 0xc8=02c8
-battlement=0x02 0xc9=02c9
-battlement=0x02 0xca=02ca
-battlement=0x02 0xcb=02cb
-battlement=0x02 0xcc=02cc
-battlement=0x02 0xcd=02cd
-battlement=0x01 0xa4=01a4
-jungle wall=0x24 0xea=0x24ea
-jungle wall=0x25 0x3f=0x253f
-jungle wall=0x25 0x40=0x2540
-jungle wall=0x25 0x41=0x2541
-jungle wall=0x25 0x42=0x2542
-jungle wall=0x25 0x43=0x2543
-jungle wall=0x25 0x44=0x2544
-jungle wall=0x25 0x45=0x2545
-jungle wall=0x25 0x46=0x2546
-jungle wall=0x25 0x47=0x2547
-jungle wall=0x25 0x48=0x2548
-jungle wall=0x25 0x49=0x2549
-jungle wall=0x25 0x4a=0x254a
-jungle wall=0x25 0x4b=0x254b
-jungle wall=0x25 0x4c=0x254c
-jungle wall=0x25 0x4d=0x254d
-jungle wall=0x25 0x4f=0x254f
-jungle wall=0x25 0x50=0x2550
-jungle wall=0x25 0x51=0x2551
-jungle wall=0x25 0x52=0x2552
-jungle wall=0x25 0x53=0x2553
-}
-Brick
+Stone 6
 {
-brick wall=0x00 0x33=0033
-brick wall=0x00 0x34=0034
-brick wall=0x00 0x35=0035
-brick wall=0x00 0x36=0036
-brick wall=0x00 0x37=0037
-brick wall=0x00 0x38=0038
-brick wall=0x00 0x39=0039
-brick wall=0x00 0x3a=003a
-brick wall=0x00 0x4a=004a
-brick wall=0x00 0x4b=004b
-brick wall=0x00 0x4c=004c
-brick wall=0x00 0x4d=004d
+stone wall=$item_stone_wall6_1=03CB
+stone wall=$item_stone_wall6_2=03CC
+stone wall=$item_stone_wall6_3=03CD
+stone wall=$item_stone_wall6_4=03CE
+stone wall=$item_stone_wall6_5=03CF
+stone wall=$item_stone_wall6_6=03D0
+stone wall=$item_stone_wall6_7=03D1
+stone wall=$item_stone_wall6_8=03D2
+stone wall=$item_stone_wall6_9=03D3
+stone wall=$item_stone_wall6_10=03D4
+stone wall=$item_stone_wall6_11=03D5
+stone wall=$item_stone_wall6_12=03D6
+stone wall=$item_stone_wall6_13=03D7
+stone wall=$item_stone_wall6_14=03D8
+stone wall=$item_stone_wall6_15=03D9
+stone wall=$item_stone_wall6_16=03DA
+stone wall=$item_stone_wall6_17=03DB
+stone wall=$item_stone_wall6_18=03DC
+stone wall=$item_stone_wall6_19=03DD
+stone wall=$item_stone_wall6_20=03DE
+stone wall=$item_stone_wall6_21=03DF
+stone wall=$item_stone_wall6_22=03E0
+stone wall=$item_stone_wall6_23=03E1
+stone wall=$item_stone_wall6_24=03E2
 }
 Log
 {
-log wall=0x00 0x90=0090
-log wall=0x00 0x91=0091
-log wall=0x00 0x92=0092
-log post=0x00 0x93=0093
-log wall=0x00 0x94=0094
-log wall=0x00 0x95=0095
-log wall=0x00 0x96=0096
-log wall=0x00 0x97=0097
-LBR
-{
-log wall=0x21 0xb1=0x21b1
-log wall=0x21 0xb2=0x21b2
-log wall=0x21 0xb3=0x21b3
-log wall=0x21 0xb4=0x21b4
-log wall=0x21 0xb5=0x21b5
-log wall=0x21 0xb6=0x21b6
-log wall=0x21 0xb7=0x21b7
-log wall=0x21 0xb8=0x21b8
-log wall=0x21 0xbd=0x21bd
-log wall=0x21 0xbe=0x21be
-log wall=0x21 0xbf=0x21bf
-log wall=0x21 0xc0=0x21c0
-log wall=0x21 0xc1=0x21c1
-log wall=0x21 0xc2=0x21c2
-log wall=0x21 0xc3=0x21c3
-log wall=0x21 0xc4=0x21c4
-log wall=0x21 0xc5=0x21c5
-log wall=0x21 0xc6=0x21c6
-log wall=0x21 0xc7=0x21c7
-log wall=0x21 0xc8=0x21c8
-log wall=0x21 0xc9=0x21c9
-log wall=0x21 0xca=0x21ca
-log wall=0x21 0xcb=0x21cb
-log wall=0x21 0xcc=0x21cc
+log wall=$item_log_wall1_1=0090
+log wall=$item_log_wall1_2=0091
+log wall=$item_log_wall1_3=0092
+log wall=$item_log_wall1_4=0093
+log wall=$item_log_wall1_5=0094
+log wall=$item_log_wall1_6=0095
+log wall=$item_log_wall1_7=0096
+log wall=$item_log_wall1_8=0097
+log wall=$item_log_wall1_9=0098
+log wall=$item_log_wall1_10=0099
+log wall=$item_log_wall1_11=009A
+log wall=$item_log_wall1_12=009B
+log wall=$item_log_wall1_13=009C
+log wall=$item_log_wall1_14=009D
+log wall=$item_log_wall1_15=009E
+log wall=$item_log_wall1_16=009F
+log wall=$item_log_wall1_17=00A0
+log wall=$item_log_wall1_18=00A1
+log wall=$item_log_wall1_19=00A2
+log wall=$item_log_wall1_20=00A3
+log wall=$item_log_wall1_21=00A4
+log wall=$item_log_wall1_22=00A5
 }
-}
-Marble
+Wood 1
 {
-marble wall=0x00 0xf8=00f8
-marble wall=0x00 0xf9=00f9
-marble wall=0x00 0xfa=00fa
-marble wall=0x00 0xfb=00fb
-marble wall=0x00 0xfe=00fe
-marble wall=0x00 0xff=00ff
-marble wall=0x01 0x00=0100
-marble wall=0x01 0x01=0101
-marble wall=0x01 0x04=0104
-marble wall=0x01 0x05=0105
-marble wall=0x01 0x06=0106
-marble wall=0x01 0x07=0107
-marble wall=0x02 0x91=0291
-marble wall=0x02 0x92=0292
-marble wall=0x02 0x93=0293
-marble wall=0x02 0x94=0294
-marble wall=0x02 0x97=0297
-marble wall=0x02 0x98=0298
-marble wall=0x02 0x99=0299
-marble wall=0x02 0x9a=029a
-marble wall=0x02 0x9d=029d
-marble wall=0x02 0x9e=029e
-marble wall=0x02 0x9f=029f
-marble wall=0x02 0xa0=02a0
+wooden wall=$item_wooden_wall1_1= 0006
+wooden wall=$item_wooden_wall1_2= 0007
+wooden wall=$item_wooden_wall1_3= 0008
+wooden wall=$item_wooden_wall1_4= 0009
+wooden wall=$item_wooden_wall1_5= 000A
+wooden wall=$item_wooden_wall1_6= 000B
+wooden wall=$item_wooden_wall1_7= 000C
+wooden wall=$item_wooden_wall1_8= 000D
+wooden wall=$item_wooden_wall1_9= 000E
+wooden wall=$item_wooden_wall1_10= 000F
+wooden wall=$item_wooden_wall1_11= 0010
+wooden wall=$item_wooden_wall1_12= 0011
+wooden wall=$item_wooden_wall1_13= 0012
+wooden wall=$item_wooden_wall1_14= 0013
+wooden wall=$item_wooden_wall1_15= 0014
+wooden wall=$item_wooden_wall1_16= 0015
+wooden wall=$item_wooden_wall1_17= 0016
+wooden wall=$item_wooden_wall1_18= 0017
+wooden wall=$item_wooden_wall1_19= 0018
+wooden wall=$item_wooden_wall1_20= 0019
 }
-Plaster
+Wood 2
 {
-plaster wall=0x01 0x27=0127
-plaster wall=0x01 0x28=0128
-plaster wall=0x01 0x29=0129
-wooden post=0x01 0x2a=012a
-plaster wall=0x01 0x2b=012b
-plaster wall=0x01 0x2c=012c
-plaster wall=0x01 0x2d=012d
-plaster wall=0x01 0x2e=012e
-plaster wall=0x01 0x2f=012f
-plaster wall=0x01 0x30=0130
-plaster wall=0x01 0x31=0131
-plaster wall=0x01 0x32=0132
-plaster wall=0x01 0x33=0133
-plaster wall=0x01 0x34=0134
-plaster wall=0x01 0x35=0135
-plaster wall=0x01 0x36=0136
-plaster wall=0x01 0x37=0137
-plaster wall=0x01 0x38=0138
-plaster wall=0x01 0x39=0139
-plaster wall=0x01 0x4c=014c
-plaster wall=0x01 0x4d=014d
-plaster wall=0x01 0x4e=014e
-plaster wall=0x01 0x4f=014f
-plaster wall=0x01 0x50=0150
-plaster wall=0x01 0x51=0151
-plaster wall=0x01 0x52=0152
-plaster wall=0x01 0x53=0153
-plaster wall=0x01 0xff=01ff
-plaster wall=0x02 0x00=0200
-plaster wall=0x02 0x01=0201
-plaster wall=0x02 0x03=0203
-plaster wall=0x02 0x04=0204
-plaster wall=0x02 0x05=0205
-plaster wall=0x02 0x06=0206
-plaster wall=0x03 0x7f=037f
-plaster wall=0x03 0x80=0380
-plaster wall=0x03 0x81=0381
-wooden post=0x03 0x82=0382
-plaster wall=0x03 0x83=0383
-plaster wall=0x03 0x84=0384
-plaster wall=0x03 0x85=0385
-plaster wall=0x03 0x86=0386
-plaster wall=0x03 0x87=0387
-plaster wall=0x03 0x88=0388
-plaster wall=0x03 0x89=0389
-plaster wall=0x03 0x8a=038a
-plaster wall=0x03 0x8b=038b
-plaster wall=0x03 0x8c=038c
-plaster wall=0x03 0x8d=038d
-plaster wall=0x03 0x8e=038e
-plaster wall=0x03 0x8f=038f
-plaster wall=0x03 0x90=0390
-plaster wall=0x03 0x91=0391
-plaster wall=0x03 0x92=0392
-plaster wall=0x03 0x93=0393
-plaster wall=0x03 0x94=0394
-plaster wall=0x03 0x95=0395
-plaster wall=0x03 0x96=0396
+wooden wall=$item_wooden_wall2_1=00A6
+wooden wall=$item_wooden_wall2_2=00A7
+wooden wall=$item_wooden_wall2_3=00A8
+wooden wall=$item_wooden_wall2_4=00A9
+wooden wall=$item_wooden_wall2_5=00AA
+wooden wall=$item_wooden_wall2_6=00AB
+wooden wall=$item_wooden_wall2_7=00AC
+wooden wall=$item_wooden_wall2_8=00AD
+wooden wall=$item_wooden_wall2_9=00AE
+wooden wall=$item_wooden_wall2_10=00AF
+wooden wall=$item_wooden_wall2_11=00B0
+wooden wall=$item_wooden_wall2_12=00B1
+wooden wall=$item_wooden_wall2_13=00B2
+wooden wall=$item_wooden_wall2_14=00B3
+wooden wall=$item_wooden_wall2_15=00B4
+wooden wall=$item_wooden_wall2_16=00B5
+wooden wall=$item_wooden_wall2_17=00B6
+wooden wall=$item_wooden_wall2_18=00B7
+wooden wall=$item_wooden_wall2_19=00B8
+wooden wall=$item_wooden_wall2_20=00B9
+wooden wall=$item_wooden_wall2_21=00BA
+wooden wall=$item_wooden_wall2_22=00BB
+wooden wall=$item_wooden_wall2_23=00BC
+wooden wall=$item_wooden_wall2_24=00BD
+wooden wall=$item_wooden_wall2_25=00BE
+wooden wall=$item_wooden_wall2_26=00BF
+wooden wall=$item_wooden_wall2_27=00C0
+wooden wall=$item_wooden_wall2_28=00C1
+wooden wall=$item_wooden_wall2_29=00C2
 }
-Sandstone
+Marble 1
 {
-sandstone post=0x02 0x02=0202
-sandstone wall=0x01 0x58=0158
-sandstone wall=0x01 0x59=0159
-sandstone wall=0x01 0x5a=015a
-sandstone post=0x01 0x5b=015b
-sandstone wall=0x01 0x5e=015e
-sandstone wall=0x01 0x5f=015f
-sandstone wall=0x01 0x60=0160
-sandstone post=0x01 0x61=0161
-sandstone wall=0x01 0x71=0171
-sandstone wall=0x01 0x72=0172
-battlement=0x01 0x73=0173
-sandstone wall=0x01 0x74=0174
-sandstone wall=0x01 0x75=0175
-sandstone wall=0x01 0x76=0176
-sandstone wall=0x01 0x77=0177
-sandstone wall=0x01 0x78=0178
-battlement=0x01 0x79=0179
-battlement=0x01 0x7a=017a
-battlement=0x01 0x7b=017b
-battlement=0x01 0x7c=017c
-battlement=0x01 0x7d=017d
-sandstone wall=0x01 0x7e=017e
-sandstone wall=0x01 0x7f=017f
-sandstone wall=0x01 0x80=0180
-sandstone wall=0x01 0x81=0181
-sandstone wall=0x01 0x86=0186
-sandstone wall=0x01 0x87=0187
-sandstone wall=0x01 0x88=0188
-sandstone wall=0x01 0x89=0189
-sandstone wall=0x02 0x4c=024c
-sandstone wall=0x02 0x4d=024d
-sandstone wall=0x02 0x4e=024e
-sandstone wall=0x02 0x4f=024f
-sandstone wall=0x02 0x50=0250
-sandstone wall=0x02 0x51=0251
-sandstone wall=0x02 0x55=0255
-sandstone wall=0x02 0x56=0256
-sandstone wall=0x02 0x57=0257
-sandstone wall=0x02 0x58=0258
-sandstone wall=0x02 0x59=0259
-sandstone wall=0x02 0x5a=025a
-sandstone wall=0x02 0x5b=025b
+marble wall=$item_marble_wall1_1=00F8
+marble wall=$item_marble_wall1_2=00F9
+marble wall=$item_marble_wall1_3=00FA
+marble wall=$item_marble_wall1_4=00FB
+marble wall=$item_marble_wall1_5=00FC
+marble wall=$item_marble_wall1_6=00FD
+marble wall=$item_marble_wall1_7=00FE
+marble wall=$item_marble_wall1_8=00FF
+marble wall=$item_marble_wall1_9=0100
+marble wall=$item_marble_wall1_10=0101
+marble wall=$item_marble_wall1_11=0102
+marble wall=$item_marble_wall1_12=0103
+marble wall=$item_marble_wall1_13=0104
+marble wall=$item_marble_wall1_14=0105
+marble wall=$item_marble_wall1_15=0106
+marble wall=$item_marble_wall1_16=0107
+marble wall=$item_marble_wall1_17=0108
+marble wall=$item_marble_wall1_18=0109
+marble wall=$item_marble_wall1_19=010A
+marble wall=$item_marble_wall1_20=010B
+marble wall=$item_marble_wall1_21=010C
+marble wall=$item_marble_wall1_22=010D
+marble wall=$item_marble_wall1_23=010E
+marble wall=$item_marble_wall1_24=010F
+marble wall=$item_marble_wall1_25=0110
+marble wall=$item_marble_wall1_26=0111
+marble wall=$item_marble_wall1_27=0112
+marble wall=$item_marble_wall1_28=0113
+marble wall=$item_marble_wall1_29=0114
+marble wall=$item_marble_wall1_30=0115
+marble wall=$item_marble_wall1_31=0116
+marble wall=$item_marble_wall1_32=0117
+marble wall=$item_marble_wall1_33=0118
+marble wall=$item_marble_wall1_34=0119
+marble wall=$item_marble_wall1_35=011A
+marble wall=$item_marble_wall1_36=011B
+marble wall=$item_marble_wall1_37=011C
+marble wall=$item_marble_wall1_38=011D
+marble wall=$item_marble_wall1_39=011E
+marble wall=$item_marble_wall1_40=011F
+marble wall=$item_marble_wall1_41=0120
+marble wall=$item_marble_wall1_42=0121
+marble wall=$item_marble_wall1_43=0122
+marble wall=$item_marble_wall1_44=0123
+marble wall=$item_marble_wall1_45=0124
+marble wall=$item_marble_wall1_46=0125
+marble wall=$item_marble_wall1_47=0126
 }
-Ratan
+Marble 2
 {
-rattan wall=0x01 0xa5=01a5
-rattan wall=0x01 0xa6=01a6
-rattan wall=0x01 0xa7=01a7
-wood post=0x01 0xa8=01a8
-rattan wall=0x01 0xa9=01a9
-rattan wall=0x01 0xaa=01aa
-rattan wall=0x01 0xab=01ab
-rattan wall=0x01 0xac=01ac
-LBR
-{
-rattan wall=0x21 0x5a=0x215a
-rattan wall=0x21 0x5b=0x215b
-rattan wall=0x21 0x5c=0x215c
-}
-wood post=0x01 0xa3=01a3
-wood post=0x01 0x9b=019b
-wood supports=0x01 0x9c=019c
-wood supports=0x01 0x9d=019d
-wood supports=0x01 0x9e=019e
-wood supports=0x01 0x9f=019f
-wood supports=0x01 0xa0=01a0
-wood supports=0x01 0xa1=01a1
-wood supports=0x01 0xa2=01a2
-}
-Hide
-{
-wood post=0x01 0xb5=01b5
-hide wall=0x01 0xb6=01b6
-hide wall=0x01 0xb7=01b7
-hide wall=0x01 0xb8=01b8
-wood post=0x01 0xb9=01b9
-hide wall=0x01 0xba=01ba
-hide wall=0x01 0xbb=01bb
-hide wall=0x01 0xbc=01bc
-hide wall=0x01 0xbd=01bd
-hide wall=0x01 0xbe=01be
-hide wall=0x01 0xbf=01bf
-hide wall=0x01 0xc0=01c0
-hide wall=0x01 0xc1=01c1
-hide wall=0x01 0xc2=01c2
-hide wall=0x01 0xc3=01c3
-dock pole=0x01 0xcb=01cb
-dock pole=0x01 0xcc=01cc
-dock pole=0x01 0xcd=01cd
-dock pole=0x01 0xce=01ce
-}
-Tent
-{
-tent wall=0x02 0xde=02de
-tent wall=0x02 0xdf=02df
-tent wall=0x02 0xe0=02e0
-wood pole=0x02 0xe1=02e1
-tent wall=0x02 0xe2=02e2
-tent wall=0x02 0xe3=02e3
-tent wall=0x02 0xe4=02e4
-tent wall=0x02 0xe5=02e5
-tent wall=0x02 0xe6=02e6
-tent wall=0x02 0xe7=02e7
-tent wall=0x02 0xe8=02e8
-tent wall=0x02 0xe9=02e9
-tent wall=0x02 0xea=02ea
-tent wall=0x02 0xeb=02eb
-tent wall=0x02 0xec=02ec
-patch=0x02 0xef=02ef
-patch=0x02 0xf0=02f0
-patch=0x02 0xf1=02f1
-patch=0x02 0xf2=02f2
-patch=0x02 0xf3=02f3
-patch=0x02 0xf4=02f4
-tent wall=0x01 0xf0=01f0
-tent wall=0x01 0xf1=01f1
-tent wall=0x01 0xf2=01f2
-wooden pole=0x01 0xf3=01f3
-tent wall=0x01 0xf4=01f4
-tent wall=0x01 0xf5=01f5
-tent wall=0x01 0xf6=01f6
-tent wall=0x01 0xf7=01f7
-tent wall=0x01 0xf8=01f8
-tent wall=0x01 0xf9=01f9
-tent wall=0x02 0x30=0230
-tent wall=0x02 0x31=0231
-tent wall=0x02 0x32=0232
-wooden pole=0x02 0x33=0233
-tent wall=0x02 0x34=0234
-tent wall=0x02 0x35=0235
-tent wall=0x02 0x36=0236
-tent wall=0x02 0x37=0237
-tent wall=0x02 0x38=0238
-tent wall=0x02 0x39=0239
-tent wall=0x03 0x68=0368
-tent wall=0x03 0x69=0369
-tent wall=0x03 0x6a=036a
-tent pole=0x03 0x6b=036b
-tent wall=0x03 0x6c=036c
-tent wall=0x03 0x6d=036d
-tent wall=0x03 0x6e=036e
-tent wall=0x03 0x6f=036f
-tent wall=0x03 0x70=0370
-tent wall=0x03 0x71=0371
-patch=0x03 0x72=0372
-patch=0x03 0x73=0373
-patch=0x03 0x74=0374
-patch=0x03 0x75=0375
-patch=0x03 0x76=0376
-patch=0x03 0x77=0377
-dagges=0x03 0x78=0378
-dagges=0x03 0x79=0379
-dagges=0x03 0x7a=037a
-dagges=0x03 0x7b=037b
-dagges=0x03 0x7c=037c
-dagges=0x03 0x7d=037d
-}
-Bamboo
-{
-bamboo wall=0x02 0x0f=020f
-bamboo wall=0x02 0x10=0210
-bamboo wall=0x02 0x11=0211
-bamboo wall=0x02 0x12=0212
-bamboo wall=0x02 0x13=0213
-bamboo wall=0x02 0x14=0214
-bamboo wall=0x02 0x15=0215
-bamboo wall=0x02 0x16=0216
-bamboo wall=0x02 0x17=0217
-bamboo wall=0x02 0x18=0218
-bamboo wall=0x02 0x19=0219
-bamboo wall=0x02 0x1a=021a
-}
-Palisade
-{
-palisade=0x02 0x1d=021d
-palisade=0x02 0x1e=021e
-palisade=0x02 0x1f=021f
-palisade=0x02 0x20=0220
-palisade=0x02 0x21=0221
-palisade=0x02 0x22=0222
-palisade=0x02 0x23=0223
-gruesome standard=0x04 0x1f=041f
-gruesome standard=0x04 0x20=0420
-palisade=0x04 0x21=0421
-palisade=0x04 0x22=0422
-palisade=0x04 0x23=0423
-palisade=0x04 0x24=0424
-palisade=0x04 0x25=0425
-palisade=0x04 0x30=0430
-palisade=0x04 0x31=0431
-LBR
-{
-palisade=0x21 0x88=0x2188
-palisade=0x21 0x89=0x2189
-palisade=0x21 0x8a=0x218a
-palisade=0x21 0x8b=0x218b
-palisade=0x21 0x8c=0x218c
-palisade=0x21 0x8d=0x218d
-palisade=0x21 0x8e=0x218e
-palisade=0x21 0x8f=0x218f
-palisade=0x21 0x90=0x2190
-palisade=0x21 0x91=0x2191
-palisade=0x21 0x92=0x2192
-palisade=0x21 0x93=0x2193
-palisade=0x21 0x94=0x2194
-palisade=0x21 0x95=0x2195
-palisade=0x21 0x96=0x2196
-palisade=0x21 0x97=0x2197
-palisade=0x21 0xa5=0x21a5
-palisade=0x21 0xa6=0x21a6
-palisade=0x21 0xa7=0x21a7
-palisade=0x21 0xa8=0x21a8
-}
-}
-Cave
-{
-cave wall=0x02 0x5c=025c
-cave wall=0x02 0x5d=025d
-cave wall=0x02 0x5e=025e
-cave wall=0x02 0x5f=025f
-cave wall=0x02 0x60=0260
-cave wall=0x02 0x61=0261
-cave wall=0x02 0x62=0262
-cave wall=0x02 0x63=0263
-cave wall=0x02 0x64=0264
-cave wall=0x02 0x65=0265
-cave wall=0x02 0x66=0266
-cave wall=0x02 0x67=0267
-cave wall=0x02 0x68=0268
-cave wall=0x02 0x69=0269
-cave wall=0x02 0x6a=026a
-cave wall=0x02 0x6b=026b
-cave wall=0x02 0x6c=026c
-cave wall=0x02 0x6d=026d
-cave wall=0x02 0x6e=026e
-cave wall=0x02 0x6f=026f
-LBR
-{
-cave wall=0x21 0x66=0x2166
-cave wall=0x21 0x67=0x2167
-cave wall=0x21 0x68=0x2168
-cave wall=0x21 0x69=0x2169
-}
-}
-ruined walls
-{
-ruined wall=0x02 0x77=0277
-ruined wall=0x02 0x78=0278
-ruined wall=0x02 0x79=0279
-ruined wall=0x02 0x7a=027a
-ruined wall=0x02 0x7b=027b
-ruined wall=0x02 0x7c=027c
-ruined wall=0x02 0x81=0281
-ruined wall=0x02 0x82=0282
-}
-}
-
-Windows&Archs
-{
-Marble
-{
-marble arch=0x01 0x12=0112
-marble arch=0x01 0x13=0113
-marble arch=0x01 0x14=0114
-marble arch=0x01 0x15=0115
-marble arch=0x01 0x16=0116
-arch=0x04 0x46=0446
-arch=0x04 0x47=0447
-arch=0x04 0x48=0448
-arch=0x04 0x49=0449
-arch=0x04 0x4a=044a
-arch=0x04 0x4b=044b
-arch=0x04 0x4c=044c
-arch=0x04 0x4d=044d
-arch=0x04 0x4e=044e
-arch=0x04 0x4f=044f
-marble arch=0x04 0x38=0438
-marble arch=0x04 0x39=0439
-marble arch=0x04 0x3a=043a
-marble arch=0x04 0x3b=043b
-marble arch=0x04 0x3c=043c
-marble arch=0x04 0x3d=043d
-marble arch=0x04 0x3e=043e
-marble arch=0x04 0x3f=043f
-marble arch=0x04 0x40=0440
-marble arch=0x04 0x41=0441
-marble arch=0x02 0xbd=02bd
-marble arch=0x02 0xbe=02be
-marble arch=0x02 0xbf=02bf
-marble arch=0x02 0xc0=02c0
-marble column=0x02 0xa7=02a7
-marble column=0x02 0xa8=02a8
-marble column=0x02 0xa9=02a9
-marble column=0x02 0xaa=02aa
-marble column=0x02 0xab=02ab
-marble column=0x02 0xac=02ac
-window=0x02 0xad=02ad
-window=0x02 0xae=02ae
-marble arch=0x02 0xb0=02b0
-marble arch=0x02 0xb1=02b1
-marble arch=0x02 0xb2=02b2
-marble arch=0x02 0xb3=02b3
-marble arch=0x02 0xb4=02b4
-window=0x02 0x95=0295
-window=0x02 0x96=0296
-window=0x02 0x9b=029b
-window=0x02 0x9c=029c
-marble arch=0x01 0x21=0121
-marble arch=0x01 0x22=0122
-marble arch=0x01 0x23=0123
-marble arch=0x01 0x24=0124
-marble column=0x01 0x1b=011b
-marble column=0x01 0x1c=011c
-marble column=0x01 0x1d=011d
-marble column=0x01 0x1e=011e
-marble column=0x01 0x1f=011f
-marble column=0x01 0x20=0120
-window=0x01 0x02=0102
-window=0x01 0x03=0103
-window=0x01 0x08=0108
-window=0x01 0x09=0109
-window=0x00 0xfc=00fc
-window=0x00 0xfd=00fd
-pedestal=1f 2a=1f2a
-}
-Brick
-{
-brick arch=0x00 0x45=0045
-brick arch=0x00 0x46=0046
-brick arch=0x00 0x47=0047
-brick arch=0x00 0x48=0048
-brick arch=0x00 0x49=0049
-archway=0x03 0xa0=03a0
-archway=0x03 0x97=0397
-archway=0x03 0x98=0398
-archway=0x03 0x99=0399
-archway=0x03 0x9a=039a
-archway=0x03 0x9b=039b
-window=0x01 0x54=0154
-window=0x01 0x55=0155
-window=0x01 0x56=0156
-window=0x01 0x57=0157
-window=0x01 0x3a=013a
-window=0x01 0x3b=013b
-archway=0x01 0x3c=013c
-archway=0x01 0x3d=013d
-archway=0x01 0x3e=013e
-archway=0x01 0x3f=013f
-archway=0x01 0x40=0140
-}
-Stone
-{
-stone arch=0x00 0xc6=00c6
-stone arch=0x00 0x28=0028
-stone arch=0x00 0x29=0029
-stone arch=0x00 0x2a=002a
-stone arch=0x00 0x2b=002b
-stone arch=0x00 0x2c=002c
-stone arch=0x00 0x7a=007a
-stone arch=0x00 0x7b=007b
-stone arch=0x00 0x7c=007c
-stone arch=0x00 0x7d=007d
-stone arch=0x00 0x7e=007e
-stone arch=0x00 0x7f=007f
-dungeon arch=0x02 0x45=0245
-dungeon arch=0x02 0x46=0246
-dungeon arch=0x02 0x49=0249
-dungeon arch=0x02 0x4a=024a
-window=0x01 0xd3=01d3
-window=0x01 0xd4=01d4
-stone arch=0x01 0xd5=01d5
-stone arch=0x01 0xd6=01d6
-stone arch=0x01 0xd7=01d7
-stone arch=0x01 0xd8=01d8
-stone arch=0x01 0xd9=01d9
-stone pillar=0x01 0xda=01da
-stone arch=0x01 0xdb=01db
-stone arch=0x01 0xdc=01dc
-stone arch=0x01 0xdd=01dd
-stone arch=0x01 0xde=01de
-stone arch=0x01 0xdf=01df
-stone arch=0x01 0xe0=01e0
-stone arch=0x01 0xe1=01e1
-stone arch=0x01 0xe2=01e2
-stone arch=0x01 0xe3=01e3
-stone arch=0x01 0xe4=01e4
-stone arch=0x01 0xe5=01e5
-stone arch=0x01 0xe6=01e6
-stone arch=0x01 0xe7=01e7
-arrow loop=0x00 0xca=00ca
-arrow loop=0x00 0xcb=00cb
-stone arch=0x00 0xcd=00cd
-stone arch=0x00 0xce=00ce
-stone arch=0x00 0xcf=00cf
-stone arch=0x00 0xd0=00d0
-stone arch=0x00 0xd1=00d1
-stone arch=0x00 0xd4=00d4
-stone arch=0x00 0xd5=00d5
-stone arch=0x00 0xd6=00d6
-stone arch=0x00 0xd7=00d7
-stone arch=0x00 0xd8=00d8
-stone arch=0x00 0xd9=00d9
-stone arch=0x00 0xda=00da
-stone pillar=0x00 0xdb=00db
-stone arch=0x00 0xe0=00e0
-stone arch=0x00 0xe1=00e1
-stone arch=0x00 0xe2=00e2
-stone arch=0x00 0xe3=00e3
-stone arch=0x00 0xe4=00e4
-stone arch=0x00 0xe5=00e5
-arrow loop=0x00 0x5b=005b
-arrow loop=0x00 0x5c=005c
-stone arch=0x00 0x6d=006d
-stone arch=0x00 0x6e=006e
-stone arch=0x00 0x6f=006f
-stone arch=0x00 0x70=0070
-stone arch=0x00 0x71=0071
-stone column=0x00 0x77=0077
-window=0x00 0x8f=008f
-window=0x00 0x8d=008d
-stone arch=0x00 0x8a=008a
-stone arch=0x00 0x8b=008b
-window=0x00 0x85=0085
-stone arch=0x00 0x86=0086
-stone arch=0x00 0x87=0087
-window=0x00 0x83=0083
-window=0x00 0x22=0022
-window=0x00 0x23=0023
-window=0x00 0x3b=003b
-window=0x00 0x3c=003c
-window=0x00 0x5d=005d
-window=0x00 0x5e=005e
+marble wall=$item_marble_wall2_1=0291
+marble wall=$item_marble_wall2_2=0292
+marble wall=$item_marble_wall2_3=0293
+marble wall=$item_marble_wall2_4=0294
+marble wall=$item_marble_wall2_5=0295
+marble wall=$item_marble_wall2_6=0296
+marble wall=$item_marble_wall2_7=0297
+marble wall=$item_marble_wall2_8=0298
+marble wall=$item_marble_wall2_9=0299
+marble wall=$item_marble_wall2_10=029A
+marble wall=$item_marble_wall2_11=029B
+marble wall=$item_marble_wall2_12=029C
+marble wall=$item_marble_wall2_13=029D
+marble wall=$item_marble_wall2_14=029E
+marble wall=$item_marble_wall2_15=029F
+marble wall=$item_marble_wall2_16=02A0
+marble wall=$item_marble_wall2_17=02A1
+marble wall=$item_marble_wall2_18=02A2
+marble wall=$item_marble_wall2_19=02A3
+marble wall=$item_marble_wall2_20=02A4
+marble wall=$item_marble_wall2_21=02A5
+marble wall=$item_marble_wall2_22=02A6
+marble wall=$item_marble_wall2_23=02A7
+marble wall=$item_marble_wall2_24=02A8
+marble wall=$item_marble_wall2_25=02A9
+marble wall=$item_marble_wall2_26=02AA
+marble wall=$item_marble_wall2_27=02AB
+marble wall=$item_marble_wall2_28=02AC
+marble wall=$item_marble_wall2_29=02AD
+marble wall=$item_marble_wall2_30=02AE
+marble wall=$item_marble_wall2_31=02B0
+marble wall=$item_marble_wall2_32=02B1
+marble wall=$item_marble_wall2_33=02B2
+marble wall=$item_marble_wall2_34=02B3
+marble wall=$item_marble_wall2_35=02B4
+marble wall=$item_marble_wall2_36=02B5
+marble wall=$item_marble_wall2_37=02B6
+marble wall=$item_marble_wall2_38=02B7
+marble wall=$item_marble_wall2_39=02B8
+marble wall=$item_marble_wall2_40=02B9
+marble wall=$item_marble_wall2_41=02BA
+marble wall=$item_marble_wall2_42=02BB
+marble wall=$item_marble_wall2_43=02BC
+marble wall=$item_marble_wall2_44=02BD
+marble wall=$item_marble_wall2_45=02BE
+marble wall=$item_marble_wall2_46=02BF
+marble wall=$item_marble_wall2_47=02C0
 }
 Sandstone
 {
-window=0x03 0xdd=03dd
-window=0x03 0xde=03de
-window=0x03 0xdf=03df
-window=0x02 0x52=0252
-window=0x02 0x53=0253
-window=0x02 0x54=0254
-window=0x02 0x07=0207
-window=0x02 0x08=0208
-window=0x02 0x09=0209
-window=0x02 0x0a=020a
-window=0x01 0x62=0162
-window=0x01 0x63=0163
-window=0x01 0x5c=015c
-window=0x01 0x5d=015d
-sandstone arch=0x01 0x8a=018a
-sandstone arch=0x01 0x8b=018b
-sandstone arch=0x01 0x8c=018c
-sandstone arch=0x01 0x8d=018d
-sandstone arch=0x01 0x8e=018e
-sandstone arch=0x01 0x8f=018f
-sandstone arch=0x01 0x90=0190
-sandstone arch=0x01 0x91=0191
-sandstone arch=0x01 0x92=0192
-sandstone arch=0x01 0x93=0193
-sandstone column=0x01 0x94=0194
-sandstone column=0x01 0x95=0195
-sandstone column=0x01 0x96=0196
-sandstone arch=0x01 0x6c=016c
-sandstone arch=0x01 0x6d=016d
-sandstone arch=0x01 0x6e=016e
-sandstone arch=0x01 0x6f=016f
-sandstone arch=0x01 0x70=0170
+sandstone wall=$item_sandstone_wall1_1=0158
+sandstone wall=$item_sandstone_wall1_2=0159
+sandstone wall=$item_sandstone_wall1_3=015A
+sandstone wall=$item_sandstone_wall1_4=015B
+sandstone wall=$item_sandstone_wall1_5=015C
+sandstone wall=$item_sandstone_wall1_6=015D
+sandstone wall=$item_sandstone_wall1_7=015E
+sandstone wall=$item_sandstone_wall1_8=015F
+sandstone wall=$item_sandstone_wall1_9=0160
+sandstone wall=$item_sandstone_wall1_10=0161
+sandstone wall=$item_sandstone_wall1_11=0162
+sandstone wall=$item_sandstone_wall1_12=0163
+sandstone wall=$item_sandstone_wall1_13=0164
+sandstone wall=$item_sandstone_wall1_14=0165
+sandstone wall=$item_sandstone_wall1_15=0166
+sandstone wall=$item_sandstone_wall1_16=0167
+sandstone wall=$item_sandstone_wall1_17=0168
+sandstone wall=$item_sandstone_wall1_18=0169
+sandstone wall=$item_sandstone_wall1_19=016A
+sandstone wall=$item_sandstone_wall1_20=016B
+sandstone wall=$item_sandstone_wall1_21=016C
+sandstone wall=$item_sandstone_wall1_22=016D
+sandstone wall=$item_sandstone_wall1_23=016E
+sandstone wall=$item_sandstone_wall1_24=016F
+sandstone wall=$item_sandstone_wall1_25=0170
+sandstone wall=$item_sandstone_wall1_26=0171
+sandstone wall=$item_sandstone_wall1_27=0172
+sandstone wall=$item_sandstone_wall1_28=0173
+sandstone wall=$item_sandstone_wall1_29=0174
+sandstone wall=$item_sandstone_wall1_30=0175
+sandstone wall=$item_sandstone_wall1_31=0176
+sandstone wall=$item_sandstone_wall1_32=0177
+sandstone wall=$item_sandstone_wall1_33=0178
+sandstone wall=$item_sandstone_wall1_34=0179
+sandstone wall=$item_sandstone_wall1_35=017A
+sandstone wall=$item_sandstone_wall1_36=017B
+sandstone wall=$item_sandstone_wall1_37=017C
+sandstone wall=$item_sandstone_wall1_38=017D
+sandstone wall=$item_sandstone_wall1_39=017E
+sandstone wall=$item_sandstone_wall1_40=017F
+sandstone wall=$item_sandstone_wall1_41=0180
+sandstone wall=$item_sandstone_wall1_42=0181
+sandstone wall=$item_sandstone_wall1_43=0182
+sandstone wall=$item_sandstone_wall1_44=0183
+sandstone wall=$item_sandstone_wall1_45=0184
+sandstone wall=$item_sandstone_wall1_46=0185
+sandstone wall=$item_sandstone_wall1_47=0186
+sandstone wall=$item_sandstone_wall1_48=0187
+sandstone wall=$item_sandstone_wall1_49=0188
+sandstone wall=$item_sandstone_wall1_50=0189
+sandstone wall=$item_sandstone_wall1_51=018A
+sandstone wall=$item_sandstone_wall1_52=018B
+sandstone wall=$item_sandstone_wall1_53=018C
+sandstone wall=$item_sandstone_wall1_54=018D
+sandstone wall=$item_sandstone_wall1_55=018E
+sandstone wall=$item_sandstone_wall1_56=018F
+sandstone wall=$item_sandstone_wall1_57=0190
+sandstone wall=$item_sandstone_wall1_58=0191
+sandstone wall=$item_sandstone_wall1_59=0192
+sandstone wall=$item_sandstone_wall1_60=0193
+sandstone wall=$item_sandstone_wall1_61=0194
+sandstone wall=$item_sandstone_wall1_62=0195
+sandstone wall=$item_sandstone_wall1_63=0196
+sandstone wall=$item_sandstone_wall1_64=0197
+sandstone wall=$item_sandstone_wall1_65=0198
+sandstone wall=$item_sandstone_wall1_66=0199
+sandstone wall=$item_sandstone_wall1_67=019A
+sandstone wall=$item_sandstone_wall1_68=01A4
+sandstone wall=$item_sandstone_wall1_69=01B1
+sandstone wall=$item_sandstone_wall1_70=01B2
+sandstone wall=$item_sandstone_wall1_71=01B3
+sandstone wall=$item_sandstone_wall1_72=01B4
+sandstone wall=$item_sandstone_wall1_73=01CA
+sandstone wall=$item_sandstone_wall1_74=01EC
+sandstone wall=$item_sandstone_wall1_75=01ED
+sandstone wall=$item_sandstone_wall1_76=01EE
+sandstone wall=$item_sandstone_wall1_77=01EF
 }
-Hides
+Sandstone 2
 {
-window=0x01 0xc4=01c4
-window=0x01 0xc5=01c5
-window=0x01 0xc6=01c6
-window=0x01 0xc7=01c7
+sandstone wall=$item_sandstone_wall2_1=024C
+sandstone wall=$item_sandstone_wall2_2=024D
+sandstone wall=$item_sandstone_wall2_3=024E
+sandstone wall=$item_sandstone_wall2_4=024F
+sandstone wall=$item_sandstone_wall2_5=0250
+sandstone wall=$item_sandstone_wall2_6=0251
+sandstone wall=$item_sandstone_wall2_7=0252
+sandstone wall=$item_sandstone_wall2_8=0253
+sandstone wall=$item_sandstone_wall2_9=0254
+sandstone wall=$item_sandstone_wall2_10=0255
+sandstone wall=$item_sandstone_wall2_11=0256
+sandstone wall=$item_sandstone_wall2_12=0257
+sandstone wall=$item_sandstone_wall2_13=0258
+sandstone wall=$item_sandstone_wall2_14=0259
+sandstone wall=$item_sandstone_wall2_15=025A
+sandstone wall=$item_sandstone_wall2_16=025B
+}
+Wood Support
+{
+wooden support=$item_wooden_support_1=019B
+wooden support=$item_wooden_support_2=019C
+wooden support=$item_wooden_support_3=019D
+wooden support=$item_wooden_support_4=019E
+wooden support=$item_wooden_support_5=019F
+wooden support=$item_wooden_support_6=01A0
+wooden support=$item_wooden_support_7=01A1
+wooden support=$item_wooden_support_8=01A2
+wooden support=$item_wooden_support_9=01A3
 }
 Rattan
 {
-window=0x01 0xad=01ad
-window=0x01 0xae=01ae
-window=0x01 0xaf=01af
-window=0x01 0xb0=01b0
+rattan wall=$item_rattan_wall1_1=01A5
+rattan wall=$item_rattan_wall1_2=01A6
+rattan wall=$item_rattan_wall1_3=01A7
+rattan wall=$item_rattan_wall1_4=01A8
+rattan wall=$item_rattan_wall1_5=01A9
+rattan wall=$item_rattan_wall1_6=01AA
+rattan wall=$item_rattan_wall1_7=01AB
+rattan wall=$item_rattan_wall1_8=01AC
+rattan wall=$item_rattan_wall1_9=01AD
+rattan wall=$item_rattan_wall1_10=01AE
+rattan wall=$item_rattan_wall1_11=01AF
+rattan wall=$item_rattan_wall1_12=01B0
 }
-Wooden
+Hide
 {
-window=0x00 0xb9=00b9
-window=0x00 0xba=00ba
-window=0x00 0xbb=00bb
-window=0x00 0xbc=00bc
-window=0x00 0x98=0098
-window=0x00 0x99=0099
-window=0x00 0x0e=000e
-window=0x00 0x0f=000f
+hide wall=$item_hide_wall1_1=01B5
+hide wall=$item_hide_wall1_2=01B6
+hide wall=$item_hide_wall1_3=01B7
+hide wall=$item_hide_wall1_4=01B8
+hide wall=$item_hide_wall1_5=01B9
+hide wall=$item_hide_wall1_6=01BA
+hide wall=$item_hide_wall1_7=01BB
+hide wall=$item_hide_wall1_8=01BC
+hide wall=$item_hide_wall1_9=01BD
+hide wall=$item_hide_wall1_10=01BE
+hide wall=$item_hide_wall1_11=01BF
+hide wall=$item_hide_wall1_12=01C0
+hide wall=$item_hide_wall1_13=01C1
+hide wall=$item_hide_wall1_14=01C2
+hide wall=$item_hide_wall1_15=01C3
+hide wall=$item_hide_wall1_16=01C4
+hide wall=$item_hide_wall1_17=01C5
+hide wall=$item_hide_wall1_18=01C6
+hide wall=$item_hide_wall1_19=01C7
+hide wall=$item_hide_wall1_20=01C8
+hide wall=$item_hide_wall1_21=01C9
 }
-}
-Cracks
+Dock Pole
 {
-wall cracks=0x1b 0x6b=1b6b
-wall cracks=0x1b 0x6c=1b6c
-wall cracks=0x1b 0x6d=1b6d
-wall cracks=0x1b 0x6e=1b6e
-wall cracks=0x1b 0x6f=1b6f
+dock pole=$item_dock_pole_1=01CB
+dock pole=$item_dock_pole_2=01CC
+dock pole=$item_dock_pole_3=01CD
+dock pole=$item_dock_pole_4=01CE
 }
-pylon=0x1e 0xca=1eca
-pylon=0x1e 0xcb=1ecb
-pylon=0x1e 0xcc=1ecc
+Tent Wall 1
+{
+tent wall=$item_tent_wall1_1=01F0
+tent wall=$item_tent_wall1_2=01F1
+tent wall=$item_tent_wall1_3=01F2
+tent wall=$item_tent_wall1_4=01F3
+tent wall=$item_tent_wall1_5=01F4
+tent wall=$item_tent_wall1_6=01F5
+tent wall=$item_tent_wall1_7=01F6
+tent wall=$item_tent_wall1_8=01F7
+tent wall=$item_tent_wall1_9=01F8
+tent wall=$item_tent_wall1_10=01F9
+}
+Tent Wall 2
+{
+tent wall=$item_tent_wall2_1=0230
+tent wall=$item_tent_wall2_2=0231
+tent wall=$item_tent_wall2_3=0232
+tent wall=$item_tent_wall2_4=0233
+tent wall=$item_tent_wall2_5=0234
+tent wall=$item_tent_wall2_6=0235
+tent wall=$item_tent_wall2_7=0236
+tent wall=$item_tent_wall2_8=0237
+tent wall=$item_tent_wall2_9=0238
+tent wall=$item_tent_wall2_10=0239
+}
+Tent Wall 3
+{
+tent wall=$item_tent_wall3_1=02DE
+tent wall=$item_tent_wall3_2=02DF
+tent wall=$item_tent_wall3_3=02E0
+tent wall=$item_tent_wall3_4=02E1
+tent wall=$item_tent_wall3_5=02E2
+tent wall=$item_tent_wall3_6=02E3
+tent wall=$item_tent_wall3_7=02E4
+tent wall=$item_tent_wall3_8=02E5
+tent wall=$item_tent_wall3_9=02E6
+tent wall=$item_tent_wall3_10=02E7
+tent wall=$item_tent_wall3_11=02E8
+tent wall=$item_tent_wall3_12=02E9
+tent wall=$item_tent_wall3_13=02EA
+tent wall=$item_tent_wall3_14=02EB
+tent wall=$item_tent_wall3_15=02EC
+}
+Plaster 1
+{
+plaster wall=$item_plaster_wall1_1=0127
+plaster wall=$item_plaster_wall1_2=0128
+plaster wall=$item_plaster_wall1_3=0129
+plaster wall=$item_plaster_wall1_4=012A
+plaster wall=$item_plaster_wall1_5=012B
+plaster wall=$item_plaster_wall1_6=012C
+plaster wall=$item_plaster_wall1_7=012D
+plaster wall=$item_plaster_wall1_8=012E
+plaster wall=$item_plaster_wall1_9=012F
+plaster wall=$item_plaster_wall1_10=0130
+plaster wall=$item_plaster_wall1_11=0131
+plaster wall=$item_plaster_wall1_12=0132
+plaster wall=$item_plaster_wall1_13=0133
+plaster wall=$item_plaster_wall1_14=0134
+plaster wall=$item_plaster_wall1_15=0135
+plaster wall=$item_plaster_wall1_16=0136
+plaster wall=$item_plaster_wall1_17=0137
+plaster wall=$item_plaster_wall1_18=0138
+plaster wall=$item_plaster_wall1_19=0139
+plaster wall=$item_plaster_wall1_20=013A
+plaster wall=$item_plaster_wall1_21=013B
+plaster wall=$item_plaster_wall1_22=013C
+plaster wall=$item_plaster_wall1_23=013D
+plaster wall=$item_plaster_wall1_24=013E
+plaster wall=$item_plaster_wall1_25=013F
+plaster wall=$item_plaster_wall1_26=0140
+plaster wall=$item_plaster_wall1_27=0149
+plaster wall=$item_plaster_wall1_28=014A
+plaster wall=$item_plaster_wall1_29=014B
+plaster wall=$item_plaster_wall1_30=014C
+plaster wall=$item_plaster_wall1_31=014D
+plaster wall=$item_plaster_wall1_32=014E
+plaster wall=$item_plaster_wall1_33=014F
+plaster wall=$item_plaster_wall1_34=0150
+plaster wall=$item_plaster_wall1_35=0151
+plaster wall=$item_plaster_wall1_36=0152
+plaster wall=$item_plaster_wall1_37=0153
+plaster wall=$item_plaster_wall1_38=0154
+plaster wall=$item_plaster_wall1_39=0155
+plaster wall=$item_plaster_wall1_40=0156
+plaster wall=$item_plaster_wall1_41=0157
+}
+Plaster 2
+{
+plaster wall=$item_plaster_wall2_1=01FF
+plaster wall=$item_plaster_wall2_2=0200
+plaster wall=$item_plaster_wall2_3=0201
+plaster wall=$item_plaster_wall2_4=0202
+plaster wall=$item_plaster_wall2_5=0203
+plaster wall=$item_plaster_wall2_6=0204
+plaster wall=$item_plaster_wall2_7=0205
+plaster wall=$item_plaster_wall2_8=0206
+plaster wall=$item_plaster_wall2_9=0207
+plaster wall=$item_plaster_wall2_10=0208
+plaster wall=$item_plaster_wall2_11=0209
+plaster wall=$item_plaster_wall2_12=020A
+plaster wall=$item_plaster_wall2_13=020B
+plaster wall=$item_plaster_wall2_14=020C
+}
+Plaster 3
+{
+plaster wall=$item_plaster_wall3_1=037F
+plaster wall=$item_plaster_wall3_2=0380
+plaster wall=$item_plaster_wall3_3=0381
+plaster wall=$item_plaster_wall3_4=0382
+plaster wall=$item_plaster_wall3_5=0383
+plaster wall=$item_plaster_wall3_6=0384
+plaster wall=$item_plaster_wall3_7=0385
+plaster wall=$item_plaster_wall3_8=0386
+plaster wall=$item_plaster_wall3_9=0387
+plaster wall=$item_plaster_wall3_10=0388
+plaster wall=$item_plaster_wall3_11=0389
+plaster wall=$item_plaster_wall3_12=038A
+plaster wall=$item_plaster_wall3_13=038B
+plaster wall=$item_plaster_wall3_14=038C
+plaster wall=$item_plaster_wall3_15=038D
+plaster wall=$item_plaster_wall3_16=038E
+plaster wall=$item_plaster_wall3_17=038F
+plaster wall=$item_plaster_wall3_18=0390
+plaster wall=$item_plaster_wall3_19=0391
+plaster wall=$item_plaster_wall3_20=0392
+plaster wall=$item_plaster_wall3_21=0393
+plaster wall=$item_plaster_wall3_22=0394
+plaster wall=$item_plaster_wall3_23=0395
+plaster wall=$item_plaster_wall3_24=0396
+plaster wall=$item_plaster_wall3_25=0397
+plaster wall=$item_plaster_wall3_26=0398
+plaster wall=$item_plaster_wall3_27=0399
+plaster wall=$item_plaster_wall3_28=039A
+plaster wall=$item_plaster_wall3_29=039B
+plaster wall=$item_plaster_wall3_30=039C
+plaster wall=$item_plaster_wall3_31=039D
+plaster wall=$item_plaster_wall3_32=039E
+plaster wall=$item_plaster_wall3_33=039F
+plaster wall=$item_plaster_wall3_34=03A0
+}
+Bamboo
+{
+bamboo wall=$item_bamboo_wall1_1=020F
+bamboo wall=$item_bamboo_wall1_2=0210
+bamboo wall=$item_bamboo_wall1_3=0211
+bamboo wall=$item_bamboo_wall1_4=0212
+bamboo wall=$item_bamboo_wall1_5=0213
+bamboo wall=$item_bamboo_wall1_6=0214
+bamboo wall=$item_bamboo_wall1_7=0215
+bamboo wall=$item_bamboo_wall1_8=0216
+bamboo wall=$item_bamboo_wall1_9=0217
+bamboo wall=$item_bamboo_wall1_10=0218
+bamboo wall=$item_bamboo_wall1_11=0219
+bamboo wall=$item_bamboo_wall1_12=021A
+}
+Palisade
+{
+palisade wall=$item_palisade_wall_1=021D
+palisade wall=$item_palisade_wall_2=021E
+palisade wall=$item_palisade_wall_3=021F
+palisade wall=$item_palisade_wall_4=0220
+palisade wall=$item_palisade_wall_5=0221
+palisade wall=$item_palisade_wall_6=0222
+palisade wall=$item_palisade_wall_7=0223
+palisade wall=$item_palisade_wall_8=0226
+palisade wall=$item_palisade_wall_9=0227
+palisade wall=$item_palisade_wall_10=0228
+palisade wall=$item_palisade_wall_11=0229
+palisade wall=$item_palisade_wall_12=022A
+palisade wall=$item_palisade_wall_13=022B
+palisade wall=$item_palisade_wall_14=022C
+palisade wall=$item_palisade_wall_15=022D
+palisade wall=$item_palisade_wall_16=022E
+palisade wall=$item_palisade_wall_17=022F
+}
+Dungeon
+{
+dungeon wall=$item_dungeon_wall1_1=0241
+dungeon wall=$item_dungeon_wall1_2=0242
+dungeon wall=$item_dungeon_wall1_3=0243
+dungeon wall=$item_dungeon_wall1_4=0244
+dungeon wall=$item_dungeon_wall1_5=0245
+dungeon wall=$item_dungeon_wall1_6=0246
+dungeon wall=$item_dungeon_wall1_7=0247
+dungeon wall=$item_dungeon_wall1_8=0248
+dungeon wall=$item_dungeon_wall1_9=0249
+dungeon wall=$item_dungeon_wall1_10=024A
+}
+Cave
+{
+cave wall=$item_cave_wall1_1=025C
+cave wall=$item_cave_wall1_2=025D
+cave wall=$item_cave_wall1_3=025E
+cave wall=$item_cave_wall1_4=025F
+cave wall=$item_cave_wall1_5=0260
+cave wall=$item_cave_wall1_6=0261
+cave wall=$item_cave_wall1_7=0262
+cave wall=$item_cave_wall1_8=0263
+cave wall=$item_cave_wall1_9=0264
+cave wall=$item_cave_wall1_10=0265
+cave wall=$item_cave_wall1_11=0266
+cave wall=$item_cave_wall1_12=0267
+cave wall=$item_cave_wall1_13=0268
+cave wall=$item_cave_wall1_14=0269
+cave wall=$item_cave_wall1_15=026A
+cave wall=$item_cave_wall1_16=026B
+cave wall=$item_cave_wall1_17=026C
+cave wall=$item_cave_wall1_18=026D
+cave wall=$item_cave_wall1_19=026E
+cave wall=$item_cave_wall1_20=026F
+cave wall=$item_cave_wall1_21=0270
+cave wall=$item_cave_wall1_22=0271
+cave wall=$item_cave_wall1_23=0272
+cave wall=$item_cave_wall1_24=0273
+cave wall=$item_cave_wall1_25=0274
+cave wall=$item_cave_wall1_26=0275
+cave wall=$item_cave_wall1_27=0276
+cave wall=$item_cave_wall1_28=027D
+cave wall=$item_cave_wall1_29=027E
+cave wall=$item_cave_wall1_30=027F
+cave wall=$item_cave_wall1_31=0280
+}
+Ruined
+{
+ruined wall=$item_ruined_wall1_1=0277
+ruined wall=$item_ruined_wall1_2=0278
+ruined wall=$item_ruined_wall1_3=0279
+ruined wall=$item_ruined_wall1_4=027A
+ruined wall=$item_ruined_wall1_5=027B
+ruined wall=$item_ruined_wall1_6=027C
+ruined wall=$item_ruined_wall1_7=0281
+ruined wall=$item_ruined_wall1_8=0282
+}
