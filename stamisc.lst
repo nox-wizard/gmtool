@@ -6,48 +6,48 @@ Bed
 {
 pine east=$item_pine_bed-east_deed
 pine south=$item_pine_bed-south_deed
-pine small=$item_pine_bed_1deed_1
-pine small=$item_pine_bed_2deed_2
+pine small=$item_pine_bed_1deed
+pine small=$item_pine_bed_2deed
 alder east=$item_alder_bed-east_deed
 alder south=$item_alder_bed-south_deed
-alder small=$item_alder_bed_1deed_1
-alder small=$item_alder_bed_2deed_2
+alder small=$item_alder_bed_1deed
+alder small=$item_alder_bed_2deed
 beech east=$item_beech_bed-east_deed
 beech south=$item_beech_bed-south_deed
-beech small=$item_beech_bed_1deed_1
-beech small=$item_beech_bed_2deed_2
+beech small=$item_beech_bed_1deed
+beech small=$item_beech_bed_2deed
 cedar east=$item_cedar_bed-east_deed
 cedar south=$item_cedar_bed-south_deed
-cedar small=$item_cedar_bed_1deed_1
-cedar small=$item_cedar_bed_2deed_2
+cedar small=$item_cedar_bed_1deed
+cedar small=$item_cedar_bed_2deed
 ebony east=$item_ebony_bed-east_deed
 ebony south=$item_ebony_bed-south_deed
-ebony small=$item_ebony_bed_1deed_1
-ebony small=$item_ebony_bed_2deed_2
+ebony small=$item_ebony_bed_1deed
+ebony small=$item_ebony_bed_2deed
 mahogany east=$item_mahogany_bed-east_deed
 mahogany south=$item_mahogany_bed-south_deed
-mahogany small=$item_mahogany_bed_1deed_1
-mahogany small=$item_mahogany_bed_2deed_2
+mahogany small=$item_mahogany_bed_1deed
+mahogany small=$item_mahogany_bed_2deed
 maple east=$item_maple_bed-east_deed
 maple south=$item_maple_bed-south_deed
-maple small=$item_maple_bed_1deed_1
-maple small=$item_maple_bed_2deed_2
+maple small=$item_maple_bed_1deed
+maple small=$item_maple_bed_2deed
 oak east=$item_oak_bed-east_deed
 oak south=$item_oak_bed-south_deed
-oak small=$item_oak_bed_1deed_1
-oak small=$item_oak_bed_2deed_2
+oak small=$item_oak_bed_1deed
+oak small=$item_oak_bed_2deed
 walnut east=$item_walnut_bed-east_deed
 walnut south=$item_walnut_bed-south_deed
-walnut small=$item_walnut_bed_1deed_1
-walnut small=$item_walnut_bed_2deed_2
+walnut small=$item_walnut_bed_1deed
+walnut small=$item_walnut_bed_2deed
 yew east=$item_yew_bed-east_deed
 yew south=$item_yew_bed-south_deed
-yew small=$item_yew_bed_1deed_1
-yew small=$item_yew_bed_2deed_2
+yew small=$item_yew_bed_1deed
+yew small=$item_yew_bed_2deed
 basic east=$item_basfur_bed-east_deed
 basic south=$item_basfur_bed-south_deed
-basic small=$item_basfur_bed_1deed_1
-basic small=$item_basfur_bed_2deed_2
+basic small=$item_basfur_bed_1deed
+basic small=$item_basfur_bed_2deed
 }
 fireplace east=$item_fireplace-east_deed
 fireplace south=$item_fireplace-south_deed
@@ -122,6 +122,8 @@ Other Buildings
 {
 lighthouse=$item_lighthouse_deed=14F0
 telescope=$item_telescope_deed=14F0
+white fountain=$item_white_fountain_deed
+brown fountain=$item_brown_fountain_deed
 }
 Misc
 {
@@ -130,6 +132,7 @@ empty tile=$item_empty=0x1018
 dark source=$item_dark_source=0x1646
 light source=$item_light_source=0x1647
 target tile=$item_target=0x1b70
+fountain spark=$item_fountain=0x090d
 }
 Religion
 {
@@ -171,12 +174,6 @@ stalagmites=$item_stalagmite4_1=0x08e4
 flowstone=$item_stalagmite5=0x08e6
 stalagmites=$item_stalagmite6=0x08e7
 stalagmites=$item_stalagmite7_1=0x08e9
-}
-Fountain
-{
-fountain spark=$item_fountain=0x090d
-white fountain=$item_white_fountain_deed
-brown fountain=$item_brown_fountain_deed
 }
 Garbage
 {
@@ -267,84 +264,49 @@ cut hair=$item_cut_hair=0dfe
 }
 Spider stuff
 {
-spiderweb=0x0e 0xe3=0x0ee3
-spiderweb=0x0e 0xe4=0x0ee4
-spiderweb=0x0e 0xe5=0x0ee5
-spiderweb=0x0e 0xe6=0x0ee6
-web=0x10 0xb8=0x10b8
-web=0x10 0xb9=0x10b9
-web=0x10 0xba=0x10ba
-web=0x10 0xbb=0x10bb
-web=0x10 0xbc=0x10bc
-web=0x10 0xbd=0x10bd
-web=0x10 0xbe=0x10be
-web=0x10 0xbf=0x10bf
-web=0x10 0xc0=0x10c0
-web=0x10 0xc1=0x10c1
-web=0x10 0xc2=0x10c2
-web=0x10 0xc3=0x10c3
-web=0x10 0xc4=0x10c4
-web=0x10 0xc5=0x10c5
-web=0x10 0xc6=0x10c6
-web=0x10 0xc7=0x10c7
-web=0x10 0xc8=0x10c8
-web=0x10 0xc9=0x10c9
-web=0x10 0xca=0x10ca
-web=0x10 0xcb=0x10cb
-web=0x10 0xcc=0x10cc
-web=0x10 0xcd=0x10cd
-web=0x10 0xce=0x10ce
-web=0x10 0xcf=0x10cf
-web=0x10 0xd0=0x10d0
-web=0x10 0xd1=0x10d1
-small web=0x10 0xd2=0x10d2
-small web=0x10 0xd3=0x10d3
-small web=0x10 0xd4=0x10d4
-small web=0x10 0xd5=0x10d5
-small web=0x10 0xd6=0x10d6
-small web=0x10 0xd7=0x10d7
-egg case web=0x10 0xd8=0x10d8
-egg case=0x10 0xd9=0x10d9
-cocoon=0x10 0xda=0x10da
-cocoon=0x10 0xdb=0x10db
-cocoon=0x10 0xdc=0x10dc
-web=0x10 0xdd=0x10dd
+spiderweb=$item_spiderweb1A_1=10b8
+spiderweb=$item_spiderweb1B_1=10c1
+spiderweb=$item_spiderweb1C_1=10c0
+spiderweb=$item_spiderweb1D_1=10ba
+spiderweb=$item_spiderweb1E_1=10b9
+spiderweb=$item_spiderweb2A_1=10c2
+spiderweb=$item_spiderweb2B_1=10c3
+spiderweb=$item_spiderweb2C_1=10c4
+spiderweb=$item_spiderweb2D_1=10c5
+spiderweb=$item_spiderweb3A_1=10ca
+spiderweb=$item_spiderweb3B_1=10cb
+spiderweb=$item_spiderweb3C_1=10cc
+spiderweb=$item_spiderweb3D_1=10cd
+small spiderweb=$item_small_spiderweb4_1=10d2
+small spiderweb=$item_small_spiderweb5_1=10d4
+small spiderweb=$item_small_spiderweb6_1=10d6
+small spiderweb=$item_small_spiderweb7_1=0ee3
+small spiderweb=$item_small_spiderweb8_1=0ee5
+spideregg spiderweb=$item_spideregg_case1=10d8
+cocoon=$item_cocoon1=10da
+cocoon=$item_cocoon2=10db
+cocoon=$item_cocoon3=10dc
+cocoon open=$item_cocoon_open=10dd
 }
 Games
 {
-backgammon game=0x0f 0xad=0x0fad
-chessmen=0x0e 0x12=0x0e12
-chessmen=0x0e 0x13=0x0e13
-chessmen=0x0e 0x14=0x0e14
-cards=0x0e 0x15=0x0e15
-cards=0x0e 0x16=0x0e16
-cards=0x0e 0x17=0x0e17
-cards=0x0e 0x18=0x0e18
-cards=0x0e 0x19=0x0e19
-checkers=0x0e 0x1a=0x0e1a
-checkers=0x0e 0x1b=0x0e1b
-backgammon board=0x0e 0x1c=0x0e1c
-playing cards=0x0f 0xa2=0x0fa2
-playing cards=0x0f 0xa3=0x0fa3
-checkers=0x0f 0xa4=0x0fa4
-checkers=0x0f 0xa5=0x0fa5
-game board=0x0f 0xa6=0x0fa6
-dice and cup=0x0f 0xa7=0x0fa7
-chess pieces=0x0f 0xa8=0x0fa8
-tarot=0x12 0xa5=0x12a5
-tarot=0x12 0xa6=0x12a6
-tarot=0x12 0xa7=0x12a7
-tarot=0x12 0xa8=0x12a8
-tarot=0x12 0xa9=0x12a9
-tarot=0x12 0xaa=0x12aa
-decks of tarot=0x12 0xab=0x12ab
-decks of tarot=0x12 0xac=0x12ac
-dartboard=0x1e 0x2e=0x1e2e
-dartboard=0x1e 0x2f=0x1e2f
-dartboard w/axe=0x1e 0x30=0x1e30
-dartboard w/axe=0x1e 0x31=0x1e31
-dartboard w/knives=0x1e 0x32=0x1e32
-dartboard w/knives=0x1e 0x33=0x1e33
+backgammon=item_backgammon_1=0fad
+black chessmen=item_black_chessmen1_1=0e12
+white chessmen=item_white_chessmen2_1=0e14
+cards1=item_cards1_1=0e15
+cards2=item_cards2_1=0fa2
+carddeck=item_deck_of_cards=0e17
+red checkers=item_red_checkers_1=0e1a
+white checkers=item_white_checkers_1=0e1b
+checkerboard=item_checker_board=0fa6
+dice and cup=item_dice_and_cup=0fa7
+tarot1=item_tarot1_1=12a5
+tarot2=item_tarot2_1=12a7
+tarot3=item_tarot3_1=12a9
+tarotdecks=item_decks_of_tarot_1=12ab
+axe dartboard=item_dartboard_axe_1=1e30
+knive dartboard=item_dartboard_knives_1=1e32
+dartboard=item_dartboard_2=1e2f
 }
 Money and jewelery
 {
@@ -747,7 +709,7 @@ pickpocket dip=0x1e 0xc3=0x1ec3
 pickpocket dip=0x1e 0xc4=0x1ec4
 pickpocket dip=0x1e 0xc5=0x1ec5
 }
-Monster 0xFigures
+Monster Figures
 {
 ettin frame=0x20 0xc8=0x20c8
 gorilla frame=0x20 0xc9=0x20c9
