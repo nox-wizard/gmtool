@@ -177,70 +177,70 @@ carpet=$item_carpet6_11=0AFA
 }
 Special
 {
-Brown Bear
+Brown bear
 {
-bearskin rug=0x1e 0x36=0x1e36
-bearskin rug=0x1e 0x37=0x1e37
-bearskin rug=0x1e 0x38=0x1e38
-bearskin rug=0x1e 0x39=0x1e39
-bearskin rug=0x1e 0x3a=0x1e3a
-bearskin rug=0x1e 0x3b=0x1e3b
-bearskin rug=0x1e 0x3c=0x1e3c
-bearskin rug=0x1e 0x3d=0x1e3d
-bearskin rug=0x1e 0x3e=0x1e3e
-bearskin rug=0x1e 0x40=0x1e40
-bearskin rug=0x1e 0x41=0x1e41
-bearskin rug=0x1e 0x42=0x1e42
-bearskin rug=0x1e 0x43=0x1e43
-bearskin rug=0x1e 0x44=0x1e44
-bearskin rug=0x1e 0x45=0x1e45
-bearskin rug=0x1e 0x46=0x1e46
-bearskin rug=0x1e 0x47=0x1e47
-bearskin rug=0x1e 0x48=0x1e48
+brown bear rug=$item_rug_brown_bear1_1=1e36
+brown bear rug=$item_rug_brown_bear2_1=1e37
+brown bear rug=$item_rug_brown_bear3_1=1e38
+brown bear rug=$item_rug_brown_bear4_1=1e39
+brown bear rug=$item_rug_brown_bear5_1=1e3a
+brown bear rug=$item_rug_brown_bear6_1=1e3b
+brown bear rug=$item_rug_brown_bear7_1=1e3c
+brown bear rug=$item_rug_brown_bear8_1=1e3d
+brown bear rug=$item_rug_brown_bear9_1=1e3e
+brown bear rug=$item_rug_brown_bear1_2=1e40
+brown bear rug=$item_rug_brown_bear2_2=1e41
+brown bear rug=$item_rug_brown_bear3_2=1e42
+brown bear rug=$item_rug_brown_bear4_2=1e43
+brown bear rug=$item_rug_brown_bear5_2=1e44
+brown bear rug=$item_rug_brown_bear6_2=1e45
+brown bear rug=$item_rug_brown_bear7_2=1e46
+brown bear rug=$item_rug_brown_bear8_2=1e47
+brown bear rug=$item_rug_brown_bear9_2=1e48
 }
-polar bear
+Polar Bear
 {
-bearskin rug=0x1e 0x49=0x1e49
-bearskin rug=0x1e 0x4a=0x1e4a
-bearskin rug=0x1e 0x4b=0x1e4b
-bearskin rug=0x1e 0x4c=0x1e4c
-bearskin rug=0x1e 0x4d=0x1e4d
-bearskin rug=0x1e 0x4e=0x1e4e
-bearskin rug=0x1e 0x4f=0x1e4f
-bearskin rug=0x1e 0x50=0x1e50
-bearskin rug=0x1e 0x51=0x1e51
-bearskin rug=0x1e 0x53=0x1e53
-bearskin rug=0x1e 0x54=0x1e54
-bearskin rug=0x1e 0x55=0x1e55
-bearskin rug=0x1e 0x56=0x1e56
-bearskin rug=0x1e 0x57=0x1e57
-bearskin rug=0x1e 0x58=0x1e58
-bearskin rug=0x1e 0x59=0x1e59
-bearskin rug=0x1e 0x5a=0x1e5a
-bearskin rug=0x1e 0x5b=0x1e5b
+polar bear rug=$item_rug_polar_bear1_1=1e49
+polar bear rug=$item_rug_polar_bear2_1=1e4a
+polar bear rug=$item_rug_polar_bear3_1=1e4b
+polar bear rug=$item_rug_polar_bear4_1=1e4c
+polar bear rug=$item_rug_polar_bear5_1=1e4d
+polar bear rug=$item_rug_polar_bear6_1=1e4e
+polar bear rug=$item_rug_polar_bear7_1=1e4f
+polar bear rug=$item_rug_polar_bear8_1=1e50
+polar bear rug=$item_rug_polar_bear9_1=1e51
+polar bear rug=$item_rug_polar_bear1_2=1e53
+polar bear rug=$item_rug_polar_bear2_2=1e54
+polar bear rug=$item_rug_polar_bear3_2=1e55
+polar bear rug=$item_rug_polar_bear4_2=1e56
+polar bear rug=$item_rug_polar_bear5_2=1e57
+polar bear rug=$item_rug_polar_bear6_2=1e58
+polar bear rug=$item_rug_polar_bear7_2=1e59
+polar bear rug=$item_rug_polar_bear8_2=1e5a
+polar bear rug=$item_rug_polar_bear9_2=1e5b
 }
-grass mat=0x11 0xe2=0x11e2
-grass mat=0x11 0xe3=0x11e3
-grass mat=0x11 0xe4=0x11e4
-grass mat=0x11 0xe5=0x11e5
-woven mat=0x11 0xe6=0x11e6
-woven mat=0x11 0xe7=0x11e7
-woven mat=0x11 0xe8=0x11e8
-woven mat=0x11 0xe9=0x11e9
-furs=0x11 0xf4=0x11f4
-furs=0x11 0xf5=0x11f5
-furs=0x11 0xf6=0x11f6
-furs=0x11 0xf7=0x11f7
-furs=0x11 0xf8=0x11f8
-furs=0x11 0xf9=0x11f9
-furs=0x11 0xfa=0x11fa
-furs=0x11 0xfb=0x11fb
-fur=0x1f 0x73=0x1f73
-fur=0x1f 0x74=0x1f74
-fur=0x1f 0x75=0x1f75
-fur=0x1f 0x76=0x1f76
-fur=0x1f 0x77=0x1f77
-fur=0x1f 0x78=0x1f78
-fur=0x1f 0x79=0x1f79
-fur=0x1f 0x7a=0x1f7a
+grass mat=$item_grass_mat1_1=11e2
+grass mat=$item_grass_mat2_1=11e3
+grass mat=$item_grass_mat1_2=11e4
+grass mat=$item_grass_mat2_2=11e5
+woven mat=$item_woven_mat1_1=11e6
+woven mat=$item_woven_mat2_1=11e7
+woven mat=$item_woven_mat1_2=11e8
+woven mat=$item_woven_mat2_2=11e9
+fur mat=$item_fur_mat1_1=11f4
+fur mat=$item_fur_mat2_1=11f5
+fur mat=$item_fur_mat3_1=11f6
+fur mat=$item_fur_mat4_1=11f7
+fur mat=$item_fur_mat1_2=11f8
+fur mat=$item_fur_mat2_2=11f9
+fur mat=$item_fur_mat3_2=11fa
+fur mat=$item_fur_mat4_2=11fb
+fur mat=$item_fur_mat5_1=1f73
+fur mat=$item_fur_mat6_1=1f74
+fur mat=$item_fur_mat5_2=1f75
+fur mat=$item_fur_mat6_2=1f76
+fur mat=$item_fur_mat7_1=1f77
+fur mat=$item_fur_mat8_1=1f78
+fur mat=$item_fur_mat7_2=1f79
+fur mat=$item_fur_mat8_2=1f7a
 }
