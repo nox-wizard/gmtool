@@ -1,0 +1,9 @@
+format=D
+
+Healer=1
+Evil Healer=666
+Monster=2
+Guard=4
+Banker=8
+Non Teleport Guard=30
+No AI (Regular npc)=0

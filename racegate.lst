@@ -1,0 +1,17 @@
+format=D
+
+Race Gates
+{
+Human=11000
+Elf=11001
+Half Elf=11002
+Dwarf=11003
+Goblin=11004
+Gnome=11005
+Halfling=11006
+Dryad=11007
+Orc=11008
+Pixie=11009
+Valheru=11010
+Undead=11011
+}

@@ -1,0 +1,298 @@
+format=D
+
+Baking
+{
+sheave of wheat=101507
+sack of flour=101508
+sack of flour 2=101509
+open sack of flour=101510
+open sack of flour 2=101511
+bowl of flour=101512
+dough=101513
+sweet dough=101514
+donuts=101515
+french bread=101501
+muffins=101502
+muffins 1=101503
+muffins 2=101504
+bread loaves=101505
+bread loaves 2=101506
+jars of honey=101516
+unbaked pie=101517
+baked pie=101518
+uncooked pizza=101519
+pizzas=101520
+cookie mix=101521
+pan of cookies=101522
+plate of cookies=101523
+cake mix=101524
+cake=101525
+unbaked apple pie=101526
+apple pie=101527
+unbaked meat pie=101528
+meat pie=101529
+unbaked fish pie=101530
+fish pie=101531
+unbaked quiche=101532
+quiche=101533
+unbaked peach cobbler=101534
+peach cobbler=101535
+unbaked fruit pie=101536
+fruit pie=101537
+unbaked pumpkin pie=101538
+pumpkin pie=101539
+unbaked cheese pizza=101540
+cheese pizzas=101541
+unbaked sausage pizza=101542
+sausage pizzas=101543
+}
+
+Meat
+{
+Animals
+{
+skinned rabbit=102001
+skinned rabbit 2=102002
+rabbit on spit=102003
+rabbit on spit 2=102004
+skinned goat=102020
+skinned goat 2=102021
+sheep carcass=102060
+sheep carcass 2=102061
+beef carcass=102080
+beef carcass 2=102081
+skinned deer=102100
+skinned deer 2=102101
+pigs head=102120
+pigs head 2=102121
+pigs feet=102122
+pigs feet 2=102123
+roast pigs=102124
+roast pigs 2=102125
+cooked lamb leg=102140
+raw lamb leg=102141
+cuts of raw ribs=102160
+cuts of ribs=102161
+}
+Birds
+{
+bird=102501
+bird 2=102502
+bird 3=102503
+bird 4=102504
+lard=102505
+unplucked chicken=102520
+plucked chicken=102521
+chicken on spit=102522
+chicken on spit 2=102523
+raw chicken leg=102524
+cooked chicken leg=102525
+raw birds=102540
+cooked birds=5045=102541
+raw birds 2=102542
+cooked birds 2=102543
+}
+prepared meat
+{
+sausages=102700
+sausages 2=102701
+hams=102702
+hams 2=102703
+sliced ham=102704
+slabs of bacon=102705
+slabs of bacon 2=102706
+slices of bacon=102707
+slices of bacon 2=102708
+bowl of stew=102709
+stew=102710
+}
+}
+Seafood
+{
+Fish
+{
+fish=103001
+fish 2=103002
+fish 3=103003
+fish 4=103004
+raw fish steaks=103005
+fish steaks=103006
+raw fish=103007
+raw fish 2=103008
+raw fish headless=103009
+cooked fish headless=103010
+raw fish headless 2=103011
+cooked fish headless 2=103012
+fish head=103013
+fish head 2=103014
+fish head 3=103015
+small fish=103016
+small fish 2=103017
+small fish 3=103018
+small fish 4=103019
+cooked small fish=103020
+}
+Shell
+{
+shell 1=103251
+shell 2=103252
+shell 3=103253
+conch shell=103254
+nautilus=103255
+shells 1=103256
+shells 2=103257
+shells 3=103258
+shells 4=103259
+}
+}
+Mushrooms
+{
+mushrooms=103501
+mushrooms 2=103502
+mushrooms 3=103503
+mushrooms 4=103504
+mushrooms 5=103505
+mushrooms 6=103506
+mushrooms 7=103507
+mushrooms 8=103508
+mushrooms 9=103509
+mushrooms 10=103510
+mushroom=103511
+mushroom 2=103512
+mushroom 3=103513
+mushroom 4=103514
+}
+
+eggs
+{
+eggs=102901
+eggshells=102902
+fried eggs=102903
+}
+Cheese
+{
+wedges of cheese=103761
+wedges of cheese 1=103762
+wheels of cheese=103763
+}
+
+fruits and vegetable
+{
+fresh
+{
+coconuts=104022
+coconuts 2=104023
+coconuts 3=104024
+coconuts 4=104025
+banana=104026
+skinned banana=104027
+banana 2=104028
+skinnded banana 2=104029
+bunch of bananas=104030
+bunch of bananas 2=104031
+bunches of dates=104032
+lemons=104033
+lemons 1=104034
+limes=104035
+limes 1=104036
+garlic bulb=104037
+garlic bulb 2=104038
+pears=104044
+pears 2=104045
+apples=104046
+grape bunches=104047
+grape bunches 2=104048
+peaches=104049
+peaches 2=104050
+fruit basket=104061
+}
+prepared
+{
+bowl of carrots=104200
+bowl of corn=104201
+bowl of lettuce=104202
+bowl of peas=104203
+bowl of potatoes=104204
+tomato soup=104205
+}
+dried
+{
+dried onions=104400
+dried onions 2=104401
+dried herbs=104402
+dried herbs 2=104403
+}
+}
+tools, dishes, container
+{
+container
+{
+basket=105001
+basket 2=105002
+winnowing basket=105003
+round basket=105004
+square basket=105005
+bushel=105006
+barrel=105007
+wooden keg=105007
+wooden keg 2=105008
+wooden keg2 1=105009
+wooden keg2 2=105010
+bucket=105011
+}
+Tools
+{
+seive=105101
+flour sifter=105102
+rolling pin=105103
+spit=105104
+spit 2=105105
+pewter bowl=105106
+large pewter bowl=105107
+wooden bowl=105108
+large wooden bowl=105109
+dough bowl=105110
+kettle=105111
+frying pan=105112
+frying pan 2=105113
+dirty frypan=105114
+pan=105115
+dirty pan=105116
+pot=105117
+dirty pot=105118
+pot 2=105119
+dirty pot 2=105120
+pot 3=105101
+dirty pot 3=105121
+pot 4=105122
+dirty pot 4=105123
+pot 5=105124
+dirty pot 5=105125
+cauldron=105126
+cauldron 2=105127
+}
+dishes food
+{
+tray=105202
+tray 2=105203
+plate=105204
+dirty plate=105205
+dirty=plate 2=105206
+dirty=plate 3=105207
+plate of food=105208
+plate of food 2=105209
+plate of food 3=105210
+plate of food 4=105211
+ceramic pitcher=105212
+silverware=105213
+silverware 2=105214
+silverware 3=105215
+silverware 4=105216
+spoon=105217
+spoon 2=105218
+knife=105219
+knife 2=105220
+fork=105221
+fork 2=105222
+}
+}

@@ -1,0 +1,283 @@
+format=D
+
+Armor
+{
+Colored Plate Mail
+{
+Black Plate
+{
+Black Plate Tunic=8100
+Black Plate Gorget=8101
+Black Plate Gloves=8102
+Black Plate Helm=8103
+Black Nose Helm=8106
+Black Plate Legs=8104
+Black Plate Sleeves=8105
+}
+Gold Plate
+{
+Golden Plate Tunic=4009
+Golden Plate Gorget=4010
+Golden Plate Gloves=4011
+Golden Plate Helm=4012
+Golden Nose Helm=8107
+Golden Plate Legs=4013
+Golden Plate Sleeves=4014
+}
+Merkite Plate
+{
+Merkite Plate Tunic=8200
+Merkite Plate Gorget=8201
+Merkite Plate Gloves=8202
+Merkite Plate Legs=8204
+Merkite Plate Sleeves=8205
+Merkite Plate Helm=8203
+Merkite Nose Helm=8306
+}
+Verite Plate
+{
+Verite Plate Tunic=8400
+Verite Plate Gorget=8401
+Verite Plate Gloves=8402
+Verite Plate Legs=8404
+Verite Plate Sleeves=8405
+Verite Plate Helm=8403
+Verite Nose Helm=8406
+Verite Close Helm=8407
+Verite Helm=8408
+Verite Bascinet=8409
+}
+Mythril Plate
+{
+Mythril Plate Tunic=8300
+Mythril Plate Gorget=8301
+Mythril Plate Gloves=8302
+Mythril Plate Legs=8304
+Mythril Plate Sleeves=8305
+Mythril Plate Helm=8303
+Mythril Nose Helm=8306
+Mythril Close Helm=8307
+Mythril Helm=8308
+Mythril Bascinet=8309
+}
+Bronze Plate
+{
+Bronze Plate Tunic=8500
+Bronze Plate Gorget=8501
+Bronze Plate Gloves=8502
+Bronze Plate Legs=8504
+Bronze Plate Sleeves=8505
+Bronze Plate Helm=8503
+Bronze Nose Helm=8506
+Bronze Close Helm=8507
+Bronze Helm=8508
+Bronze Bascinet=8509
+}
+Agapite Plate
+{
+Agapite Plate Tunic=8600
+Agapite Plate Gorget=8601
+Agapite Plate Gloves=8602
+Agapite Plate Legs=8604
+Agapite Plate Sleeves=8605
+Agapite Plate Helm=8603
+Agapite Nose Helm=8606
+Agapite Close Helm=8607
+Agapite Helm=8608
+Agapite Bascinet=8609
+}
+}
+Colored Chain Mail
+{
+Black Chain
+{
+Black Chain Tunic=10118
+Black Chain Legs=10119
+Black Chain Coif=10120
+}
+Gold Chain
+{
+Gold Chain Tunic=10121
+Gold Chain Legs=10122
+Gold Chain Coif=10123
+}
+Merkite Chain
+{
+Merkite Chain Tunic=10124
+Merkite Chain Legs=10125
+Merkite Chain Coif=10126
+}
+Verite Chain
+{
+Verite Chain Tunic=10127
+Verite Chain Legs=10128
+Verite Chain Coif=10129
+}
+Mythril Chain
+{
+Mythril Chain Tunic=10130
+Mythril Chain Legs=10131
+Mythril Chain Coif=10132
+}
+Bronze Chain
+{
+Bronze Chain Tunic=10133
+Bronze Chain Legs=10134
+Bronze Chain Coif=10135
+}
+Agapite Chain
+{
+Agapite Chain Tunic=10136
+Agapite Chain Legs=10137
+Agapite Chain Coif=10138
+}
+}
+Plate Mail
+{
+Breastplate=44
+Plate Gorget=45
+Plate Gloves=46
+Plate Helm=47
+Plate Legs=48
+Plate Sleeves=49
+}
+Bone Armor
+{
+Bone Chestplate=50
+Bone Sleeves=51
+Bone Gloves=52
+Bone Helmet=53
+Bone Legs=54
+}
+Chain Mail
+{
+Chain Tunic=55
+Chain Legs=56
+Chain Coif=57
+}
+Ring Mail
+{
+Ring Chest=58
+Ring Arms=59
+Ring Legs=60
+Ring Gloves=61
+}
+Studded Leather Armor
+{
+Studded Leather Gorget=62
+Studded Leather Gloves=63
+Studded Leather Arms=64
+Studded Leather Legs=65
+Studded Leather Chest=66
+}
+Leather Armor
+{
+Leather Arms=67
+Leather Legs=68
+Leather Chest=69
+Leather Cap=326
+Leather Gloves=2532
+Leather Gorget=2533
+}
+Miscellaneous Helms
+{
+Closed Helmet=70
+Helmet=71
+Bascinet=72
+Nose Helm=73
+Orc Helm=74
+}
+Female Armor
+{
+Female Spiked Underwear=75
+Female Plate=76
+Female Leather=77
+Female Studded Leather=78
+Leather Skirt=79
+Leather Bustier=80
+Studded Bustier=81
+}
+Magical Armor
+{
+Magic Plate Mail
+{
+Plate of Defence
+{
+Breastplate=3500
+Plate Gorget=3501
+Plate Gloves=3502
+Plate Helm=3503
+Plate Legs=3504
+Plate Sleeves=3505
+}
+Plate of Guarding
+{
+Breastplate=3510
+Plate Gorget=3511
+Plate Gloves=3512
+Plate Helm=3513
+Plate Legs=3514
+Plate Sleeves=3515
+}
+Plate of Hardening
+{
+Breastplate=3516
+Plate Gorget=3517
+Plate Gloves=3518
+Plate Helm=3519
+Plate Legs=3520
+Plate Sleeves=3521
+}
+Plate of Fortification
+{
+Breastplate=3522
+Plate Gorget=3523
+Plate Gloves=3524
+Plate Helm=3525
+Plate Legs=3526
+Plate Sleeves=3527
+}
+Plate of Invulnerability
+{
+Breastplate=3528
+Plate Gorget=3529
+Plate Gloves=3530
+Plate Helm=3531
+Plate Legs=3532
+Plate Sleeves=3533
+}
+}
+Magic Chain Mail
+{
+Chain of Defence
+{
+Magic Chain Tunic=5125
+Magic Chain Legs=5126
+Magic Chain Coif=5127
+}
+Chain of Guarding
+{
+Magic Chain Tunic of Guarding=5128
+Magic Chain Legs of Guarding=5129
+Magic Chain Coif of Guarding=5130
+}
+Chain of Hardening
+{
+Magic Chain Tunic of Hardening=5131
+Magic Chain Legs of Hardening=5132
+Magic Chain Coif of Hardening=5133
+}
+Chain of Fortification
+{
+Magic Chain Tunic of Fortification=5134
+Magic Chain Legs of Fortification=5135
+Magic Chain Coif of Fortification=5136
+}
+Chain of Invulnerability
+{
+Magic Chain Tunic of Invulnerability=5137
+Magic Chain Legs of Invulnerability=5138
+Magic Chain Coif of Invulnerability=5139
+}
+}
+}

@@ -1,0 +1,585 @@
+format=D
+
+non-magical colored 
+{
+Ringmail
+{
+Iron
+{
+iron ringmail gloves=300001
+iron ringmail sleeves=300002
+iron ringmail leggings=300003
+iron ringmail tunic=300004
+}
+Shadow
+{
+shadow ringmail gloves=300101
+shadow ringmail sleeves=300102
+shadow ringmail leggings=300103
+shadow ringmail tunic=300104
+}
+Merkite
+{
+merkite ringmail gloves=300201
+merkite ringmail sleeves=300202
+merkite ringmail leggings=300203
+merkite ringmail tunic=300204
+}
+Copper
+{
+copper ringmail gloves=300301
+copper ringmail sleeves=300302
+copper ringmail leggings=300303
+copper ringmail tunic=300304
+}
+Silver
+{
+silver ringmail gloves=300401
+silver ringmail sleeves=300402
+silver ringmail leggings=300403
+silver ringmail tunic=300404
+}
+Bronze
+{
+bronze ringmail gloves=300501
+bronze ringmail sleeves=300502
+bronze ringmail leggings=300503
+bronze ringmail tunic=300504
+}
+Gold
+{
+golden ringmail gloves=300601
+golden ringmail sleeves=300602
+golden ringmail leggings=300603
+golden ringmail tunic=300604
+}
+Agpatite
+{
+agapite ringmail gloves=300701
+agapite ringmail sleeves=300702
+agapite ringmail leggings=300703
+agapite ringmail tunic=300704
+}
+Verite
+{
+verite ringmail gloves=300801
+verite ringmail sleeves=300802
+verite ringmail leggings=300803
+verite ringmail tunic=300804
+}
+Valorite
+{
+valorite ringmail gloves=300901
+valorite ringmail sleeves=300902
+valorite ringmail leggings=300903
+valorite ringmail tunic=300904
+}
+}
+Chainmail
+{
+Iron
+{
+iron chain coif=310001
+iron chain leggings=310002
+iron chain tunic=310003
+}
+Shadow
+{
+shadow chain coif=310101
+shadow chain leggings=310102
+shadow chain tunic=310103
+}
+Merkite
+{
+merkite chain coif=310201
+merkite chain leggings=310202
+merkite chain tunic=310203
+}
+Copper
+{
+copper chain coif=310301
+copper chain leggings=310302
+copper chain tunic=310303
+}
+Silver
+{
+silver chain coif=310401
+silver chain leggings=310402
+silver chain tunic=310403
+}
+Bronze
+{
+bronze chain coif=310501
+bronze chain leggings=310502
+bronze chain tunic=310503
+}
+Gold
+{
+golden chain coif=310601
+golden chain leggings=310602
+golden chain tunic=310603
+}
+Agpatite
+{
+agapite chain coif=310701
+agapite chain leggings=310702
+agapite chain tunic=310703
+}
+Verite
+{
+verite chain coif=310801
+verite chain leggings=310802
+verite chain tunic=310803
+}
+Valorite
+{
+valorite chain coif=310901
+valorite chain leggings=310902
+valorite chain tunic=310903
+}
+}
+Platemail
+{
+Iron
+{
+iron plate gorget=320001
+iron plate gloves=320002
+iron plate helm=320003
+iron plate sleeves=320004
+iron plate leggings=320005
+iron female plate=320006
+iron platemail=320007
+}
+Shadow
+{
+shadow plate gorget=320101
+shadow plate gloves=320102
+shadow plate helm=320103
+shadow plate sleeves=320104
+shadow plate leggings=320105
+shadow female plate=320106
+shadow platemail=320107
+}
+Merkite
+{
+merkite plate gorget=320201
+merkite plate gloves=320202
+merkite plate helm=320203
+merkite plate sleeves=320204
+merkite plate leggings=320205
+merkite female plate=320206
+merkite platemail=320207
+}
+Copper
+{
+copper plate gorget=320301
+copper plate gloves=320302
+copper plate helm=320303
+copper plate sleeves=320304
+copper plate leggings=320305
+copper female plate=320306
+copper platemail=320307
+}
+Silver
+{
+silver plate gorget=320401
+silver plate gloves=320402
+silver plate helm=320403
+silver plate sleeves=320404
+silver plate leggings=320405
+silver female plate=320406
+silver platemail=320407
+}
+Bronze
+{
+bronze plate gorget=320501
+bronze plate gloves=320502
+bronze plate helm=320503
+bronze plate sleeves=320504
+bronze plate leggings=320505
+bronze female plate=320506
+bronze platemail=320507
+}
+Gold
+{
+golden plate gorget=320601
+golden plate gloves=320602
+golden plate helm=320603
+golden plate sleeves=320604
+golden plate leggings=320605
+golden female plate=320606
+golden platemail=320607
+}
+Agpatite
+{
+agapite plate gorget=320701
+agapite plate gloves=320702
+agapite plate helm=320703
+agapite plate sleeves=320704
+agapite plate leggings=320705
+agapite female plate=320706
+agapite platemail=320707
+}
+Verite
+{
+verite plate gorget=320801
+verite plate gloves=320802
+verite plate helm=320803
+verite plate sleeves=320804
+verite plate leggings=320805
+verite female plate=320806
+verite platemail=320807
+}
+Valorite
+{
+valorite plate gorget=320901
+valorite plate gloves=320902
+valorite plate helm=320903
+valorite plate sleeves=320904
+valorite plate leggings=320905
+valorite female plate=320906
+valorite platemail=320907
+}
+}
+Helms
+{
+Iron
+{
+iron bascinet=330001
+iron close helm=330002
+iron helmet=330003
+iron nose helm=330004
+}
+Shadows
+{
+shadow bascinet=330101
+shadow close helm=330102
+shadow helmet=330103
+shadow nose helm=330104
+}
+Merkite
+{
+merkite bascinet=330201
+merkite close helm=330202
+merkite helmet=330203
+merkite nose helm=330204
+}
+Copper
+{
+copper bascinet=330301
+copper close helm=330302
+copper helmet=330303
+copper nose helm=330304
+}
+Silver
+{
+silver bascinet=330401
+silver close helm=330402
+silver helmet=330403
+silver nose helm=330404
+}
+Bronze
+{
+bronze bascinet=330501
+bronze close helm=330502
+bronze helmet=330503
+bronze nose helm=330504
+}
+Gold
+{
+golden bascinet=330601
+golden close helm=330602
+golden helmet=330603
+golden nose helm=330604
+}
+Agpatite
+{
+agapite bascinet=330701
+agapite close helm=330702
+agapite helmet=330703
+agapite nose helm=330704
+}
+Verite
+{
+verite bascinet=330801
+verite close helm=330802
+verite helmet=330803
+verite nose helm=330804
+}
+Valorite
+{
+valorite bascinet=330901
+valorite close helm=330902
+valorite helmet=330903
+valorite nose helm=330904
+}
+}
+Shields
+{
+Iron
+{
+iron buckler=340001
+iron metal shield=340002
+iron bronze shield=340003
+iron wooden kite shield=340004
+iron metal kite shield=340005
+iron heater=340006
+iron chaos shield=340007
+iron order shield=340008
+}
+Shadow
+{
+shadow buckler=340101
+shadow metal shield=340102
+shadow bronze shield=340103
+shadow wooden kite shield=340104
+shadow metal kite shield=340105
+shadow heater=340106
+shadow chaos shield=340107
+shadow order shield=340108
+}
+Merkite
+{
+merkite buckler=340201
+merkite metal shield=340202
+merkite bronze shield=340203
+merkite wooden kite shield=340204
+merkite metal kite shield=340205
+merkite heater=340206
+merkite chaos shield=340207
+merkite order shield=340208
+}
+Copper
+{
+copper buckler=340301
+copper metal shield=340302
+copper bronze shield=340303
+copper wooden kite shield=340304
+copper metal kite shield=340305
+copper heater=340306
+copper chaos shield=340307
+copper order shield=340308
+}
+Silver
+{
+silver buckler=340401
+silver metal shield=340402
+silver bronze shield=340403
+silver wooden kite shield=340404
+silver metal kite shield=340405
+silver heater=340406
+silver chaos shield=340407
+silver order shield=340408
+}
+Bronze
+{
+bronze buckler=340501
+bronze metal shield=340502
+bronze bronze shield=340503
+bronze wooden kite shield=340504
+bronze metal kite shield=340505
+bronze heater=340506
+bronze chaos shield=340507
+bronze order shield=340508
+}
+Gold
+{
+golden buckler=340601
+golden metal shield=340602
+golden bronze shield=340603
+golden wooden kite shield=340604
+golden metal kite shield=340605
+golden heater=340606
+golden chaos shield=340607
+golden order shield=340608
+}
+Agpatite
+{
+agapite buckler=340701
+agapite metal shield=340702
+agapite bronze shield=340703
+agapite wooden kite shield=340704
+agapite metal kite shield=340705
+agapite heater=340706
+agapite chaos shield=340707
+agapite order shield=340708
+}
+Verite
+{
+verite buckler=340801
+verite metal shield=340802
+verite bronze shield=340803
+verite wooden kite shield=340804
+verite metal kite shield=340805
+verite heater=340806
+verite chaos shield=340807
+verite order shield=340808
+}
+Valorite
+{
+valorite buckler=340901
+valorite metal shield=340902
+valorite bronze shield=340903
+valorite wooden kite shield=340904
+valorite metal kite shield=340905
+valorite heater=340906
+valorite chaos shield=340907
+valorite order shield=340908
+}
+}
+Bone
+{
+bone chest=50
+bone arms=51
+bone gloves=52
+bone helm=53
+bone legs=54
+}
+Studded leather
+{
+studded leather gorget=62
+studded leather gloves=63
+studded leather sleeves=64
+studded leather leggings=65
+studded leather tunic=66
+}
+Leather
+{
+leather gloves=2532
+leather gorget=2533
+leather sleeves=67
+leather leggings=68
+leather tunic=69
+}
+}
+Magic Armor
+{
+Plate
+{
+iron platemail of durability=5059
+iron plate gorget of duribility=5060
+iron plate gloves of duribility=5061
+iron plate helm of duribility=5062
+iron plate leggings of duribility=5063
+iron plate sleeves of duribility=5064
+iron substantial platemail=5065
+iron substantial plate gorget=5066
+iron substantial plate gloves=5067
+iron substantial plate helm=5068
+iron substantial plate leggings=5069
+iron substantial plate sleeves=5070
+iron massive platemail=5071
+iron massive plate gorget=5072
+iron massive plate gloves=5073
+iron massive plate helm=5074
+iron massive plate leggings=5075
+iron massive plate sleeves=5076
+iron fortified platemail=5077
+iron fortified plate gorget=5078
+iron fortified plate gloves=5079
+iron fortified plate helm=5080
+iron fortified plate leggings=5081
+iron fortified plate sleeves=5082
+iron indestructible platemail=5083
+iron indestructible plate gorget=5084
+iron indestructible plate gloves=5085
+iron indestructible plate helm=5086
+iron indestructible plate leggings=5087
+iron indestructible plate sleeves=5088
+iron platemail of defence=3500
+iron plate gorget of defence=3501
+iron plate gloves of defence=3502
+iron plate helm of defence=3503
+iron plate leggings of defence=3504
+iron plate sleeves of defence=3505
+iron platemail of guarding=3510
+iron plate gorget of guarding=3511
+iron plate gloves of guarding=3512
+iron plate helm of guarding=3513
+iron plate leggings of guarding=3514
+iron plate sleeves of guarding=3515
+iron plate of hardening=3516
+iron plate gorget of hardening=3517
+iron plate gloves of hardening=3518
+iron plate helm of hardening=3519
+iron plate leggings of hardening=3520
+iron plate sleeves of hardening=3521
+iron platemail of fortification=3522
+iron plate gorget of fortification=3523
+iron plate gloves of fortification=3524
+iron plate helm of fortification=3525
+iron plate leggings of fortification=3526
+iron plate sleeves of fortification=3527
+iron platemail of invulnerability=3528
+iron plate gorget of invulnerability=3529
+iron plate gloves of invulnerability=3530
+iron plate helm of invulnerability=3531
+iron plate leggings of invulnerability=3532
+iron plate sleeves of invulnerability=3533
+}
+Chainmail
+{
+iron chainmail of defence=5125
+iron chain legs of defence=5126
+iron chain coif of defence=5127
+iron chainmail of guarding=5128
+iron chain legs of guarding=5129
+iron chain coif of guarding=5130
+iron chainmail of hardening=5131
+iron chain legs of hardening=5132
+iron chain coif of hardening=5133
+iron chainmail of fortification=5134
+iron chain legs of fortification=5135
+iron chain coif of fortification=5136
+iron chainmail of invulnerability=5137
+iron chain legs of invulnerability=5138
+iron chain coif of invulnerability=5139
+}
+Shields
+{
+iron bronze shield of defence=4300
+iron bronze shield of guarding=4301
+iron bronze shield of hardening=4302
+iron bronze shield of fortification=4303
+iron bronze shield of invulnerablity=4304
+iron buckler of defence=4305
+iron buckler of guarding=4306
+iron buckler of hardening=4307
+iron buckler of fortification=4308
+iron buckler of invulnerablity=4309
+iron kite shield of defence=4310
+iron kite shield of guarding=4311
+iron kite shield of hardening=4312
+iron kite shield of fortification=4313
+iron kite shield of invulnerablity=4314
+iron metal shield of defence=4315
+iron metal shield of guarding=4316
+iron metal shield of hardening=4317
+iron metal shield of fortification=4318
+iron metal shield of invulnerablity=4319
+iron wooden kite shield of defence=4320
+iron wooden kite shield of guarding=4321
+iron wooden kite shield of hardening=4322
+iron wooden kite shield of fortification=4323
+iron wooden kite shield of invulnerablity=4324
+iron wooden shield of defence=4325
+iron wooden shield of guarding=4326
+iron wooden shield of hardening=4327
+iron wooden shield of fortification=4328
+iron wooden shield of invulnerablity=4329
+iron heater sheild of defence=4330
+iron heater sheild of guarding=4331
+iron heater sheild of hardening=4332
+iron heater sheild of fortification=4333
+iron heater sheild of invulnerablity=4334
+}
+}
+Ranger stuff
+{
+ranger tunic=95500
+ranger gorget=95501
+ranger gloves=95502
+ranger sleeves=95503
+ranger leggings=95504
+}
+wooden shield=4335

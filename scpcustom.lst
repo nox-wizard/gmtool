@@ -1,0 +1,233 @@
+format=D
+
+resources
+{
+boards=7020
+logs=7021
+}
+Tools
+{
+carpentry tools list=7018
+hatchet=140000
+hatchet2=140001
+chisel=140002
+chisel2=140003
+dovetail saw=140004
+dovetail saw2=140005
+hammer=140006
+hammer2=140007
+moulding planes=140008
+moulding planes2=140009
+nails=140010
+nails2=140011
+jointing plane=140012
+jointing plane2=140013
+smoothing plane=140014
+smoothing plane2=140015
+saw=140016
+saw2=140017
+draw knife=140018
+froe=140019
+inshave=140020
+scorp=140021
+woodworkers bench1 1=140022
+woodworkers bench1 2=140023
+woodworkers bench1 3=140024
+vise1=140025
+woodworkers bench2 1=140026
+woodworkers bench2 2=140027
+woodworkers bench2 3=140028
+vise2=140029
+coopers bench1 1=140030
+coopers bench1 2=140031
+coopers bench2 1=140032
+coopers bench2 2=140033
+}
+Display case
+{
+display case=140201
+display case 1=140202
+display case 2=140203
+display case 3=140204
+display case 4=140205
+display case 5=140206
+display case 6=140207
+display case 7=140208
+display case 8=140209
+display case 9=140210
+display case=140211
+display case B=140212
+display case C=140213
+display case D=140214
+display case E=140215
+display case F=140216
+display case G=140217
+}
+Container
+{
+large wooden crate=140401
+medium wooden crate=140402
+medium wooden crate 1=140403
+large wooden crate 1=140404
+wooden chest=140405
+wooden chest 1=140406
+tub=140407
+wooden keg=140408
+wooden keg 2=140409
+wooden keg2 1=140410
+wooden keg2 2=140411
+bucket=140412
+barrel lid=140413
+barrel without lid=140414
+barrel with lid=140415
+barrel staves=140416
+barrel hoops=140417
+barrel hoops2=140418
+barrel hoops3=140419
+}
+Table
+{
+yew table A=200000
+yew table B=200001
+yew table C=200002
+yew table D=200003
+yew table E=200004
+yew table F=200005
+yew table G=200006
+yew table H=200007
+yew table I=200008
+yew table J=200009
+yew table K=200010
+yew table L=200011
+yew table M=200012
+yew table N=200013
+yew table O=200014
+yew table P=200015
+yew table Q=200016
+yew table R=200017
+yew table S=200018
+yew table T=200019
+yew table U=200020
+yew table V=200021
+yew table W=200022
+yew table X=200023
+yew table Y=200024
+yew table=200025
+yew table 1=200026
+yew table 2=200027
+yew table 3=200028
+yew table 4=200029
+yew table 5=200030
+yew table 6=200031
+yew table 7=200032
+yew table 8=200033
+yew table 9=200034
+yew table 10=200035
+yew table 11=200036
+yew table 12=200037
+yew table 13=200038
+yew table 14=200039
+yew table 15=200040
+yew table 16=200041
+
+yew counter=200043
+yew counter 1=200044
+yew counter 2=200045
+yew counter 4=200046
+yew writing desk=200047
+yew writing desk 1=200048
+yew writing desk 2=200049
+yew writing desk 3=200050
+}
+other
+{
+yew dresser1 1=200100
+yew dresser1 2=200101
+yew dresser2 1=200102
+yew dresser2 2=200103
+yew armoire=200104
+yew armorie=200105
+yew armoire 1=200106
+yew armoire 2=200107
+yew chest of drawers=200108
+yew chest of drawers 1=200109
+yew chest of drawers 2=200110
+yew chest of drawers 3=200111
+}
+Bookcase
+{
+yew bookcase=200150
+yew bookcase 1=200151
+yew bookcase 2=200152
+yew bookcase 3=200153
+yew bookcase 4=200154
+yew bookcase 5=200155
+yew wooden shelf=200156
+yew wooden shelf 1=200157
+}
+Bed
+{
+yew bed=200200
+yew bed 1=200201
+yew bed 2=200202
+yew bed 3=200203
+yew bed 4=200204
+yew bed 5=200205
+yew bed 6=200206
+yew bed 7=200207
+yew bed-east deed=200208
+yew bed 8=200209
+yew bed-south deed=200210
+yew bed 9=200211
+yew bed facing south deed=200212
+yew bed facing east deed=200213
+}
+Chairs
+{
+yew stool=200300
+yew stool 1=200301
+yew wooden bench=200302
+yew wooden bench 1=200303
+yew bench=200304
+yew bench 1=200305
+yew bench 2=200306
+yew bench 3=200307
+yew bench 4=200308
+yew bench 5=200309
+yew bench 6=200310
+yew bench 7=200311
+yew bench 8=200312
+yew bench 9=200313
+yew bench 10=200314
+yew bench 11=200315
+yew bench 12=200316
+yew bench A=200317
+yew bench B=200318
+yew bench C=200319
+yew bench D=200320
+yew bench E=200321
+yew bench F=200322
+
+yew throne=200350
+yew throne 1=200351
+yew wooden chair=200352
+yew wooden chair 1=200353
+yew wooden chair 2=200354
+yew wooden chair 3=200355
+yew fancy chair=200356
+yew fancy chair 1=200357
+yew fancy chair 2=200358
+yew fancy chair 3=200359
+yew fancy chair 4=200360
+yew fancy chair 5=200361
+yew fancy chair 6=200362
+yew fancy chair 7=200363
+yew wooden chair 4=200364
+yew wooden chair 5=200365
+yew wooden chair 6=200366
+yew wooden chair 7=200367
+yew straw chair=200368
+yew straw chair 1=200369
+yew straw chair 2=200370
+yew straw chair 3=200371
+}

@@ -1,0 +1,155 @@
+format=D
+
+wooden shield=4335
+non-magical Shields
+{
+Iron
+{
+iron buckler=340001
+iron metal shield=340002
+iron bronze shield=340003
+iron wooden kite shield=340004
+iron metal kite shield=340005
+iron heater=340006
+iron chaos shield=340007
+iron order shield=340008
+}
+Shadow
+{
+shadow buckler=340101
+shadow metal shield=340102
+shadow bronze shield=340103
+shadow wooden kite shield=340104
+shadow metal kite shield=340105
+shadow heater=340106
+shadow chaos shield=340107
+shadow order shield=340108
+}
+Merkite
+{
+merkite buckler=340201
+merkite metal shield=340202
+merkite bronze shield=340203
+merkite wooden kite shield=340204
+merkite metal kite shield=340205
+merkite heater=340206
+merkite chaos shield=340207
+merkite order shield=340208
+}
+Copper
+{
+copper buckler=340301
+copper metal shield=340302
+copper bronze shield=340303
+copper wooden kite shield=340304
+copper metal kite shield=340305
+copper heater=340306
+copper chaos shield=340307
+copper order shield=340308
+}
+Silver
+{
+silver buckler=340401
+silver metal shield=340402
+silver bronze shield=340403
+silver wooden kite shield=340404
+silver metal kite shield=340405
+silver heater=340406
+silver chaos shield=340407
+silver order shield=340408
+}
+Bronze
+{
+bronze buckler=340501
+bronze metal shield=340502
+bronze bronze shield=340503
+bronze wooden kite shield=340504
+bronze metal kite shield=340505
+bronze heater=340506
+bronze chaos shield=340507
+bronze order shield=340508
+}
+Gold
+{
+golden buckler=340601
+golden metal shield=340602
+golden bronze shield=340603
+golden wooden kite shield=340604
+golden metal kite shield=340605
+golden heater=340606
+golden chaos shield=340607
+golden order shield=340608
+}
+Agpatite
+{
+agapite buckler=340701
+agapite metal shield=340702
+agapite bronze shield=340703
+agapite wooden kite shield=340704
+agapite metal kite shield=340705
+agapite heater=340706
+agapite chaos shield=340707
+agapite order shield=340708
+}
+Verite
+{
+verite buckler=340801
+verite metal shield=340802
+verite bronze shield=340803
+verite wooden kite shield=340804
+verite metal kite shield=340805
+verite heater=340806
+verite chaos shield=340807
+verite order shield=340808
+}
+Valorite
+{
+valorite buckler=340901
+valorite metal shield=340902
+valorite bronze shield=340903
+valorite wooden kite shield=340904
+valorite metal kite shield=340905
+valorite heater=340906
+valorite chaos shield=340907
+valorite order shield=340908
+}
+}
+
+Magic Shields
+{
+iron bronze shield of defence=4300
+iron bronze shield of guarding=4301
+iron bronze shield of hardening=4302
+iron bronze shield of fortification=4303
+iron bronze shield of invulnerablity=4304
+iron buckler of defence=4305
+iron buckler of guarding=4306
+iron buckler of hardening=4307
+iron buckler of fortification=4308
+iron buckler of invulnerablity=4309
+iron kite shield of defence=4310
+iron kite shield of guarding=4311
+iron kite shield of hardening=4312
+iron kite shield of fortification=4313
+iron kite shield of invulnerablity=4314
+iron metal shield of defence=4315
+iron metal shield of guarding=4316
+iron metal shield of hardening=4317
+iron metal shield of fortification=4318
+iron metal shield of invulnerablity=4319
+iron wooden kite shield of defence=4320
+iron wooden kite shield of guarding=4321
+iron wooden kite shield of hardening=4322
+iron wooden kite shield of fortification=4323
+iron wooden kite shield of invulnerablity=4324
+iron wooden shield of defence=4325
+iron wooden shield of guarding=4326
+iron wooden shield of hardening=4327
+iron wooden shield of fortification=4328
+iron wooden shield of invulnerablity=4329
+iron heater sheild of defence=4330
+iron heater sheild of guarding=4331
+iron heater sheild of hardening=4332
+iron heater sheild of fortification=4333
+iron heater sheild of invulnerablity=4334
+}

@@ -1,0 +1,157 @@
+format=D
+
+T2A List 1
+{
+Kraken=400
+Titan=401
+Giant Toad=402
+Bullfrog=403
+Cyclopedian Warrior=404
+Mummy=405
+Snow Elemental=406
+Ice Snake=407
+Ice Titan=1202
+Frost Troll=408
+Swamp Tentacle=409
+Terathen Drone=410
+Terathen Warrior=411
+Terathen Avenger=412
+Terathen Matriarche=413
+Stone Harpy=414
+Stone Gargoyle=415
+}
+T2A List 2
+{
+Imp=417
+Ice Fiend=418
+Ophidian Warrior=420
+Ophidian Enforcer=421
+Ophidian Avenger=422
+Ophidian Apprentice=423
+Ophidian Shaman=424
+Ophidian Matriarche=425
+Lava Lizard=426
+Frenzied Ostard=427
+Forest Ostard=428
+Desert Ostard=429
+Nightmare=430
+Efreet=432
+Frost Ooze=433
+}
+T2A List 3
+{
+Elder Gazer=434
+Hellcat=435
+Ice Elemental=437
+Ophidian Knight=438
+Phoenix=439
+Ice Serpent=440
+Lava Serpent=441
+Frost Spider=442
+}
+Deamon/Elementals
+{
+an air elemental=19
+a blood elemental=88
+the Collector of Souls=16
+a daemon=65
+a daemon W/Sword=17
+an earth elemental=20
+a fire elemental=21
+the Lord of the Abyss=64
+a poison elemental=89
+the Slayer=63
+a water elemental=22
+}
+Dragon-Kin
+{
+a Wyvern (brown)=416
+a Drake (red)=78
+a Drake (brown)=40
+a Dragon (brown)=18
+a Dragon (red)=66
+an ancient Wyrm (brown)=93
+an ancient Wyrm (brown)=431
+an ancient Wyrm (red)=675
+a Dragon (brown)=665
+a Drake (brown)=674
+}
+Orc Kin
+{
+an ettin=12
+an ettin with axe=67
+an orc=1
+an orc with club=69
+an orcish mage=90
+an orcish captian=91
+an orcish lord=92
+an ogre=11
+an ogre lord=80
+a troll=41
+a troll 2=74
+a troll 3=75
+}
+Undead Creatures
+{
+a burning skeleton=616
+a dracula=2008
+a frankenstien=2013
+a headless=28
+a headless mage=2009
+a lich=24
+a lich lord=68
+a rotting corpse=617
+a skeletal knight=77
+a skeletal mage=87
+a skeleton=36
+a skeleton with axe=76
+a spectre=25
+a vampire (he)=2011
+a vampire (she)=2012
+a warlock=611
+a wraith=10005
+a zombie=13
+a zombie elder=2010
+}
+Other Monsters A-L
+{
+a corpser=15
+a gargoyle=14
+a gazer=23
+a giant rat=79
+a giant scorpion=32
+a giant serpent=39
+a giant spider=26
+a dark spider=1005
+a harpy=27
+a harpy hen=96
+ice giant=614
+a lizardman=29
+a lizardman with spear=72
+a lizardman with hammer=73
+}
+Other Monsters M-Z
+{
+a mongbat=38
+a ratman=30
+a ratman with club=70
+a ratman with sword=71
+a ratman mage=554
+a reaper=31
+a sewer rat=62
+a slime=35
+a snake=37
+a wisp=33
+}
+New Monsters
+{
+a Fire Bat=619
+a Demon Dog=679
+a Poldergueist=1012
+a Poldergueist Lord=1013
+a Savage=1204
+a Savage=1205
+a Savage Shaman=1206
+a Savage Chief=1207
+a Bloodknight=1208
+}

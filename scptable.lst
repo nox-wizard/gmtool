@@ -1,0 +1,645 @@
+format=D
+
+Wooden
+{
+yew table
+{
+yew counter1 1=200000
+yew counter1 2=200001
+yew counter2 1=200002
+yew counter2 2=200003
+
+yew table A1 1=200004
+yew table A1 2=200005
+yew table A2 1=200006
+yew table A2 2=200007
+yew table B1 1=200008
+yew table B1 2=200009
+yew table B1 3=200010
+yew table B1 4=200011
+yew table B1 5=200012
+yew table B2 1=200013
+yew table B2 2=200014
+yew table B2 3=200015
+yew table B2 4=200016
+yew table B2 5=200017
+yew table C1 1=200018
+yew table C1 2=200019
+yew table C2 1=200020
+yew table C2 2=200021
+yew table D1 1=200022
+yew table D1 2=200023
+yew table D1 3=200024
+yew table D1 4=200025
+yew table D1 5=200026
+yew table D2 1=200027
+yew table D2 2=200028
+yew table D2 3=200029
+yew table D2 4=200030
+yew table D2 5=200031
+yew table E1=200032
+yew table E2=200033
+yew table F1=200034
+yew table F2=200035
+yew table G1 1=200036
+yew table G1 2=200037
+yew table G2 1=200038
+yew table G2 2=200039
+yew table H1 1=200040
+yew table H1 2=200041
+yew table H1 3=200042
+yew table H2 1=200043
+yew table H2 2=200044
+yew table H2 3=200045
+yew table I=200046
+yew table J=200047
+yew table K=200048
+yew table L=200049
+yew table M1 1=200050
+yew table M1 2=200051
+yew table M2 1=200052
+yew table M2 2=200053
+
+yew writing desk 1=200054
+yew writing desk 2=200055
+yew writing desk 3=200056
+yew writing desk 4=200057
+}
+
+maple table
+{
+maple counter1 1=200500
+maple counter1 2=200501
+maple counter2 1=200502
+maple counter2 2=200503
+
+maple table A1 1=200504
+maple table A1 2=200505
+maple table A2 1=200506
+maple table A2 2=200507
+maple table B1 1=200508
+maple table B1 2=200509
+maple table B1 3=200510
+maple table B1 4=200511
+maple table B1 5=200512
+maple table B2 1=200513
+maple table B2 2=200514
+maple table B2 3=200515
+maple table B2 4=200516
+maple table B2 5=200517
+maple table C1 1=200518
+maple table C1 2=200519
+maple table C2 1=200520
+maple table C2 2=200521
+maple table D1 1=200522
+maple table D1 2=200523
+maple table D1 3=200524
+maple table D1 4=200525
+maple table D1 5=200526
+maple table D2 1=200527
+maple table D2 2=200528
+maple table D2 3=200529
+maple table D2 4=200530
+maple table D2 5=200531
+maple table E1=200532
+maple table E2=200533
+maple table F1=200534
+maple table F2=200535
+maple table G1 1=200536
+maple table G1 2=200537
+maple table G2 1=200538
+maple table G2 2=200539
+maple table H1 1=200540
+maple table H1 2=200541
+maple table H1 3=200542
+maple table H2 1=200543
+maple table H2 2=200544
+maple table H2 3=200545
+maple table I=200546
+maple table J=200547
+maple table K=200548
+maple table L=200549
+maple table M1 1=200550
+maple table M1 2=200551
+maple table M2 1=200552
+maple table M2 2=200553
+
+maple writing desk 1=200554
+maple writing desk 2=200555
+maple writing desk 3=200556
+maple writing desk 4=200557
+}
+
+pine table
+{
+pine counter1 1=201000
+pine counter1 2=201001
+pine counter2 1=201002
+pine counter2 2=201003
+
+pine table A1 1=201004
+pine table A1 2=201005
+pine table A2 1=201006
+pine table A2 2=201007
+pine table B1 1=201008
+pine table B1 2=201009
+pine table B1 3=201010
+pine table B1 4=201011
+pine table B1 5=201012
+pine table B2 1=201013
+pine table B2 2=201014
+pine table B2 3=201015
+pine table B2 4=201016
+pine table B2 5=201017
+pine table C1 1=201018
+pine table C1 2=201019
+pine table C2 1=201020
+pine table C2 2=201021
+pine table D1 1=201022
+pine table D1 2=201023
+pine table D1 3=201024
+pine table D1 4=201025
+pine table D1 5=201026
+pine table D2 1=201027
+pine table D2 2=201028
+pine table D2 3=201029
+pine table D2 4=201030
+pine table D2 5=201031
+pine table E1=201032
+pine table E2=201033
+pine table F1=201034
+pine table F2=201035
+pine table G1 1=201036
+pine table G1 2=201037
+pine table G2 1=201038
+pine table G2 2=201039
+pine table H1 1=201040
+pine table H1 2=201041
+pine table H1 3=201042
+pine table H2 1=201043
+pine table H2 2=201044
+pine table H2 3=201045
+pine table I=201046
+pine table J=201047
+pine table K=201048
+pine table L=201049
+pine table M1 1=201050
+pine table M1 2=201051
+pine table M2 1=201052
+pine table M2 2=201053
+
+pine writing desk 1=201054
+pine writing desk 2=201055
+pine writing desk 3=201056
+pine writing desk 4=201057
+}
+
+mahogany table
+{
+mahogany counter1 1=201500
+mahogany counter1 2=201501
+mahogany counter2 1=201502
+mahogany counter2 2=201503
+
+mahogany table A1 1=201504
+mahogany table A1 2=201505
+mahogany table A2 1=201506
+mahogany table A2 2=201507
+mahogany table B1 1=201508
+mahogany table B1 2=201509
+mahogany table B1 3=201510
+mahogany table B1 4=201511
+mahogany table B1 5=201512
+mahogany table B2 1=201513
+mahogany table B2 2=201514
+mahogany table B2 3=201515
+mahogany table B2 4=201516
+mahogany table B2 5=201517
+mahogany table C1 1=201518
+mahogany table C1 2=201519
+mahogany table C2 1=201520
+mahogany table C2 2=201521
+mahogany table D1 1=201522
+mahogany table D1 2=201523
+mahogany table D1 3=201524
+mahogany table D1 4=201525
+mahogany table D1 5=201526
+mahogany table D2 1=201527
+mahogany table D2 2=201528
+mahogany table D2 3=201529
+mahogany table D2 4=201530
+mahogany table D2 5=201531
+mahogany table E1=201532
+mahogany table E2=201533
+mahogany table F1=201534
+mahogany table F2=201535
+mahogany table G1 1=201536
+mahogany table G1 2=201537
+mahogany table G2 1=201538
+mahogany table G2 2=201539
+mahogany table H1 1=201540
+mahogany table H1 2=201541
+mahogany table H1 3=201542
+mahogany table H2 1=201543
+mahogany table H2 2=201544
+mahogany table H2 3=201545
+mahogany table I=201546
+mahogany table J=201547
+mahogany table K=201548
+mahogany table L=201549
+mahogany table M1 1=201550
+mahogany table M1 2=201551
+mahogany table M2 1=201552
+mahogany table M2 2=201553
+
+mahogany writing desk 1=201554
+mahogany writing desk 2=201555
+mahogany writing desk 3=201556
+mahogany writing desk 4=201557
+}
+
+cedar table
+{
+cedar counter1 1=202000
+cedar counter1 2=202001
+cedar counter2 1=202002
+cedar counter2 2=202003
+
+cedar table A1 1=202004
+cedar table A1 2=202005
+cedar table A2 1=202006
+cedar table A2 2=202007
+cedar table B1 1=202008
+cedar table B1 2=202009
+cedar table B1 3=202010
+cedar table B1 4=202011
+cedar table B1 5=202012
+cedar table B2 1=202013
+cedar table B2 2=202014
+cedar table B2 3=202015
+cedar table B2 4=202016
+cedar table B2 5=202017
+cedar table C1 1=202018
+cedar table C1 2=202019
+cedar table C2 1=202020
+cedar table C2 2=202021
+cedar table D1 1=202022
+cedar table D1 2=202023
+cedar table D1 3=202024
+cedar table D1 4=202025
+cedar table D1 5=202026
+cedar table D2 1=202027
+cedar table D2 2=202028
+cedar table D2 3=202029
+cedar table D2 4=202030
+cedar table D2 5=202031
+cedar table E1=202032
+cedar table E2=202033
+cedar table F1=202034
+cedar table F2=202035
+cedar table G1 1=202036
+cedar table G1 2=202037
+cedar table G2 1=202038
+cedar table G2 2=202039
+cedar table H1 1=202040
+cedar table H1 2=202041
+cedar table H1 3=202042
+cedar table H2 1=202043
+cedar table H2 2=202044
+cedar table H2 3=202045
+cedar table I=202046
+cedar table J=202047
+cedar table K=202048
+cedar table L=202049
+cedar table M1 1=202050
+cedar table M1 2=202051
+cedar table M2 1=202052
+cedar table M2 2=202053
+
+cedar writing desk 1=202054
+cedar writing desk 2=202055
+cedar writing desk 3=202056
+cedar writing desk 4=202057
+}
+
+
+alder table
+{
+alder counter1 1=202500
+alder counter1 2=202501
+alder counter2 1=202502
+alder counter2 2=202503
+
+alder table A1 1=202504
+alder table A1 2=202505
+alder table A2 1=202506
+alder table A2 2=202507
+alder table B1 1=202508
+alder table B1 2=202509
+alder table B1 3=202510
+alder table B1 4=202511
+alder table B1 5=202512
+alder table B2 1=202513
+alder table B2 2=202514
+alder table B2 3=202515
+alder table B2 4=202516
+alder table B2 5=202517
+alder table C1 1=202518
+alder table C1 2=202519
+alder table C2 1=202520
+alder table C2 2=202521
+alder table D1 1=202522
+alder table D1 2=202523
+alder table D1 3=202524
+alder table D1 4=202525
+alder table D1 5=202526
+alder table D2 1=202527
+alder table D2 2=202528
+alder table D2 3=202529
+alder table D2 4=202530
+alder table D2 5=202531
+alder table E1=202532
+alder table E2=202533
+alder table F1=202534
+alder table F2=202535
+alder table G1 1=202536
+alder table G1 2=202537
+alder table G2 1=202538
+alder table G2 2=202539
+alder table H1 1=202540
+alder table H1 2=202541
+alder table H1 3=202542
+alder table H2 1=202543
+alder table H2 2=202544
+alder table H2 3=202545
+alder table I=202546
+alder table J=202547
+alder table K=202548
+alder table L=202549
+alder table M1 1=202550
+alder table M1 2=202551
+alder table M2 1=202552
+alder table M2 2=202553
+
+alder writing desk 1=202554
+alder writing desk 2=202555
+alder writing desk 3=202556
+alder writing desk 4=202557
+}
+
+ebony table
+{
+ebony counter1 1=203000
+ebony counter1 2=203001
+ebony counter2 1=203002
+ebony counter2 2=203003
+
+ebony table A1 1=203004
+ebony table A1 2=203005
+ebony table A2 1=203006
+ebony table A2 2=203007
+ebony table B1 1=203008
+ebony table B1 2=203009
+ebony table B1 3=203010
+ebony table B1 4=203011
+ebony table B1 5=203012
+ebony table B2 1=203013
+ebony table B2 2=203014
+ebony table B2 3=203015
+ebony table B2 4=203016
+ebony table B2 5=203017
+ebony table C1 1=203018
+ebony table C1 2=203019
+ebony table C2 1=203020
+ebony table C2 2=203021
+ebony table D1 1=203022
+ebony table D1 2=203023
+ebony table D1 3=203024
+ebony table D1 4=203025
+ebony table D1 5=203026
+ebony table D2 1=203027
+ebony table D2 2=203028
+ebony table D2 3=203029
+ebony table D2 4=203030
+ebony table D2 5=203031
+ebony table E1=203032
+ebony table E2=203033
+ebony table F1=203034
+ebony table F2=203035
+ebony table G1 1=203036
+ebony table G1 2=203037
+ebony table G2 1=203038
+ebony table G2 2=203039
+ebony table H1 1=203040
+ebony table H1 2=203041
+ebony table H1 3=203042
+ebony table H2 1=203043
+ebony table H2 2=203044
+ebony table H2 3=203045
+ebony table I=203046
+ebony table J=203047
+ebony table K=203048
+ebony table L=203049
+ebony table M1 1=203050
+ebony table M1 2=203051
+ebony table M2 1=203052
+ebony table M2 2=203053
+
+ebony writing desk 1=203054
+ebony writing desk 2=203055
+ebony writing desk 3=203056
+ebony writing desk 4=203057
+}
+
+oak table
+{
+oak counter1 1=203500
+oak counter1 2=203501
+oak counter2 1=203502
+oak counter2 2=203503
+
+oak table A1 1=203504
+oak table A1 2=203505
+oak table A2 1=203506
+oak table A2 2=203507
+oak table B1 1=203508
+oak table B1 2=203509
+oak table B1 3=203510
+oak table B1 4=203511
+oak table B1 5=203512
+oak table B2 1=203513
+oak table B2 2=203514
+oak table B2 3=203515
+oak table B2 4=203516
+oak table B2 5=203517
+oak table C1 1=203518
+oak table C1 2=203519
+oak table C2 1=203520
+oak table C2 2=203521
+oak table D1 1=203522
+oak table D1 2=203523
+oak table D1 3=203524
+oak table D1 4=203525
+oak table D1 5=203526
+oak table D2 1=203527
+oak table D2 2=203528
+oak table D2 3=203529
+oak table D2 4=203530
+oak table D2 5=203531
+oak table E1=203532
+oak table E2=203533
+oak table F1=203534
+oak table F2=203535
+oak table G1 1=203536
+oak table G1 2=203537
+oak table G2 1=203538
+oak table G2 2=203539
+oak table H1 1=203540
+oak table H1 2=203541
+oak table H1 3=203542
+oak table H2 1=203543
+oak table H2 2=203544
+oak table H2 3=203545
+oak table I=203546
+oak table J=203547
+oak table K=203548
+oak table L=203549
+oak table M1 1=203550
+oak table M1 2=203551
+oak table M2 1=203552
+oak table M2 2=203553
+
+oak writing desk 1=203554
+oak writing desk 2=203555
+oak writing desk 3=203556
+oak writing desk 4=203557
+}
+
+beech table
+{
+beech counter1 1=204000
+beech counter1 2=204001
+beech counter2 1=204002
+beech counter2 2=204003
+
+beech table A1 1=204004
+beech table A1 2=204005
+beech table A2 1=204006
+beech table A2 2=204007
+beech table B1 1=204008
+beech table B1 2=204009
+beech table B1 3=204010
+beech table B1 4=204011
+beech table B1 5=204012
+beech table B2 1=204013
+beech table B2 2=204014
+beech table B2 3=204015
+beech table B2 4=204016
+beech table B2 5=204017
+beech table C1 1=204018
+beech table C1 2=204019
+beech table C2 1=204020
+beech table C2 2=204021
+beech table D1 1=204022
+beech table D1 2=204023
+beech table D1 3=204024
+beech table D1 4=204025
+beech table D1 5=204026
+beech table D2 1=204027
+beech table D2 2=204028
+beech table D2 3=204029
+beech table D2 4=204030
+beech table D2 5=204031
+beech table E1=204032
+beech table E2=204033
+beech table F1=204034
+beech table F2=204035
+beech table G1 1=204036
+beech table G1 2=204037
+beech table G2 1=204038
+beech table G2 2=204039
+beech table H1 1=204040
+beech table H1 2=204041
+beech table H1 3=204042
+beech table H2 1=204043
+beech table H2 2=204044
+beech table H2 3=204045
+beech table I=204046
+beech table J=204047
+beech table K=204048
+beech table L=204049
+beech table M1 1=204050
+beech table M1 2=204051
+beech table M2 1=204052
+beech table M2 2=204053
+
+beech writing desk 1=204054
+beech writing desk 2=204055
+beech writing desk 3=204056
+beech writing desk 4=204057
+}
+
+walnut table
+{
+walnut counter1 1=204500
+walnut counter1 2=204501
+walnut counter2 1=204502
+walnut counter2 2=204503
+
+walnut table A1 1=204504
+walnut table A1 2=204505
+walnut table A2 1=204506
+walnut table A2 2=204507
+walnut table B1 1=204508
+walnut table B1 2=204509
+walnut table B1 3=204510
+walnut table B1 4=204511
+walnut table B1 5=204512
+walnut table B2 1=204513
+walnut table B2 2=204514
+walnut table B2 3=204515
+walnut table B2 4=204516
+walnut table B2 5=204517
+walnut table C1 1=204518
+walnut table C1 2=204519
+walnut table C2 1=204520
+walnut table C2 2=204521
+walnut table D1 1=204522
+walnut table D1 2=204523
+walnut table D1 3=204524
+walnut table D1 4=204525
+walnut table D1 5=204526
+walnut table D2 1=204527
+walnut table D2 2=204528
+walnut table D2 3=204529
+walnut table D2 4=204530
+walnut table D2 5=204531
+walnut table E1=204532
+walnut table E2=204533
+walnut table F1=204534
+walnut table F2=204535
+walnut table G1 1=204536
+walnut table G1 2=204537
+walnut table G2 1=204538
+walnut table G2 2=204539
+walnut table H1 1=204540
+walnut table H1 2=204541
+walnut table H1 3=204542
+walnut table H2 1=204543
+walnut table H2 2=204544
+walnut table H2 3=204545
+walnut table I=204546
+walnut table J=204547
+walnut table K=204548
+walnut table L=204549
+walnut table M1 1=204550
+walnut table M1 2=204551
+walnut table M2 1=204552
+walnut table M2 2=204553
+
+walnut writing desk 1=204554
+walnut writing desk 2=204555
+walnut writing desk 3=204556
+walnut writing desk 4=204557
+}
+}

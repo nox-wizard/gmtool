@@ -1,0 +1,184 @@
+format=HH
+
+Body Parts
+{
+Blood
+{
+blood=12 2a=122a
+blood=12 2b=122b
+blood=12 2c=122c
+blood=12 2d=122d
+blood=12 2e=122e
+blood smear=12 2f=122f
+blood=16 45=1645
+blood=1c c7=1cc7
+blood=1c c8=1cc8
+blood=1c c9=1cc9
+blood=1c ca=1cca
+blood=1c cb=1ccb
+blood=1c cc=1ccc
+blood=1c cd=1ccd
+blood=1c ce=1cce
+blood=1c cf=1ccf
+blood=1c d0=1cd0
+blood=1c d1=1cd1
+blood=1c d2=1cd2
+blood=1c d3=1cd3
+blood=1c d4=1cd4
+blood=1c d5=1cd5
+blood=1c d6=1cd6
+blood=1c d7=1cd7
+blood=1c d8=1cd8
+blood=1c d9=1cd9
+blood=1c da=1cda
+blood=1c db=1cdb
+blood=1c dc=1cdc
+brain=1c f0=1cf0
+blood=1c f1=1cf1
+blood=1c f2=1cf2
+blood=1c f3=1cf3
+blood=1c f4=1cf4
+blood=1c f5=1cf5
+blood=1c f6=1cf6
+blood=1c f7=1cf7
+blood=1c f8=1cf8
+blood=1c f9=1cf9
+blood=1c fa=1cfa
+blood=1c fb=1cfb
+blood=1c fc=1cfc
+blood=1c fd=1cfd
+blood=1c fe=1cfe
+blood=1c ff=1cff
+blood=1d 00=1d00
+blood=1d 01=1d01
+blood=1d 02=1d02
+blood=1d 03=1d03
+blood=1d 04=1d04
+blood=1d 05=1d05
+blood=1d 06=1d06
+blood=1d 07=1d07
+blood=1d 08=1d08
+blood=1d 09=1d09
+blood=1d 0a=1d0a
+blood=1d 0b=1d0b
+blood=1d 0c=1d0c
+blood=1d 0d=1d0d
+blood=1d 0e=1d0e
+blood=1d 0f=1d0f
+blood=1d 10=1d10
+blood=1d 11=1d11
+blood=1d 12=1d12
+blood=1d 92=1d92
+blood=1d 93=1d93
+blood=1d 94=1d94
+blood=1d 95=1d95
+blood=1d 96=1d96
+}
+Body Parts
+{
+arm=1c dd=1cdd
+body=1c de=1cde
+legs=1c df=1cdf
+torso=1c e0=1ce0
+head=1c e1=1ce1
+leg=1c e2=1ce2
+body part=1c e3=1ce3
+legs=1c e4=1ce4
+arm=1c e5=1ce5
+body=1c e6=1ce6
+legs=1c e7=1ce7
+torso=1c e8=1ce8
+head=1c e9=1ce9
+body part=1c ea=1cea
+legs=1c eb=1ceb
+leg=1c ec=1cec
+heart=1c ed=1ced
+liver=1c ee=1cee
+entrails=1c ef=1cef
+}
+}
+Grave Stuff
+{
+Bones
+{
+bones=0e ca=0eca
+bones=0e cb=0ecb
+bones=0e cc=0ecc
+bones=0e cd=0ecd
+bones=0e ce=0ece
+bones=0e cf=0ecf
+bones=0e d0=0ed0
+bones=0e d1=0ed1
+bones=0e d2=0ed2
+}
+Gravestones
+{
+gravestone=0e d4=0ed4
+gravestone=0e d5=0ed5
+gravestone=0e d6=0ed6
+gravestone=0e d7=0ed7
+gravestone=0e d8=0ed8
+gravestone=0e d9=0ed9
+gravestone=0e da=0eda
+gravestone=0e db=0edb
+gravestone=0e dc=0edc
+gravestone=0e dd=0edd
+gravestone=0e de=0ede
+gravestone=11 65=1165
+gravestone=11 66=1166
+gravestone=11 67=1167
+gravestone=11 68=1168
+gravestone=11 69=1169
+gravestone=11 6a=116a
+gravestone=11 6b=116b
+gravestone=11 6c=116c
+gravestone=11 6d=116d
+gravestone=11 6e=116e
+gravestone=11 6f=116f
+gravestone=11 70=1170
+gravestone=11 71=1171
+gravestone=11 72=1172
+gravestone=11 73=1173
+gravestone=11 74=1174
+gravestone=11 75=1175
+gravestone=11 76=1176
+gravestone=11 77=1177
+gravestone=11 78=1178
+gravestone=11 79=1179
+gravestone=11 7a=117a
+gravestone=11 7b=117b
+gravestone=11 7c=117c
+gravestone=11 7d=117d
+gravestone=11 7e=117e
+gravestone=11 7f=117f
+gravestone=11 80=1180
+gravestone=11 81=1181
+gravestone=11 82=1182
+gravestone=11 83=1183
+gravestone=11 84=1184
+}
+Memorial
+{
+memorial to Gwenno=11 85=1185
+memorial to Gwenno=11 86=1186
+memorial to Gwenno=11 87=1187
+memorial to Gwenno=11 88=1188
+memorial to Gwenno=11 89=1189
+}
+Graves
+{
+grave=0e d3=0ed3
+grave=0e df=0edf
+grave=0e e0=0ee0
+grave=0e e1=0ee1
+grave=0e e2=0ee2
+grave=0e e8=0ee8
+}
+Spiderwebs
+{
+spiderweb=0e e3=0ee3
+spiderweb=0e e4=0ee4
+spiderweb=0e e5=0ee5
+spiderweb=0e e6=0ee6
+}
+}

@@ -1,0 +1,13 @@
+Title=Advance Gate
+columns=1
+rows=1
+vspace=0
+hspace=0
+xsize=138
+ysize=200
+
+Frame=5,1,125,170,"Advance Gate"
+Button=10,15,115,20,"Add Item by Number","additem",D,PROMPT,"Enter item number."
+Button=10,40,115,20,"Add Item by Hex","add",HH,PROMPT,"Enter item hex."
+Button=10,65,115,20,"Add Item from List","additem",D,"list"
+Listbox=10,90,115,70,"list",racegate.lst

@@ -1,0 +1,12 @@
+title=Items
+columns=6
+rows=6
+vspace=0
+hspace=0
+xsize=165
+ysize=200
+
+Frame=1,1,26,27,"Set Item to Spawn"
+Button=2,4,24,3,"Set Item by Number","setmorex",D,PROMPT,"Enter item number."
+Button=2,8,24,3,"Set Item from List","setmorex",D,"list"
+Listbox=2,12,24,15,"list",itemspawn.lst

@@ -1,0 +1,47 @@
+format=D
+
+Male=0190=20CD
+Female=0191=20CE
+Game Master=03DB=20CD
+Animals
+{ ID=20CF
+Brown Bear=00D3=20CF
+Large Rat=00D7=20D0
+Chicken=00D0=20D1
+Large Deer=00EA=20D4
+Deer=00ED=20D4
+Dog=00D9=20D5
+Alligator=00CA=20DA
+Grizzly Bear=00D4=20DB
+Horse (Brown)=00CC=20DD
+Horse (White)=00C8=20DD
+Polar Bear=00D5=20E1
+Rabbit=00CD=20E2
+Serpent=0034=20E5
+Sheep=00CF=20E6
+}
+Monsters
+{ ID=20D3
+Daemon=000A=20D3
+Demon With out Sword=0009=20D3
+Zombie=0003=20EC
+Ogre=0001=20DF
+Ettin=0002=20D8
+Gargoyle=0004=20D9
+Corpser=0008=20D2
+Green Dragon=000c=20D6
+Air Elemental=000d=20ED
+Earth Elemental=000e=20D7
+Fire Elemental=000f=20F3
+Water Elemental=0010=210B
+Gazer=0016=20F4
+Lich=0018=20F8
+Spectre=001a=2109
+Giant Spider=001c=20FD
+Harpy=001e=20DC
+Headless One=001f=210A
+Lizardman=0021=20DE
+Ratman=002a=20E3
+Reaper=002f=20FA
+Giant Scorpian=0030=20E4
+}

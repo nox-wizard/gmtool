@@ -1,0 +1,182 @@
+format=D
+
+Reagents
+{
+Common Reagents
+{
+Black Pearl=428
+Blood Moss=429
+Garlic=438
+Ginseng=439
+Mandrake Root=440
+Nightshade=442
+Sulfurous Ash=446
+Spiders Silk=447
+}
+Pagan reagents
+{
+Bat Wing=426
+Blackmoor=427
+Bloodspawn=430
+Vial of Blood=431
+Bone=432
+Brimstone=433
+Daemon Bone=434
+Fertile Dirt=435
+Dragon Blood=436
+Executioner's Cap=437
+Eye of Newt=441
+Obsidian=443
+Pig Iron=444
+Pumice=445
+Serpent Scales=448
+Volcanic Ash=449
+Dead Wood=450
+Wyrms Heart=451
+}
+}
+Bottles
+{
+Mortar And Pestal=2600
+Bottle=2516
+a empty vial=2505
+Bottle=2506
+Bottle=2507
+Bottle=2508
+Bottle=2509
+Bottle=2510
+Bottle=2511
+Bottle=2512
+Bottle=2513
+Bottle=2514
+Bottle=2515
+}
+Potions
+{
+Mortar And Pestal=2600
+Night Sight Potion=2517
+Cure Potion=2518
+Agility Potion=2519
+Strength Potion=2520
+Poison Potion=2521
+Ressurection Potion=2522
+Lesser Heal Potion=2523
+Greater Heal Potion=2528
+Lesser Explosion Potion=2524
+Explosion Potion=10103
+Greater Explosion Potion=10104
+}
+Wands
+{
+Greater Heal Wand, 20 charges=701
+Summon Daemon Wand, 5 charges=702
+Magic Arrow Wand, 100 charges=703
+Resurrect Wand, 1 charge=704
+Fireball Mace, 5000 charges=705
+}
+Spellbook=783
+Recall Rune=777
+Gates
+{
+A Blue Moongate=2525
+A Red Moongate=2526
+A Black Moongate=2527
+}
+Blank Scroll=7026
+All-Spell Scroll=800
+First Circle Scrolls
+{
+Reactive Armor Scroll=810
+Clumsy Scroll=811
+Create Food Scroll=812
+Feeblemind Scroll=813
+Heal Scroll=814
+Magic Arrow Scroll=815
+Night Sight Scroll=816
+Weaken Scroll=817
+}
+Second Circle Scrolls
+{
+Agility Scroll=820
+Cunning Scroll=821
+Cure Scroll=822
+Harm Scroll=823
+Magic Trap Scroll=824
+Magic Untrap Scroll=825
+Protection Scroll=826
+Strength Scroll=827
+}
+Third Circle Scrolls
+{
+Bless Scroll=830
+Fireball Scroll=831
+Magic Lock Scroll=832
+Poison Scroll=833
+Telekenisis Scroll=834
+Teleport Scroll=835
+Unlock Scroll=836
+Wall of Stone Scroll=837
+}
+Fourth Circle Scrolls
+{
+Archcure Scroll=840
+Arch Protection Scroll=841
+Curse Scroll=842
+Fire Field Scroll=843
+Greater Heal Scroll=844
+Lightning Scroll=845
+ManaDrain Scroll=846
+Recall Scroll=847
+}
+Fifth Circle Scrolls
+{
+Blade Spirits Scroll=850
+Dispel Field Scroll=851
+Incognito Scroll=852
+Magic Reflection Scroll=853
+Mind Blast Scroll=854
+Paralyze Scroll=855
+Poison Field Scroll=856
+Summon Creature Scroll=857
+}
+Sixth Circle Scrolls
+{
+Dispel Scroll=860
+Energy Bolt Scroll=861
+Explosion Scroll=862
+Invisibility Scroll=863
+Mark Scroll=864
+Mass Curse Scroll=865
+Paralyze Field Scroll=866
+Reveal Scroll=867
+}
+Seventh Circle Scrolls
+{
+Chain Lightning Scroll=870
+Energy Field Scroll=871
+Flamestrike Scroll=872
+Gate Travel Scroll=873
+Mana Vampire Scroll=874
+Mass Dispel Scroll=875
+Meteor Storm Scroll=876
+Polymorph Scroll=877
+}
+Eighth Circle Scrolls
+{
+Earthquake Scroll=880
+Energy Vortex Scroll=881
+Resurrection Scroll=882
+Summon Air Elemental Scroll=883
+Summon Daemon Scroll=884
+Summon Earth Elemental Scroll=885
+Summon Fire Elemental Scroll=886
+Summon Water Elemental Scroll=887
+}
+Necromantic Scrolls
+{
+Necromantic Speak Scroll=890
+Necromantic Raise Scroll=891
+Necromantic Ingest Poison Scroll=892
+Necromantic Summon Scroll=893
+Necromantic EVIL Scroll=894
+}

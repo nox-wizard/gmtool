@@ -1,0 +1,170 @@
+format=D
+
+Male Shopkeeper Spawners
+{
+Shopkeeper Spawners A-B
+{
+Alchemist=3284
+Animal Trainer=3280
+Armorer=3268
+Architect=3272
+Baker=3242
+Banker=3290
+Bard=3236
+Blacksmith=3270
+Beekeeper=3291
+Bowyer=3258
+Butcher=3254
+}
+Shopkeeper Spawners C-L
+{
+Carpenter=3274
+Cobbler=3246
+Cook=3278
+Farmer=3276
+Fisherman=3282
+Healer=3293
+Herbalist=3252
+Innkeeper=3248
+Jewler=3260
+Leather Worker=3262
+}
+Shopkeeper Spawners M-Z
+{
+Mage=3250
+Miner=3238
+Provisioner=3244
+Shipwright=3264
+Spinner=3266
+Tailor=3256
+Tinker=3286
+Weaponsmith=3240
+}
+}
+Female Shopkeeper Spawners
+{
+Shopkeeper Spawners A-B
+{
+Alchemist=3285
+Animal Trainer=3281
+Armorer=3269
+Architect=3273
+Baker=3243
+Banker=3235
+Bard=3237
+Blacksmith=3271
+Beekeeper=3292
+Bowyer=3259
+Butcher=3255
+}
+Shopkeeper Spawners C-L
+{
+Carpenter=3275
+Cobbler=3247
+Cook=3279
+Farmer=3277
+Fisherlady=3283
+Healer=3294
+Herbalist=3253
+Innkeeper=3249
+Jewler=3261
+Leather Worker=3263
+}
+Shopkeeper Spawners M-Z
+{
+Mage=3251
+Miner=3239
+Provisioner=3245
+Shipwright=3265
+Spinner=3267
+Tailor=3257
+Tinker=3287
+Weaponsmith=3241
+}
+}
+Cocoons and Cocoon Spawner
+{
+Cocoon 1=13012
+Cocoon 2=13013
+Cocoon Spawner=13014
+Silk Fluxing Tool=13016
+}
+Misc Spawners
+{
+Orc Lord Spawn=3000
+Orc Spawner=3001
+Orc Mage Spawn=3002
+Ettin Spawn=3003
+Goat Spawn=5145
+Harpy Spawn=3026
+Random Orc Spawn=4100
+Random Lizardmen Spawn=4101
+Random Ratmen Spawn=4102
+Random Dragon and Drake=4103
+Random Barn Animals=4104
+}
+Misc Spawners 2
+{
+Air Elemental Spawner=4105
+Earth Elemental Spawner=4106
+Fire Elemental Spawner=4107
+Water Elemental Spawner=4108
+Poision Elemental Spawner=4109
+Giant Serpant Spawner=4110
+Giant Spider=4111
+Giant Scorpion=4116
+Lich Spawner =4112
+Lich Lord Spawner =4113
+Bone Knight Spawner =4114
+Bone Magi Spawner =4115
+}
+Random Spawners
+{
+Arctic Spawns=10141
+Cave Spawns=10142
+Desert Spawns=10143
+Dungeon Spawns=10144
+Eerie Spawns=10145
+Farm Spawns=10146
+Forest Spawns=10147
+Jungle Spawns=10148
+Mountain Spawns=10149
+Ocean Spawns=10150
+Swamp Spawns=10151
+Town Spawns=10152
+Volcanic Spawns=10153
+Drow Spawns=10154
+Diablo Spawns=10155
+Wood Elves Spawns=10156
+High Elves Spawns=10157
+}
+Area Spawners 1
+{
+Random Dog & Cat=10115
+Random Swamp Creatures=10116
+Random Jungle Creatures=10117
+Random Cows,Horses,ect.=10082
+Random Birds=10087
+Random All Animals=10088
+Random Small Animals=10089
+Random Productive Animals=10090
+Random Bears=10091
+Random Strong Undead=10093
+Random Weak Undead=10094
+Random All Undead=10095
+}
+Area Spawners 2
+{
+Random Orcs=10086
+Random Ettins,Ogres and Trolls=10099
+Random Med. Orcs=10100
+Random Weaker Orcs=10101
+Random Orc-Kin=10102
+Random Dragons and Drakes=10083
+Random Daemons=10096
+Random Elementals=10097
+Random Elementals and Daemons=10098
+Random Ratmen=10084
+Random Lizardmen=10085
+Random Overworld Monsters=10092
+}

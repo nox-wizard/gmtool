@@ -1,0 +1,165 @@
+format=D
+
+display cases
+{
+border
+{
+display case border 1=140201
+display case border 2=140202
+display case border 3=140203
+display case border 4=140204
+display case border 5=140205
+display case border 6=140206
+display case border 7=140207
+display case border 8=140208
+display case border 9=140209
+display case border 10=140210
+display case border 11=140211
+display case border 12=140212
+display case border 13=140213
+display case border 14=140214
+display case border 15=140215
+display case border 16=140216
+}
+cases
+{
+display case 1=140251
+display case 2=140252
+display case 3=140253
+display case 4=140254
+display case 5=140255
+display case 6=140256
+display case 7=140257
+display case 8=140258
+display case 9=140259
+display case 10=140260
+display case 11=140261
+display case 12=140262
+display case 13=140263
+display case 14=140264
+display case 15=140265
+display case 16=140266
+display case 17=140267
+display case 18=140268
+display case 19=140269
+}
+}
+Blacksmith & Miner
+{
+5 Iron Ingots=7030
+Forge=601
+Partial Forge=604
+Partial Forge=605
+Partial Forge=606
+Pick Axe=87
+Anvil=602
+Anvil=603
+Smithy Hammer=98
+Tongs=609
+Shovel=607
+}
+Carpenter
+{
+Ressources
+{
+boards=7020
+logs=7021
+barrel lid=140413
+barrel staves=140416
+barrel hoops=140417
+barrel hoops2=140418
+barrel hoops3=140419
+}
+Tools
+{
+hatchet=140000
+hatchet2=140001
+chisel=140002
+chisel2=140003
+dovetail saw=140004
+dovetail saw2=140005
+hammer=140006
+hammer2=140007
+moulding planes=140008
+moulding planes2=140009
+nails=140010
+nails2=140011
+jointing plane=140012
+jointing plane2=140013
+smoothing plane=140014
+smoothing plane2=140015
+saw=140016
+saw2=140017
+draw knife=140018
+froe=140019
+inshave=140020
+scorp=140021
+woodworkers bench1 1=140022
+woodworkers bench1 2=140023
+woodworkers bench1 3=140024
+vise1=140025
+woodworkers bench2 1=140026
+woodworkers bench2 2=140027
+woodworkers bench2 3=140028
+vise2=140029
+coopers bench1 1=140030
+coopers bench1 2=140031
+coopers bench2 1=140032
+coopers bench2 2=140033
+}
+}
+Tailoring Items
+{
+Dyes=505
+Dye Vat=506
+Spinning Wheel - not animated=8050
+Spinning Wheel - animated=8051
+Upright Loom - 1st part South=8053
+Upright Loom - 2nd part South=8054
+Upright Loom - 1st part East=8057
+Upright Loom - 2nd part East=8058
+Unspun Wool=8052
+Ball of Yarn=8055
+Folded Cloth=7029
+Sewing Kit=7028
+Scissors=7042
+Bolt of Cloth=10033
+Bolt of Cloth=10034
+Bolt of Cloth=10035
+Bolt of Cloth=10036
+Bolt of Cloth=10037
+Bolt of Cloth=10038
+Bolt of Cloth=10039
+Bolt of Cloth=10040
+}
+Archery Items
+{
+Archery Butte - East=8080
+Archery Butte - South=8081
+5 Feathers=7015
+5 Shafts=7014
+Decorative Feathers=8084
+Decorative Feathers=8085
+Decorative Arrow Fletching=8086
+Decorative Arrow Fletching=8087
+Decorative Arrow Shafts=8088
+Decorative Arrow Shafts=8089
+}
+Fishing Items
+{
+Fishing Pole=784
+Fish Steak=5050
+Fish Head=5118
+A fish=8108
+Raw Fish=8109
+}
+Musical Items
+{
+Drum=7000
+Tamberine=7001
+Tamberine with ribbon=7002
+Standing Harp=7003
+Harp=7004
+Lute=7005
+Lute=7006
+}

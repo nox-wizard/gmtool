@@ -1,0 +1,14 @@
+format=D
+
+Ankh Left=41
+Ankh Right=42
+Blood Ankh Left=412
+Blood Ankh Right=413
+
+Keys
+{
+Gold Key=338
+Iron Key=339
+Magic Key=340
+Bronze Key=341
+}

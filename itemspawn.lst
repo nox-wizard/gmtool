@@ -1,0 +1,2628 @@
+format=D
+
+GM Menu
+{
+Characters/Robes
+{
+Lord British Armor=2
+Blackthorne Robe=3
+Dupre the fighter=608
+Death Shroud=4
+GM Robe (undyed)=1
+GM Robe (red)=5
+GM Robe (green)=454
+GM Robe (blue)=22
+}
+Game Master Special Items
+{
+Teleport Rune=23
+Master Shard Key=2529
+}
+}
+Magic Menu
+{
+Reagents
+{
+Common Reagents
+{
+Black Pearl=428
+Blood Moss=429
+Garlic=438
+Ginseng=439
+Mandrake Root=440
+Nightshade=442
+Sulfurous Ash=446
+Spiders Silk=447
+}
+Pagan reagents
+{
+Bat Wing=426
+Blackmoor=427
+Bloodspawn=430
+Vial of Blood=431
+Bone=432
+Brimstone=433
+Daemon Bone=434
+Fertile Dirt=435
+Dragon Blood=436
+Executioner's Cap=437
+Eye of Newt=441
+Obsidian=443
+Pig Iron=444
+Pumice=445
+Serpent Scales=448
+Volcanic Ash=449
+Dead Wood=450
+Wyrms Heart=451
+}
+}
+Bottles
+{
+Mortar And Pestal=2600
+Bottle=2516
+a empty vial=2505
+Bottle=2506
+Bottle=2507
+Bottle=2508
+Bottle=2509
+Bottle=2510
+Bottle=2511
+Bottle=2512
+Bottle=2513
+Bottle=2514
+Bottle=2515
+}
+Potions
+{
+Mortar And Pestal=2600
+Night Sight Potion=2517
+Cure Potion=2518
+Agility Potion=2519
+Strength Potion=2520
+Poison Potion=2521
+Ressurection Potion=2522
+Lesser Heal Potion=2523
+Greater Heal Potion=2528
+Lesser Explosion Potion=2524
+Explosion Potion=10103
+Greater Explosion Potion=10104
+}
+Wands
+{
+Greater Heal Wand, 20 charges=701
+Summon Daemon Wand, 5 charges=702
+Magic Arrow Wand, 100 charges=703
+Resurrect Wand, 1 charge=704
+Fireball Mace, 5000 charges=705
+}
+Spellbook=783
+Recall Rune=777
+Gates
+{
+A Blue Moongate=2525
+A Red Moongate=2526
+A Black Moongate=2527
+}
+Blank Scroll=7026
+All-Spell Scroll=800
+First Circle Scrolls
+{
+Reactive Armor Scroll=810
+Clumsy Scroll=811
+Create Food Scroll=812
+Feeblemind Scroll=813
+Heal Scroll=814
+Magic Arrow Scroll=815
+Night Sight Scroll=816
+Weaken Scroll=817
+}
+Second Circle Scrolls
+{
+Agility Scroll=820
+Cunning Scroll=821
+Cure Scroll=822
+Harm Scroll=823
+Magic Trap Scroll=824
+Magic Untrap Scroll=825
+Protection Scroll=826
+Strength Scroll=827
+}
+Third Circle Scrolls
+{
+Bless Scroll=830
+Fireball Scroll=831
+Magic Lock Scroll=832
+Poison Scroll=833
+Telekenisis Scroll=834
+Teleport Scroll=835
+Unlock Scroll=836
+Wall of Stone Scroll=837
+}
+Fourth Circle Scrolls
+{
+Archcure Scroll=840
+Arch Protection Scroll=841
+Curse Scroll=842
+Fire Field Scroll=843
+Greater Heal Scroll=844
+Lightning Scroll=845
+ManaDrain Scroll=846
+Recall Scroll=847
+}
+Fifth Circle Scrolls
+{
+Blade Spirits Scroll=850
+Dispel Field Scroll=851
+Incognito Scroll=852
+Magic Reflection Scroll=853
+Mind Blast Scroll=854
+Paralyze Scroll=855
+Poison Field Scroll=856
+Summon Creature Scroll=857
+}
+Sixth Circle Scrolls
+{
+Dispel Scroll=860
+Energy Bolt Scroll=861
+Explosion Scroll=862
+Invisibility Scroll=863
+Mark Scroll=864
+Mass Curse Scroll=865
+Paralyze Field Scroll=866
+Reveal Scroll=867
+}
+Seventh Circle Scrolls
+{
+Chain Lightning Scroll=870
+Energy Field Scroll=871
+Flamestrike Scroll=872
+Gate Travel Scroll=873
+Mana Vampire Scroll=874
+Mass Dispel Scroll=875
+Meteor Storm Scroll=876
+Polymorph Scroll=877
+}
+Eighth Circle Scrolls
+{
+Earthquake Scroll=880
+Energy Vortex Scroll=881
+Resurrection Scroll=882
+Summon Air Elemental Scroll=883
+Summon Daemon Scroll=884
+Summon Earth Elemental Scroll=885
+Summon Fire Elemental Scroll=886
+Summon Water Elemental Scroll=887
+}
+Necromantic Scrolls
+{
+Necromantic Speak Scroll=890
+Necromantic Raise Scroll=891
+Necromantic Ingest Poison Scroll=892
+Necromantic Summon Scroll=893
+Necromantic EVIL Scroll=894
+}
+}
+Equipment Items
+{
+Armor & Shields
+{
+Colored Plate Mail
+{
+Black Plate
+{
+Black Plate Tunic=8100
+Black Plate Gorget=8101
+Black Plate Gloves=8102
+Black Plate Helm=8103
+Black Nose Helm=8106
+Black Plate Legs=8104
+Black Plate Sleeves=8105
+}
+Gold Plate
+{
+Golden Plate Tunic=4009
+Golden Plate Gorget=4010
+Golden Plate Gloves=4011
+Golden Plate Helm=4012
+Golden Nose Helm=8107
+Golden Plate Legs=4013
+Golden Plate Sleeves=4014
+}
+Merkite Plate
+{
+Merkite Plate Tunic=8200
+Merkite Plate Gorget=8201
+Merkite Plate Gloves=8202
+Merkite Plate Legs=8204
+Merkite Plate Sleeves=8205
+Merkite Plate Helm=8203
+Merkite Nose Helm=8306
+}
+Verite Plate
+{
+Verite Plate Tunic=8400
+Verite Plate Gorget=8401
+Verite Plate Gloves=8402
+Verite Plate Legs=8404
+Verite Plate Sleeves=8405
+Verite Plate Helm=8403
+Verite Nose Helm=8406
+Verite Close Helm=8407
+Verite Helm=8408
+Verite Bascinet=8409
+}
+Mythril Plate
+{
+Mythril Plate Tunic=8300
+Mythril Plate Gorget=8301
+Mythril Plate Gloves=8302
+Mythril Plate Legs=8304
+Mythril Plate Sleeves=8305
+Mythril Plate Helm=8303
+Mythril Nose Helm=8306
+Mythril Close Helm=8307
+Mythril Helm=8308
+Mythril Bascinet=8309
+}
+Bronze Plate
+{
+Bronze Plate Tunic=8500
+Bronze Plate Gorget=8501
+Bronze Plate Gloves=8502
+Bronze Plate Legs=8504
+Bronze Plate Sleeves=8505
+Bronze Plate Helm=8503
+Bronze Nose Helm=8506
+Bronze Close Helm=8507
+Bronze Helm=8508
+Bronze Bascinet=8509
+}
+Agapite Plate
+{
+Agapite Plate Tunic=8600
+Agapite Plate Gorget=8601
+Agapite Plate Gloves=8602
+Agapite Plate Legs=8604
+Agapite Plate Sleeves=8605
+Agapite Plate Helm=8603
+Agapite Nose Helm=8606
+Agapite Close Helm=8607
+Agapite Helm=8608
+Agapite Bascinet=8609
+}
+}
+Colored Chain Mail
+{
+Black Chain
+{
+Black Chain Tunic=10118
+Black Chain Legs=10119
+Black Chain Coif=10120
+}
+Gold Chain
+{
+Gold Chain Tunic=10121
+Gold Chain Legs=10122
+Gold Chain Coif=10123
+}
+Merkite Chain
+{
+Merkite Chain Tunic=10124
+Merkite Chain Legs=10125
+Merkite Chain Coif=10126
+}
+Verite Chain
+{
+Verite Chain Tunic=10127
+Verite Chain Legs=10128
+Verite Chain Coif=10129
+}
+Mythril Chain
+{
+Mythril Chain Tunic=10130
+Mythril Chain Legs=10131
+Mythril Chain Coif=10132
+}
+Bronze Chain
+{
+Bronze Chain Tunic=10133
+Bronze Chain Legs=10134
+Bronze Chain Coif=10135
+}
+Agapite Chain
+{
+Agapite Chain Tunic=10136
+Agapite Chain Legs=10137
+Agapite Chain Coif=10138
+}
+}
+Plate Mail
+{
+Breastplate=44
+Plate Gorget=45
+Plate Gloves=46
+Plate Helm=47
+Plate Legs=48
+Plate Sleeves=49
+}
+Bone Armor
+{
+Bone Chestplate=50
+Bone Sleeves=51
+Bone Gloves=52
+Bone Helmet=53
+Bone Legs=54
+}
+Chain Mail
+{
+Chain Tunic=55
+Chain Legs=56
+Chain Coif=57
+}
+Ring Mail
+{
+Ring Chest=58
+Ring Arms=59
+Ring Legs=60
+Ring Gloves=61
+}
+Studded Leather Armor
+{
+Studded Leather Gorget=62
+Studded Leather Gloves=63
+Studded Leather Arms=64
+Studded Leather Legs=65
+Studded Leather Chest=66
+}
+Leather Armor
+{
+Leather Arms=67
+Leather Legs=68
+Leather Chest=69
+Leather Cap=326
+Leather Gloves=2532
+Leather Gorget=2533
+}
+Miscellaneous Helms
+{
+Closed Helmet=70
+Helmet=71
+Bascinet=72
+Nose Helm=73
+Orc Helm=74
+}
+Female Armor
+{
+Female Spiked Underwear=75
+Female Plate=76
+Female Leather=77
+Female Studded Leather=78
+Leather Skirt=79
+Leather Bustier=80
+Studded Bustier=81
+}
+Magical Armor
+{
+Magic Plate Mail
+{
+Plate of Defence
+{
+Breastplate=3500
+Plate Gorget=3501
+Plate Gloves=3502
+Plate Helm=3503
+Plate Legs=3504
+Plate Sleeves=3505
+}
+Plate of Guarding
+{
+Breastplate=3510
+Plate Gorget=3511
+Plate Gloves=3512
+Plate Helm=3513
+Plate Legs=3514
+Plate Sleeves=3515
+}
+Plate of Hardening
+{
+Breastplate=3516
+Plate Gorget=3517
+Plate Gloves=3518
+Plate Helm=3519
+Plate Legs=3520
+Plate Sleeves=3521
+}
+Plate of Fortification
+{
+Breastplate=3522
+Plate Gorget=3523
+Plate Gloves=3524
+Plate Helm=3525
+Plate Legs=3526
+Plate Sleeves=3527
+}
+Plate of Invulnerability
+{
+Breastplate=3528
+Plate Gorget=3529
+Plate Gloves=3530
+Plate Helm=3531
+Plate Legs=3532
+Plate Sleeves=3533
+}
+}
+Magic Chain Mail
+{
+Chain of Defence
+{
+Magic Chain Tunic=5125
+Magic Chain Legs=5126
+Magic Chain Coif=5127
+}
+Chain of Guarding
+{
+Magic Chain Tunic of Guarding=5128
+Magic Chain Legs of Guarding=5129
+Magic Chain Coif of Guarding=5130
+}
+Chain of Hardening
+{
+Magic Chain Tunic of Hardening=5131
+Magic Chain Legs of Hardening=5132
+Magic Chain Coif of Hardening=5133
+}
+Chain of Fortification
+{
+Magic Chain Tunic of Fortification=5134
+Magic Chain Legs of Fortification=5135
+Magic Chain Coif of Fortification=5136
+}
+Chain of Invulnerability
+{
+Magic Chain Tunic of Invulnerability=5137
+Magic Chain Legs of Invulnerability=5138
+Magic Chain Coif of Invulnerability=5139
+}
+}
+}
+Shields
+{
+Bronze Shield=191
+Buckler=192
+Chaos Shield=28
+Heater=24
+Kite Shield (Metal)=193
+Metal Shield=27
+Order Shield=29
+Kite Shield (Wooden)=25
+Wooden Shield=26
+}
+}
+Weapons
+{
+Normal Weapons
+{
+Bows
+{
+Bow=116
+Crossbow=117
+Heavy Crossbow=118
+Arrow=3070
+Bolt=3071
+}
+Swords
+{
+Scimitar=108
+Long Sword=109
+Viking Sword=110
+Broad Sword=111
+Cutlass=112
+Katana=113
+}
+Axes
+{
+Hatchet=82
+Executioner's Axe=83
+Axe=84
+Double Axe=85
+Battle Axe=496
+Large Battle Axe=86
+Pick Axe=87
+War Axe=88
+Two-handed Axe=494
+}
+Knives & Daggers
+{
+Butcher's Knife=89
+Skinning Knife=90
+Cleaver=91
+Dagger=92
+Kryss=93
+}
+Maces & Hammers
+{
+Club=94
+Hammer Pick=95
+Mace=96
+Maul=97
+Smithy Hammer=98
+War Hammer=99
+War Mace=100
+}
+Pole Arms
+{
+Bardiche=101
+Halberd=102
+}
+Staves
+{
+Black Staff=103
+Gnarled Staff=104
+Quarterstaff=105
+Shepherd's Crook=106
+Sceptre=107
+}
+Spears & Forks
+{
+Pitchfork=114
+Spear=115
+Short Spear=495
+War Fork=2534
+}
+}
+Magical Weapons
+{
+Magical Bows
+{
+magic bows
+{
+magic bow of ruin=15050
+magic bow of might=15051
+magic bow of force=15052
+magic bow of power=15053
+magic bow of vanquishing=15054
+Dante Deluxe=6333
+}
+magic crossbows
+{
+magic crossbow of ruin=15055
+magic crossbow of might=15056
+magic crossbow of force=15057
+magic crossbow of power=15058
+magic crossbow of vanquishing=15059
+}
+magic heavy crossbows
+{
+magic heavy crossbow of ruin=15060
+magic heavy crossbow of might=15061
+magic heavy crossbow of force=15062
+magic heavy crossbow of power=15063
+magic heavy crossbow of vanquishing=15064
+}
+}
+Magical Swords
+{
+magic longswords
+{
+magic longsword of ruin=3300
+magic longsword of might=3301
+magic longsword of force=3302
+magic longsword of power=3303
+magic longsword of vanquishing=3304
+}
+magic viking swords
+{
+magic viking sword of ruin=3305
+magic viking sword of might=3306
+magic viking sword of force=3307
+magic viking sword of power=3308
+magic viking sword of vanquishing=3309
+}
+magic broad swords
+{
+magic broad sword of ruin=3310
+magic broad sword of might=3311
+magic broad sword of force=3312
+magic broad sword of power=3313
+magic broad sword of vanquishing=3314
+}
+magic scimitar
+{
+magic scimitar of ruin=3315
+magic scimitar of might=3316
+magic scimitar of force=3317
+magic scimitar of power=3318
+magic scimitar of vanquishing=3319
+}
+magic cutlasses
+{
+magic cutlass of ruin=3320
+magic cutlass of might=3321
+magic cutlass of force=3322
+magic cutlass of power=3323
+magic cutlass of vanquishing=3324
+}
+magic katana
+{
+magic katana of ruin=3325
+magic katana of might=3326
+magic katana of force=3327
+magic katana of power=3328
+magic katana of vanquishing=3329
+}
+}
+Magical Axes
+{
+magic hatchets
+{
+magic hatchets of ruin=3330
+magic hatchets of might=3331
+magic hatchets of force=3332
+magic hatchets of power=3333
+magic hatchets of vanquishing=3334
+}
+magic executioner's axes
+{
+magic executioner's axe of ruin=3335
+magic executioner's axe of might=3336
+magic executioner's axe of force=3337
+magic executioner's axe of power=3338
+magic executioner's axe of vanquishing=3339
+}
+magic axes
+{
+magic axe of ruin=3340
+magic axe of might=3341
+magic axe of force=3342
+magic axe of power=3343
+magic axe of vanquishing=3344
+}
+magic double axes
+{
+magic double axe of ruin=3345
+magic double axe of might=3346
+magic double axe of force=3347
+magic double axe of power=3348
+magic double axe of vanquishing=3349
+}
+magic large battle axes
+{
+magic large battle axe of ruin=3350
+magic large battle axe of might=3351
+magic large battle axe of force=3352
+magic large battle axe of power=3353
+magic large battle axe of vanquishing=3354
+}
+magic pick axes
+{
+magic pick axe of ruin=3355
+magic pick axe of might=3356
+magic pick axe of force=3357
+magic pick axe of power=3358
+magic pick axe of vanquishing=3359
+}
+magic war axes
+{
+magic war axe of ruin=3360
+magic war axe of might=3361
+magic war axe of force=3362
+magic war axe of power=3363
+magic war axe of vanquishing=3364
+}
+}
+Magical Knives & Daggers
+{
+magic butcher's knives
+{
+magic butcher knife of ruin=3365
+magic butcher knife of might=3366
+magic butcher knife of force=3367
+magic butcher knife of power=3368
+magic butcher knife of vanquishing=3369
+}
+magic skinning knives
+{
+magic skinning knife of ruin=3370
+magic skinning knife of might=3371
+magic skinning knife of force=3372
+magic skinning knife of power=3373
+magic skinning knife of vanquishing=3374
+}
+magic cleavers
+{
+magic cleaver of ruin=3375
+magic cleaver of might=3376
+magic cleaver of force=3377
+magic cleaver of power=3378
+magic cleaver of vanquishing=3379
+}
+magic daggers
+{
+magic dagger of ruin=3380
+magic dagger of might=3381
+magic dagger of force=3382
+magic dagger of power=3383
+magic dagger of vanquishing=3384
+}
+magic kryss
+{
+magic kryss of ruin=3385
+magic kryss of might=3386
+magic kryss of force=3387
+magic kryss of power=3388
+magic kryss of vanquishing=3389
+}
+}
+Magical Spears & Forks
+{
+magic pitch forks
+{
+magic pitch fork of ruin=15025
+magic pitch fork of might=15026
+magic pitch fork of force=15027
+magic pitch fork of power=15028
+magic pitch fork of vanquishing=15029
+}
+magic spears
+{
+magic spear of ruin=15030
+magic spear of might=15031
+magic spear of force=15032
+magic spear of power=15033
+magic spear of vanquishing=15034
+}
+magic war forks
+{
+magic war fork of ruin=15035
+magic war fork of might=15036
+magic war fork of force=15037
+magic war fork of power=15038
+magic war fork of vanquishing=15039
+}
+}
+Magical Maces & Hammers
+{
+magic clubs
+{
+magic club of ruin=3390
+magic club of might=3391
+magic club of force=3392
+magic club of power=3393
+magic club of vanquishing=3394
+}
+magic hammer picks
+{
+magic hammer pick of ruin=3395
+magic hammer pick of might=3396
+magic hammer pick of force=3397
+magic hammer pick of power=3398
+magic hammer pick of vanquishing=3399
+}
+magic maces
+{
+magic mace of ruin=15000
+magic mace of might=15001
+magic mace of force=15002
+magic mace of power=15003
+magic mace of vanquishing=15004
+}
+magic mauls
+{
+magic maul of ruin=15005
+magic maul of might=15006
+magic maul of force=15007
+magic maul of power=15008
+magic maul of vanquishing=15009
+}
+magic war hammers
+{
+magic war hammer of ruin=15015
+magic war hammer of might=15016
+magic war hammer of force=15017
+magic war hammer of power=15018
+magic war hammer of vanquishing=15019
+}
+magic war maces
+{
+magic war mace of ruin=15020
+magic war mace of might=15021
+magic war mace of force=15022
+magic war mace of power=15023
+magic war mace of vanquishing=15024
+}
+}
+Magical Pole Arms
+{
+magic bardiches
+{
+Bricks=175
+Bricks=176
+Bricks=177
+Bricks=178
+Bricks=179
+Bricks=180
+Bricks=181
+Bricks=182
+}
+magic halberds
+{
+magic halberd of ruin=15045
+magic halberd of might=15046
+magic halberd of force=15047
+magic halberd of power=15048
+magic halberd of vanquishing=15049
+}
+}
+}
+Enchanted Weapons
+{
+Staff Of Summoning Demon=10139
+Staff Of Summoning Hero=10140
+Viking Of Flamestrike=10158
+Viking Of Feeblemind=10159
+Viking Of Mana Drain=10160
+Viking Of Lightning=10161
+Viking Of Energy Bolt=10162
+Viking Of Invisibility=10163
+Viking Of Resurrection=10164
+Long Sword Of Flamestrike=10165
+Long Sword Of Feeblemind=10166
+Long Sword Of Mana Drain=10167
+Long Sword Of Lightning=10168
+Long Sword Of Energy Bolt=10169
+Long Sword Of Invisibility=10170
+Long Sword Of Resurrection=10171
+}
+Enchanted Weapons 2
+{
+Scimitar Of Flamestrike=10172
+Scimitar Of Feeblemind=10173
+Scimitar Of Mana Drain=10174
+Scimitar Of Lightning=10175
+Scimitar Of Energy Bolt=10176
+Scimitar Of Invisibility=10177
+Scimitar Of Resurrection=10178
+Broad Sword Of Flamestrike=10179
+Broad Sword Of Feeblemind=10180
+Broad Sword Of Mana Drain=10181
+Broad Sword Of Lightning=10182
+Broad Sword Of Energy Bolt=10183
+Broad Sword Of Invisibility=10184
+Broad Sword Of Resurrection=10185
+}
+}
+Clothes
+{
+Dyes=505
+Dye Vat=506
+Boots
+{
+Boots=455
+Sandals=456
+Shoes=457
+Thigh boots=458
+}
+Hats
+{
+Floppy hat=459
+Wide-brim hat=460
+Cap=461
+Tall straw hat=462
+Straw hat=463
+Wizard's hat=464
+Bonnet=465
+Feathered hat=466
+Tricorne hat=467
+Jester hat=468
+}
+Shirts & Robes
+{
+Cape=469
+Fancy shirt=470
+Plain shirt=471
+Surcoat=472
+Tunic=473
+Robe=474
+Fancy suit=475
+Doublet=476
+Fancy Dress=477
+Plain Dress=478
+}
+Pants
+{
+Skirt=479
+Short pants=480
+Kilt=481
+Long pants=482
+}
+Misc.
+{
+Half apron=483
+Full apron=484
+Bandana=485
+Body sash=486
+Skullcap=487
+}
+Masks
+{
+Deer mask=488
+Bear mask=489
+Orc helm=490
+Orc mask=491
+Tribal mask=492
+Voodoo mask=493
+Polar bear mask=10042
+}
+}
+}
+Deeds Menu
+{
+Old House Deeds
+{
+Small Stone & Plaster House=6000
+Small Stone House=6001
+Small Brick House=6002
+Small Wood House=6003
+Small Wood & Plaster House=6004
+Small Wood House (Straw Roof)=6005
+Blue Tent=6006
+Green Tent=6007
+3 Room Brick House=6008
+2 Story Wood & Plaster House=6009
+2 Story Stone & Plaster House=6010
+Stone Tower=6011
+Stone Keep=6012
+Castle=6013
+Large Smithy=6014
+}
+New House Deeds
+{
+Small Tower=6037
+Small Marble Shop=6038
+Small Stone Shop=6039
+2 Story Villa=6040
+Sandstone Patio House=6041
+2 Story Log Cabin=6042
+Large Marble Patio House=6043
+}
+Misc Deeds
+{
+Townstone Deed=3299
+Guild Deed=6035
+Rename Deed=6036
+Pentagram Deed=6025
+Skull Candle Deed=10194
+}
+Boat Deeds
+{
+Small Boat=2117
+Small Dragon Ship=2118
+Medium Boat=2119
+Medium Dragon Ship=2120
+Large Boat=2121
+Large Dragon Ship=2122
+}
+}
+Spawner Menu
+{
+Male Shopkeeper Spawners
+{
+Shopkeeper Spawners A-B
+{
+Alchemist=3284
+Animal Trainer=3280
+Armorer=3268
+Architect=3272
+Baker=3242
+Banker=3290
+Bard=3236
+Blacksmith=3270
+Beekeeper=3291
+Bowyer=3258
+Butcher=3254
+}
+Shopkeeper Spawners C-L
+{
+Carpenter=3274
+Cobbler=3246
+Cook=3278
+Farmer=3276
+Fisherman=3282
+Healer=3293
+Herbalist=3252
+Innkeeper=3248
+Jewler=3260
+Leather Worker=3262
+}
+Shopkeeper Spawners M-Z
+{
+Mage=3250
+Miner=3238
+Provisioner=3244
+Shipwright=3264
+Spinner=3266
+Tailor=3256
+Tinker=3286
+Weaponsmith=3240
+}
+}
+Female Shopkeeper Spawners
+{
+Shopkeeper Spawners A-B
+{
+Alchemist=3285
+Animal Trainer=3281
+Armorer=3269
+Architect=3273
+Baker=3243
+Banker=3235
+Bard=3237
+Blacksmith=3271
+Beekeeper=3292
+Bowyer=3259
+Butcher=3255
+}
+Shopkeeper Spawners C-L
+{
+Carpenter=3275
+Cobbler=3247
+Cook=3279
+Farmer=3277
+Fisherlady=3283
+Healer=3294
+Herbalist=3253
+Innkeeper=3249
+Jewler=3261
+Leather Worker=3263
+}
+Shopkeeper Spawners M-Z
+{
+Mage=3251
+Miner=3239
+Provisioner=3245
+Shipwright=3265
+Spinner=3267
+Tailor=3257
+Tinker=3287
+Weaponsmith=3241
+}
+}
+Cocoons and Cocoon Spawner
+{
+Cocoon 1=13012
+Cocoon 2=13013
+Cocoon Spawner=13014
+Silk Fluxing Tool=13016
+}
+Misc Spawners
+{
+Orc Lord Spawn=3000
+Orc Spawner=3001
+Orc Mage Spawn=3002
+Ettin Spawn=3003
+Goat Spawn=5145
+Harpy Spawn=3026
+Random Orc Spawn=4100
+Random Lizardmen Spawn=4101
+Random Ratmen Spawn=4102
+Random Dragon and Drake=4103
+Random Barn Animals=4104
+}
+Misc Spawners 2
+{
+Air Elemental Spawner=4105
+Earth Elemental Spawner=4106
+Fire Elemental Spawner=4107
+Water Elemental Spawner=4108
+Poision Elemental Spawner=4109
+Giant Serpant Spawner=4110
+Giant Spider=4111
+Giant Scorpion=4116
+Lich Spawner =4112
+Lich Lord Spawner =4113
+Bone Knight Spawner =4114
+Bone Magi Spawner =4115
+}
+Random Spawners
+{
+Arctic Spawns=10141
+Cave Spawns=10142
+Desert Spawns=10143
+Dungeon Spawns=10144
+Eerie Spawns=10145
+Farm Spawns=10146
+Forest Spawns=10147
+Jungle Spawns=10148
+Mountain Spawns=10149
+Ocean Spawns=10150
+Swamp Spawns=10151
+Town Spawns=10152
+Volcanic Spawns=10153
+Drow Spawns=10154
+Diablo Spawns=10155
+Wood Elves Spawns=10156
+High Elves Spawns=10157
+}
+Area Spawners 1
+{
+Random Dog & Cat=10115
+Random Swamp Creatures=10116
+Random Jungle Creatures=10117
+Random Cows,Horses,ect.=10082
+Random Birds=10087
+Random All Animals=10088
+Random Small Animals=10089
+Random Productive Animals=10090
+Random Bears=10091
+Random Strong Undead=10093
+Random Weak Undead=10094
+Random All Undead=10095
+}
+Area Spawners 2
+{
+Random Orcs=10086
+Random Ettins,Ogres and Trolls=10099
+Random Med. Orcs=10100
+Random Weaker Orcs=10101
+Random Orc-Kin=10102
+Random Dragons and Drakes=10083
+Random Daemons=10096
+Random Elementals=10097
+Random Elementals and Daemons=10098
+Random Ratmen=10084
+Random Lizardmen=10085
+Random Overworld Monsters=10092
+}
+}
+Building Menu
+{
+Floor Tiles
+{
+Marble 1
+{
+Marble=119
+Marble=120
+Marble=121
+Marble=122
+Marble=123
+Marble=124
+Marble=125
+Marble=126
+Marble=127
+Marble=128
+Marble=129
+}
+Marble 2
+{
+Marble=130
+Marble=131
+Marble=132
+Marble=133
+Marble=134
+Marble=135
+Marble=136
+Marble=137
+Marble=138
+}
+Sandstone Pavers
+{
+Sandstone Pavers=139
+Sandstone Pavers=140
+Sandstone Pavers=141
+Sandstone Pavers=142
+}
+Wooden Planks
+{
+Wooden Planks=143
+Wooden Planks=144
+Wooden Planks=145
+Wooden Planks=146
+}
+Wooden Boards 1
+{
+Wooden Boards=147
+Wooden Boards=148
+Wooden Boards=149
+Wooden Boards=150
+Wooden Boards=151
+Wooden Boards=152
+Wooden Boards=153
+Wooden Boards=154
+Wooden Boards=155
+Wooden Boards=156
+Wooden Boards=157
+Wooden Boards=158
+Wooden Boards=159
+Wooden Boards=160
+}
+Wooden Boards 2
+{
+Wooden Boards=161
+Wooden Boards=162
+Wooden Boards=163
+Wooden Boards=164
+Wooden Boards=165
+Wooden Boards=166
+Wooden Boards=167
+Wooden Boards=168
+Wooden Boards=169
+Wooden Boards=170
+Wooden Boards=171
+Wooden Boards=172
+Wooden Boards=173
+Wooden Boards=174
+}
+Bricks
+{
+Bricks=175
+Bricks=176
+Bricks=177
+Bricks=178
+Bricks=179
+Bricks=180
+Bricks=181
+Bricks=182
+}
+Cobblestones & Flagstones
+{
+Flagstones=183
+Flagstones=184
+Flagstones=185
+Flagstones=186
+Cobblestones=187
+Cobblestones=188
+Cobblestones=189
+Cobblestones=190
+}
+Wooden Logs
+{
+Wooden Logs=194
+Wooden Logs=195
+Wooden Logs=196
+Wooden Logs=197
+Wooden Logs=198
+Wooden Logs=199
+Wooden Logs=200
+Wooden Logs=201
+Wooden Logs=202
+Wooden Logs=203
+Wooden Logs=204
+Wooden Logs=205
+Wooden Logs=206
+Wooden Logs=207
+}
+Stone Pavers
+{
+Stone Pavers=208
+Stone Pavers=209
+Stone Pavers=210
+Stone Pavers=211
+Stone Pavers=212
+Stone Pavers=213
+Stone Pavers=214
+Stone Pavers=215
+}
+Blue & Red Tiles
+{
+Blue Tile=216
+Blue Tile=217
+Blue Tile=218
+Blue Tile=219
+Blue Tile=220
+Blue Tile=221
+Blue Tile=222
+Blue Tile=223
+Blue Tile=224
+Blue Tile=225
+Red Tile=226
+Red Tile=227
+Red Tile=228
+Red Tile=229
+Red Tile=230
+Red Tile=231
+Red Tile=232
+Red Tile=233
+}
+Sandstone Floor
+{
+Sandstone Floor=234
+Sandstone Floor=235
+Sandstone Floor=236
+Sandstone Floor=237
+Sandstone Floor=238
+Sandstone Floor=239
+Sandstone Floor=240
+Sandstone Floor=241
+Sandstone Floor=242
+Sandstone Floor=243
+Sandstone Floor=244
+Sandstone Floor=245
+Sandstone Floor=246
+Sandstone Floor=247
+}
+}
+Walls & Blocks
+{
+Brick Walls
+{
+Brick Walls I
+{
+SE Corner=3150
+E-W Wall=3151
+N-S Wall=3152
+Brick Post=3153
+E-W Wall with Wood=3154
+N-S Wall with Wood=3155
+E-W Wall with Wood=3156
+N-S Wall with Wood=3157
+E-W Wall with Window=3158
+N-S Wall with Window=3159
+SE Corner Small=3160
+E-W Wall Small=3161
+N-S Wall Small=3162
+}
+Brick Walls II
+{
+Small Brick Post=3163
+SE Corner=3164
+E-W Wall Really Small=3165
+N-S Wall Really Small=3166
+Really Small Post=3167
+SE Corner Arch=3185
+N-S Arch=3168
+E-W Arch=3169
+E-W Arch=3170
+N-S Arch=3171
+E-W Arched Top Wall=3172
+N-S Arched Top Wall=3173
+N-S Arched Top Wall=3174
+E-W Arched Top Wall=3175
+E-W Top Arch End=3176
+}
+Brick Walls III
+{
+N-S Top Arch End=3177
+E-W Top Arch Middle=3178
+N-S Top Arch Middle=3179
+SE Corner Blocks=3180
+E-W Blocks=3181
+N-S Blocks=3182
+E-W Blocks=3183
+N-S Blocks=3184
+}
+}
+Palisade Walls
+{
+Banners/Curtains/Standards
+{
+Banner, Tattered N-S 1=3027
+Banner, Tattered N-S 2=3028
+Banner, Tattered N-S 3=3029
+Banner, Tattered N-S 4=3030
+Banner, Tattered E-W 1=3031
+Banner, Tattered E-W 2=3032
+Banner, Tattered E-W 3=3033
+Banner, Tattered E-W 4=3034
+Curtain N-S 1=3035
+Curtain N-S 2=3051
+Curtain S-N=3050
+Curtain, Rod N-S=3036
+Curtain E-W 1=3037
+Curtain E-W 2=3052
+Curtain W-E=3053
+Curtain, Rod E-W=3038
+Standard, Shield N-S=3046
+Standard, Shield E-W=3047
+Standard, Skull N-S=3048
+Standard, Skull E-W=3049
+}
+Walls
+{
+Corner Pole=3054
+Palisade, Corner=3064
+Palisade, N-S=3064
+Palisade, E-W=3064
+Palisade, Skull N-S=3041
+Palisade, Skull E-W 1=3043
+Palisade, Skull E-W 2=3045
+Palisade, Skull E-W 3=3044
+Small Palisade, Corner=3039
+Small Palisade, N-S=3040
+Small Palisade, E-W=3042
+Small Palisade, Slant N-S 1=3055
+Small Palisade, Slant N-S 2=3056
+Small Palisade, Slant E-W 1=3057
+Small Palisade, Slant E-W 2=3058
+Un-spiked Palisade, Corner=3059
+Un-spiked Palisade, N-S=3060
+Un-spiked Palisade, N-S=3061
+Un-spiked Palisade, E-W=3062
+Un-spiked Palisade, E-W=3063
+}
+}
+Stone Walls
+{
+Stone Walls I
+{
+SE Corner=3100
+SE Small Corner=3110
+Really Small SE Corner=3119
+E-W Wall=3102
+E-W Wall with Wood=3104
+E-W Wall with Wood=3107
+E-W Wall with Window=3108
+Really Small E-W Wall=3121
+Really Small E-W Wall 2=3123
+E-W Small Wall=3111
+N-S Wall=3101
+}
+Stone Walls II
+{
+N-S Wall with Wood=3105
+N-S Wall with Wood=3106
+N-S Wall with Window=3109
+N-S Small Wall=3112
+Really Small N-S Wall=3120
+Really Small N-S Wall 2=3124
+Really Small Stone Post=3122
+Stone Post=3103
+Small Stone Post=3113
+SE Arch=3114
+E-W Arch=3115
+N-S Arch=3116
+N-S Arch=3117
+E-W Arch=3118
+}
+}
+Wooden Walls
+{
+Wooden Walls I
+{
+SE Corner=3006
+SE Corner Small=3016
+SE Corner Really Small=3020
+E-W Wall=3007
+E-W Wall=3010
+E-W Wall=3012
+E-W Wall with Window=3014
+E-W Small Wall=3018
+E-W Really Small Wall=3022
+}
+Wooden Walls II
+{
+E-W Really Small Wall=3024
+N-S Wall=3008
+N-S Wall=3011
+N-S Wall=3013
+N-S Wall with Window=3015
+N-S Small Wall=3017
+N-S Really Small Wall=3021
+N-S Really Small Wall=3025
+Wooden Post=3009
+Wooden Post=3019
+Small Corner Post=3023
+}
+}
+}
+Rugs
+{
+Red Rug
+{
+Red Rug=248
+Red Rug=249
+Red Rug=250
+Red Rug=251
+Red Rug=252
+Red Rug=253
+Red Rug=254
+Red Rug=255
+Red Rug=256
+Red Rug=257
+}
+Greenish Rug
+{
+Greenish Rug=258
+Greenish Rug=259
+Greenish Rug=260
+Greenish Rug=261
+Greenish Rug=262
+Greenish Rug=263
+Greenish Rug=264
+Greenish Rug=265
+Greenish Rug=266
+Greenish Rug=267
+}
+Fancy Blue Rug
+{
+Fancy Blue Rug=268
+Fancy Blue Rug=269
+Fancy Blue Rug=270
+Fancy Blue Rug=271
+Fancy Blue Rug=272
+Fancy Blue Rug=273
+Fancy Blue Rug=274
+Fancy Blue Rug=275
+Fancy Blue Rug=276
+}
+Fancy Red Rug
+{
+Fancy Red Rug=277
+Fancy Red Rug=278
+Fancy Red Rug=279
+Fancy Red Rug=280
+Fancy Red Rug=281
+Fancy Red Rug=282
+Fancy Red Rug=283
+Fancy Red Rug=284
+Fancy Red Rug=285
+Fancy Red Rug=286
+Fancy Red Rug=287
+}
+Fancy Blue/Gold Rug
+{
+Fancy Blue/Gold Rug=288
+Fancy Blue/Gold Rug=289
+Fancy Blue/Gold Rug=290
+Fancy Blue/Gold Rug=291
+Fancy Blue/Gold Rug=292
+Fancy Blue/Gold Rug=293
+Fancy Blue/Gold Rug=294
+Fancy Blue/Gold Rug=295
+Fancy Blue/Gold Rug=296
+}
+Fancy Gold Rug
+{
+Fancy Golden Rug=297
+Fancy Golden Rug=298
+Fancy Golden Rug=299
+Fancy Golden Rug=300
+Fancy Golden Rug=301
+Fancy Golden Rug=302
+Fancy Golden Rug=303
+Fancy Golden Rug=304
+Fancy Golden Rug=305
+}
+Fancy Pink Rug
+{
+Fancy Pink Rug=306
+Fancy Pink Rug=307
+Fancy Pink Rug=308
+Fancy Pink Rug=309
+Fancy Pink Rug=310
+Fancy Pink Rug=311
+Fancy Pink Rug=312
+Fancy Pink Rug=313
+Fancy Pink Rug=314
+}
+Fancy Pink/Blue Rug
+{
+Fancy Pink & Blue Rug=315
+Fancy Pink & Blue Rug=316
+Fancy Pink & Blue Rug=317
+Fancy Pink & Blue Rug=318
+Fancy Pink & Blue Rug=319
+Fancy Pink & Blue Rug=320
+Fancy Pink & Blue Rug=321
+Fancy Pink & Blue Rug=322
+Fancy Pink & Blue Rug=323
+Fancy Pink & Blue Rug=324
+Fancy Pink & Blue Rug=325
+}
+}
+Doors
+{
+Metal Door 1
+{
+West Door=542
+East Door=543
+South Door=544
+North Door=545
+}
+Metal Door 2
+{
+West Door=562
+East Door=563
+South Door=564
+North Door=565
+}
+Barred Metal Door
+{
+West Door=546
+East Door=547
+South Door=548
+North Door=549
+}
+Iron Gate
+{
+West Door=578
+East Door=579
+South Door=580
+North Door=581
+}
+Rattan Door
+{
+West Door=550
+East Door=551
+South Door=552
+North Door=553
+}
+Wooden Door 1
+{
+West Door=554
+East Door=555
+South Door=556
+North Door=557
+}
+Wooden Door 2
+{
+West Door=558
+East Door=559
+South Door=560
+North Door=561
+}
+Wooden Door 3
+{
+West Door=566
+East Door=567
+South Door=568
+North Door=569
+}
+Wooden Door 4
+{
+West Door=570
+East Door=571
+South Door=572
+North Door=573
+}
+Wooden Gate 1
+{
+West Door=574
+East Door=575
+South Door=576
+North Door=577
+}
+Wooden Gate 2
+{
+West Door=582
+East Door=583
+South Door=584
+North Door=585
+}
+}
+Furniture
+{
+Benches & Chairs
+{
+Benches
+{
+Marble Bench=342
+Marble Bench 2=343
+Other Marble Benches
+{
+Marble Bench=386
+Marble Bench=387
+Marble Bench=388
+}
+Stone Bench=344
+Stone Bench 2=345
+Other Sandstone Benches
+{
+Sandstone Bench=389
+Sandstone Bench=390
+Sandstone Bench=391
+}
+Wooden Bench=346
+Wooden Bench 2=347
+Other Wooden Benches
+{
+Wooden Bench 1
+{
+Wooden Bench=348
+Wooden Bench=349
+Wooden Bench=350
+}
+Wooden Bench 2
+{
+Wooden Bench 2=351
+Wooden Bench 2=352
+Wooden Bench 2=353
+}
+Wooden Bench 3
+{
+Wooden Bench 3=354
+Wooden Bench 3=355
+Wooden Bench 3=356
+}
+Wooden Bench 4
+{
+Wooden Bench 4=357
+Wooden Bench 4=358
+Wooden Bench 4=359
+}
+Wooden Bench 5
+{
+Wooden Bench=360
+Wooden Bench=361
+Wooden Bench=362
+Wooden Bench=363
+}
+}
+}
+Chairs
+{
+Throne
+{
+Throne=364
+Throne=365
+}
+Wooden Chair
+{
+Wooden Chair=366
+Wooden Chair=367
+Wooden Chair=368
+Wooden Chair=369
+}
+Chair 1
+{
+Chair 1=370
+Chair 1=371
+Chair 1=372
+Chair 1=373
+}
+Chair 2
+{
+Chair 2=374
+Chair 2=375
+Chair 2=376
+Chair 2=377
+}
+Chair 3
+{
+Chair 3=378
+Chair 3=379
+Chair 3=380
+Chair 3=381
+}
+Chair 4
+{
+Chair 4=382
+Chair 4=383
+Chair 4=384
+Chair 4=385
+}
+Stone Throne
+{
+Stone Throne=392
+Stone Throne=393
+Stone Throne=394
+Stone Throne=395
+}
+Stool=1020
+Stool=1021
+}
+}
+Display Cases
+{
+Display Case Bottom
+{
+Center=507
+North=508
+Northeast=509
+East=510
+Southeast=511
+South=512
+Southwest=513
+West=514
+Northwest=515
+}
+Display Case Top
+{
+North=516
+Northeast=517
+East=518
+Southeast=519
+South=520
+Southwest=521
+West=522
+Northwest=523
+}
+}
+Cabinets
+{
+Type I
+{
+Cabinet 1=7056
+Cabinet 2=7057
+Cabinet 3=7058
+Cabinet 4=7059
+}
+Type II
+{
+Cabinet 1=7060
+Cabinet 2=7061
+Cabinet 3=7062
+Cabinet 4=7063
+}
+Book Shelfs
+{
+Book Shelf 1=7064
+Book Shelf 2=7065
+Book Shelf 3=7066
+Book Shelf 4=7067
+Book Shelf 5=7068
+Book Shelf 6=7069
+Empty Shelf 1=7070
+Empty Shelf 2=7071
+}
+}
+Tables
+{
+Tables Type 1
+{
+Table 1=2538
+Table 2=7072
+Table 3=7073
+Table 4=7074
+}
+Tables Type 2
+{
+Table 1=7075
+Table 2=7076
+Table 3=7077
+Table 4=7078
+}
+Tables Type 3
+{
+Table 1=7079
+Table 2=7080
+Table 3=7081
+Table 4=7082
+Table 5=7083
+Table 6=7084
+}
+Tables Type 4
+{
+Table 1=7085
+Table 2=7086
+Table 3=7087
+Table 4=7088
+}
+Tables Type 5
+{
+Table 1=7089
+Table 2=7090
+Table 3=7091
+Table 4=7092
+Table 5=7093
+}
+Tables Type 6
+{
+Table 1=7094
+Table 2=7095
+Table 3=7096
+Table 4=7097
+}
+Tables Type 7
+{
+Table 1=7098
+Table 2=7099
+Table 3=7100
+Table 4=7101
+Table 5=7102
+}
+Other Tables
+{
+Table 1=2538
+Table 2=7113
+Table 3=2540
+Table 4=7114
+}
+}
+}
+Statues & Trophies
+{
+Statues
+{
+Statue 1 Left=396
+Statue 1 Center=397
+Statue 1 Right=398
+Statue 2 Left=399
+Statue 2 Center=400
+Statue 2 Right=401
+Statue 3 Left=404
+Statue 3 Center=405
+Statue 3 Right=406
+Unfinished Statue=403
+Statue=407
+Statue=408
+Statue=409
+Statue=410
+Statue=411
+}
+Trophies
+{
+Grizzly Bear Trophy, Back Wall=524
+Deer Trophy, Back Wall=525
+Fish Trophy, Back Wall=526
+Gorilla Trophy, Back Wall=527
+Orc Trophy, Back Wall=528
+Polar Bear Trophy, Back Wall=529
+Troll Trophy, Back Wall=530
+Grizzly Bear Trophy, West Wall=531
+Deer Trophy, West Wall=532
+Fish Trophy, West Wall=533
+Gorilla Trophy, West Wall=534
+Orc Trophy, West Wall=535
+Polar Bear Trophy, West Wall=536
+Troll Trophy, West Wall=537
+}
+}
+Misc
+{
+Alchemical Symbols
+{
+Alchemical Symbol=414
+Alchemical Symbol=415
+Alchemical Symbol=416
+Alchemical Symbol=417
+Alchemical Symbol=418
+Alchemical Symbol=419
+Alchemical Symbol=420
+Alchemical Symbol=421
+Alchemical Symbol=422
+Alchemical Symbol=423
+Alchemical Symbol=424
+Alchemical Symbol=425
+}
+Plants
+{
+Potted Cactus w/flowers=8004
+Potted Cactus=8001
+Potted Cactus w/bush=8002
+Potted Branched Cactus=8003
+Campion Flowers=10044
+Foxglove Flowers=10045
+Orfluer Flowers=10046
+Red Poppies=10047
+Snow Drops=10048
+Hedge=10049
+Blade Plant=10050
+Large Fern=10051
+Pampas Grass=10052
+Spider Tree=10053
+Juniper Bush=10054
+Weed=10055
+Yucca=10056
+}
+Signs
+{
+Shop Signs 1
+{
+Library=904
+Library=905
+Bakery=906
+Bakery=907
+Tailor=908
+Tailor=909
+Tinker=910
+Tinker=911
+Butcher=912
+Butcher=913
+Healer=914
+Healer=915
+}
+Shop Signs 2
+{
+Magic=916
+Magic=917
+Carpenter=918
+Carpenter=919
+Shipwright=920
+Shipwright=921
+Inn=922
+Inn=923
+Harbor Master=924
+Harbor Master=925
+Stables=926
+Stables=927
+Barber=928
+Barber=929
+Plain=2530
+Plain=2531
+}
+Shop Signs 3
+{
+Mucician=930
+Mucician=931
+Archery=932
+Archery=933
+Blacksmith=934
+Blacksmith=935
+Jewler=936
+Jewler=937
+Tavern=938
+Tavern=939
+Alchemist=940
+Alchemist=941
+Armorer=942
+Armorer=943
+}
+Shop Signs 4
+{
+Artist=944
+Artist=945
+Provisioner=946
+Provisioner=947
+Bowyer=948
+Bowyer=949
+Bank=950
+Bank=951
+Theater=952
+Theater=953
+Beekeeper=1016
+Beekeeper=1017
+}
+Guild Signs 1
+{
+Armaments Guild=954
+Armaments Guild=955
+Armourers Guild=956
+Armourers Guild=957
+Blacksmiths Guild=958
+Blacksmiths Guild=959
+Weapons Guild=960
+Weapons Guild=961
+Bardic Guild=962
+Bardic Guild=963
+Barders Guild=964
+Barders Guild=965
+Provisioners Guild=966
+Provisioners Guild=967
+}
+Guild Signs 2
+{
+Traders Guild=968
+Traders Guild=969
+Cooks Guild=970
+Cooks Guild=971
+Healers Guild=972
+Healers Guild=973
+Mages Guild=974
+Mages Guild=975
+Sorcerers Guild=976
+Sorcerers Guild=977
+Illusionists Guild=978
+Illusionists Guild=979
+Miners Guild=980
+Miners Guild=981
+}
+Guild Signs 3
+{
+Archers Guild=982
+Archers Guild=983
+Seamans Guild=984
+Seamans Guild=985
+Fishermans Guild=986
+Fishermans Guild=987
+Sailors Guild=988
+Sailors Guild=989
+Shipwrights Guild=990
+Shipwrights Guild=991
+Tailors Guild=992
+Tailors Guild=993
+Thieves Guild=994
+Thieves Guild=995
+}
+Guild Signs 4
+{
+Rouges Guild=996
+Rouges Guild=997
+Assassins Guild=998
+Assassins Guild=999
+Tinkers Guild=1000
+Tinkers Guild=1001
+Warriors Guild=1002
+Warriors Guild=1003
+Cavalry Guild=1004
+Cavalry Guild=1005
+Fighters Guild=1006
+Fighters Guild=1007
+Merchants Guild=1008
+Merchants Guild=1009
+}
+Misc Signs
+{
+Roadsign=895
+Roadsign=896
+Roadsign=897
+Roadsign=898
+Roadsign=899
+Roadsign=900
+Roadsign=901
+Roadsign=902
+Signpost=903
+Wooden Sign =1010
+Wooden Sign =1011
+Brass Sign =1012
+Brass Sign =1013
+Sign =1014
+Sign =1015
+}
+}
+Ankh Left=41
+Ankh Right=42
+Blood Ankh Left=412
+Blood Ankh Right=413
+}
+}
+Gate Menu
+{
+Single-Use Adv. Gates
+{
+Black Smith=801
+Swordsman=802
+Archer=803
+Mage=804
+Armsman=805
+Fencer=10057
+Thief=10107
+Bard=10108
+Ranger=10109
+Assassin=10110
+}
+Multi-Use Adv. Gates
+{
+Black Smith=10058
+Swordsman=10059
+Archer=10060
+Mage=10061
+Armsman=10062
+Fencer=10063
+Thief=10111
+Bard=10112
+Ranger=10113
+Assassin=10114
+}
+Monster Gates
+{
+Orc=10064
+Ettin=10065
+Troll=10066
+Skeleton=10067
+Lich=10068
+Daemon=10069
+Dragon=10070
+Drake=10071
+Male Human=10105
+Female Human=10106
+}
+Race Gates
+{
+Human =11000
+Elf =11001
+Half-Elf =11002
+Dwarf =11003
+Goblin =11004
+Gnome =11005
+Halfling =11006
+Dryad=11007
+Orc=11008
+Pixie=11009
+Valheru=11010
+}
+}
+Supplies Menu
+{
+Food Items
+{
+Bottled Beverages
+{
+Bottle of Ale=5000
+Bottles of Ale=5001
+Bottles of Ale=5002
+Bottles of Ale=5003
+Bottle of Liquor=5004
+Bottles of Liqour=5005
+Bottles of Liqour=5006
+Bottles of Liqour=5007
+Bottle of Wine=5008
+Bottles of Wine=5009
+Bottles of Wine=5010
+Bottles of Wine=5011
+}
+Non-Bottled Beverages
+{
+Bucket of Water=5012
+Glass of Ale=5013
+Glass of Cider=5014
+Glass of Liqour=5015
+Glass of Milk=5016
+Glass of Water=5017
+Glass of Wine=5018
+Jugs of Cider=5019
+Jugs of Cider=5020
+Pitcher of Ale=5021
+Pitcher of Cider=5022
+Pitcher of Liqour=5023
+Pitcher of Milk=5024
+Pitcher of Water=5025
+Pitcher of Wine=5026
+}
+Baked and Veggys
+{
+Baked Pie=5027
+Unbaked Pie=5028
+Cake=5029
+Wedge of Cheese=5030
+Cut Cheese=5031
+Wheel of Cheese=5032
+French Bread=5033
+Muffin=5034
+Muffins=5035
+Muffins=5036
+Loaf of Bread=5037
+Pizza=5038
+Unbaked Pizza=5039
+Pan of Cookies=5040
+Plate of Cookies=5041
+Eggshells=5042
+Eggs=5043
+Fried Eggs=5044
+}
+Baked and Veggys 2
+{
+Cookie Mix=10023
+Lettuce=10001
+Squash=10002
+Carrots=10003
+Cabbage=10004
+Ear of Corn=10005
+Donuts=10006
+Jar of Honey=10007
+Turnip=10008
+Sprouts=10009
+Pumpkin=10010
+Onion=10011
+}
+Bowls
+{
+Dough=10024
+Carrots=10025
+Corn=10026
+Lettuce=10027
+Peas=10028
+Potatoes=10029
+Stew=10030
+Tomato Soup=10031
+Pewter=10032
+}
+Meat
+{
+Cooked Bird=5045
+Roast Pig=5046
+Sausages=5047
+Ham=5048
+Ribs=5049
+Fish Steak=5050
+Slabs of Bacon=5051
+Slice of Bacon=5052
+}
+Fruit
+{
+Pear=5053
+Apple=5054
+Grape Bunch=5055
+Peach=5056
+Fruit Basket=5057
+Coconut=10012
+Banana=10013
+Bananas=10014
+Dates=10015
+Lemon=10016
+Lemons=10017
+Lime=10018
+Limes=10019
+Honeydew Melon=10020
+Canteloupe=10021
+Water Melon=10022
+Sheaf of Hay=10041
+}
+}
+Containers
+{
+Backpack=327
+Leather Bag=328
+Round Basket=330
+Pouch=331
+Square Basket=332
+Wooden Chest=2503
+Silver Chest=333
+Metal Chest=2502
+Wooden Box=334
+Small Wooden Crate=335
+Medium Wooden Crate=2501
+Large Wooden Crate=2500
+Wooden Keg=336
+Tub=2504
+Barrel=329
+Brass Box=337
+Armorie, Cherry=2535
+Armorie, Brown=2536
+}
+Light Sources
+{
+Hand Light Sorces Menu
+{
+Lantern=7044
+Torch=7043
+Candle=7041
+Skull candle=10043
+Wall Candle=13019
+Wall Candle=13020
+}
+N/S Wall Torch ID=2616
+E/W Wall Torch ID=2617
+Brazier=541
+Candle=538
+Candelabra=539
+Dark Lamp post=2615
+Fancy Dim Post=2613
+Fancy Lit Post=2612
+Lit Lamp Post=2614
+Standard Lit Post=2610
+Standard Off Post=2611
+Tall Candelabra=540
+}
+Coins, Gems, Jewelry
+{
+Coins
+{
+Gold, Single=3185
+Gold, Few=3186
+Gold, PILEABLE=3187
+Silver, Single=3188
+Silver, Few=3189
+Silver, PILEABLE=3190
+Copper, Single=3191
+Copper, Few=3192
+Copper, PILEABLE=3193
+}
+Gems
+{
+Cut Gems
+{
+Amethyst=3194
+Amethyst=3195
+Citrine=3196
+Diamond=3234
+Emerald=3197
+Ruby=3198
+Ruby=3199
+Ruby=3200
+Ruby=3201
+Ruby=3202
+Sapphire=3203
+Sapphire=3204
+Sapphire=3205
+Sapphire=3206
+Sapphire, Star=3207
+Sapphire, Star=3208
+Tourmaline=3209
+Tourmaline=3210
+Tourmaline=3211
+}
+Un-Cut Gems
+{
+Amber=3212
+Amethyst=3213
+Amethyst=3214
+Citrine=3215
+Citrine=3216
+Citrine=3217
+Diamond=3218
+Diamond=3219
+Diamond=3220
+Diamond=3221
+Emerald=3222
+Ruby=3223
+Ruby=3224
+Sapphire, Star=3225
+Tourmaline=3226
+}
+}
+Jewelry
+{
+Beads=3227
+Bracelet=3228
+Earings=3229
+Necklace=3230
+Necklace=3231
+Necklace=3232
+Ring=3233
+}
+}
+Keys
+{
+Gold Key=338
+Iron Key=339
+Magic Key=340
+Bronze Key=341
+}
+Decorative Items
+{
+A Goblet=10186
+A Golden Goblet=10187
+A Pewter Mug=10188
+A Vase=10189
+Jars=10190
+A Boat Model=10191
+A Set of Vials=10192
+A skull=10193
+}
+Unique Items
+{
+Bracelet of Crom=7052
+Dragon's Shield=7051
+Falcon's Helmet=7055
+Lizard Killer=7048
+Mitra's Basin=7047
+Orcish Shield=7050
+Shiva's Bow=7046
+Shiva's Rubi=7053
+Sword of Heavens=7049
+Undead's Robe=7054
+}
+Quest Items
+{
+Compassion=37
+Courage=38
+Honesty=31
+Honor=34
+Humility=30
+Justice=32
+Love=40
+Sacrifice=33
+Spirituality=36
+Valor=35
+Truth=39
+Gem of Immortality=1018
+}
+Misc Items
+{
+Books
+{
+Books 1-8
+{
+The first UOX book=7115
+A Grammer of Orchish=7116
+The bold stranger=7117
+Birds of Brittannia=7118
+Reguarding Llamas=7119
+Talking to Wisps=7120
+Taming Dragons=7121
+A politic call to anarchy=7122
+}
+Books 9-16
+{
+Ethical Hedonism: An introduction=7123
+On the diversity of our lands=7124
+Virtue=7125
+My story=7126
+The burning of Trinsic=7127
+The fight=7128
+A song of Samlethe=7129
+Classic childrens tales vol.2=7130
+}
+Books 17-24
+{
+Classic tales of Vesper vol.1=7131
+A tale of three tribes=7132
+Deceit: A Dungeon of horrors=7133
+The life of a travelling minstrel=7134
+The wild girl in the forest=7135
+A primer on arms and weopons=7136
+Beltrans guide to guilds=7137
+Brittannian flora=7138
+}
+Books 25-32
+{
+Demensional travel: a monagraph=7139
+The major trade associations=7140
+The rankings of trades=7141
+Treatise on alchemy=7142
+UOX3 Story: Chapter 1 - Death=7143
+UOX3 Story: Chapter 2 - End of the World=7144
+UOX3 Story: Chapter 3- Th22e lost Splinter=7145
+My personal book=7146
+}
+Empty Book=453
+}
+Bulletin Board=10081
+Fishing Pole=784
+Map=452
+}
+}
+Skill-Items Menu
+{
+Blacksmithing Items
+{
+5 Iron Ingots=7030
+Forge=601
+Partial Forge=604
+Partial Forge=605
+Partial Forge=606
+Pick Axe=87
+Anvil=602
+Anvil=603
+Tongs=609
+Shovel=607
+}
+Carpentry Items
+{
+Draw Knife=3400
+Dovetail Saw=3401
+Saw=3402
+Carpenter's Hammer=3403
+Jointing Plane=3404
+Smoothing Plane=3405
+Scorp=3406
+Inshave=3407
+Moulding Plane=3408
+Nails=3409
+Froe=3410
+}
+Tailoring Items
+{
+Spinning Wheel - not animated=8050
+Spinning Wheel - animated=8051
+Upright Loom - 1st part South=8053
+Upright Loom - 2nd part South=8054
+Upright Loom - 1st part East=8057
+Upright Loom - 2nd part East=8058
+Unspun Wool=8052
+Ball of Yarn=8055
+Folded Cloth=7029
+Sewing Kit=7028
+Scissors=7042
+Bolt of Cloth=10033
+Bolt of Cloth=10034
+Bolt of Cloth=10035
+Bolt of Cloth=10036
+Bolt of Cloth=10037
+Bolt of Cloth=10038
+Bolt of Cloth=10039
+Bolt of Cloth=10040
+}
+Archery Items
+{
+Archery Butte - East=8080
+Archery Butte - South=8081
+5 Feathers=7015
+5 Shafts=7014
+Decorative Feathers=8084
+Decorative Feathers=8085
+Decorative Arrow Fletching=8086
+Decorative Arrow Fletching=8087
+Decorative Arrow Shafts=8088
+Decorative Arrow Shafts=8089
+}
+Fishing Items
+{
+Fishing Pole=784
+Fish Steak=5050
+Fish Head=5118
+A fish=8108
+Raw Fish=8109
+}
+Musical Items
+{
+Drum=7000
+Tamberine=7001
+Tamberine with ribbon=7002
+Standing Harp=7003
+Harp=7004
+Lute=7005
+Lute=7006
+}
+}
+

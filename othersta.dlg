@@ -1,0 +1,13 @@
+title=Static Items
+columns=6
+rows=6
+vspace=0
+hspace=0
+xsize=165
+ysize=215
+
+Frame=1,1,26,31,"Other Statics"
+Button=2,4,24,3,"Add Item by Number","additem",D,PROMPT,"Enter item number."
+Button=2,8,24,3,"Add Item by Hex","add",HH,PROMPT,"Enter item hex."
+Button=2,12,24,3,"Add Item from List","add",D,"list"
+Listbox=2,16,24,15,"list",othersta.lst

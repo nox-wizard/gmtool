@@ -1,0 +1,18 @@
+format=D
+
+MagicArrow=1
+Harm=2
+Clumsy=4
+FeebleMind=8
+Weaken=16
+Fireball=32
+Curse=64
+Lighting=128
+Paralyze=256
+MindBlast=512
+Engerybolt=1024
+Explosion=2048
+FlameStrike=4096
+Dragon Breath 20%=8192	
+Dragon Breath 40%=16384	
+Dragon Breath 60%=32768

@@ -1,0 +1,11 @@
+Title=Make Backpack
+columns=1
+rows=1
+vspace=0
+hspace=0
+xsize=138
+ysize=100
+
+Frame=5,1,125,70,"Make Pack"
+Button=10,15,115,20,"1) Make Backpack","add 0x0e 0x75",N
+Button=10,40,115,20,"2) Make container","settype 1",N

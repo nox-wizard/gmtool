@@ -1,0 +1,7 @@
+// Accomplice Options Save File
+Window=199,707
+AlwaysTop=TRUE
+Link2UO=FALSE
+PrefixHex=FALSE
+CommandPrefix='
+NavMap=0,0,0,0,250,250

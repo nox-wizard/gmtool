@@ -1,0 +1,53 @@
+format=D
+
+Books
+{
+Books 1-8
+{
+The first UOX book=7115
+A Grammer of Orchish=7116
+The bold stranger=7117
+Birds of Brittannia=7118
+Reguarding Llamas=7119
+Talking to Wisps=7120
+Taming Dragons=7121
+A politic call to anarchy=7122
+}
+Books 9-16
+{
+Ethical Hedonism: An introduction=7123
+On the diversity of our lands=7124
+Virtue=7125
+My story=7126
+The burning of Trinsic=7127
+The fight=7128
+A song of Samlethe=7129
+Classic childrens tales vol.2=7130
+}
+Books 17-24
+{
+Classic tales of Vesper vol.1=7131
+A tale of three tribes=7132
+Deceit: A Dungeon of horrors=7133
+The life of a travelling minstrel=7134
+The wild girl in the forest=7135
+A primer on arms and weopons=7136
+Beltrans guide to guilds=7137
+Brittannian flora=7138
+}
+Books 25-32
+{
+Demensional travel: a monagraph=7139
+The major trade associations=7140
+The rankings of trades=7141
+Treatise on alchemy=7142
+UOX3 Story: Chapter 1 - Death=7143
+UOX3 Story: Chapter 2 - End of the World=7144
+UOX3 Story: Chapter 3- Th22e lost Splinter=7145
+My personal book=7146
+}
+Empty Book=453
+}
+Bulletin Board=10081
+Map=452
+}

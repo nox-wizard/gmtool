@@ -1,0 +1,169 @@
+format=D
+
+Alchemical Symbols
+{
+Alchemical Symbol=414
+Alchemical Symbol=415
+Alchemical Symbol=416
+Alchemical Symbol=417
+Alchemical Symbol=418
+Alchemical Symbol=419
+Alchemical Symbol=420
+Alchemical Symbol=421
+Alchemical Symbol=422
+Alchemical Symbol=423
+Alchemical Symbol=424
+Alchemical Symbol=425
+}
+Shop Signs 1
+{
+Library=904
+Library=905
+Bakery=906
+Bakery=907
+Tailor=908
+Tailor=909
+Tinker=910
+Tinker=911
+Butcher=912
+Butcher=913
+Healer=914
+Healer=915
+}
+Shop Signs 2
+{
+Magic=916
+Magic=917
+Carpenter=918
+Carpenter=919
+Shipwright=920
+Shipwright=921
+Inn=922
+Inn=923
+Harbor Master=924
+Harbor Master=925
+Stables=926
+Stables=927
+Barber=928
+Barber=929
+Plain=2530
+Plain=2531
+}
+Shop Signs 3
+{
+Mucician=930
+Mucician=931
+Archery=932
+Archery=933
+Blacksmith=934
+Blacksmith=935
+Jewler=936
+Jewler=937
+Tavern=938
+Tavern=939
+Alchemist=940
+Alchemist=941
+Armorer=942
+Armorer=943
+}
+Shop Signs 4
+{
+Artist=944
+Artist=945
+Provisioner=946
+Provisioner=947
+Bowyer=948
+Bowyer=949
+Bank=950
+Bank=951
+Theater=952
+Theater=953
+Beekeeper=1016
+Beekeeper=1017
+}
+Guild Signs 1
+{
+Armaments Guild=954
+Armaments Guild=955
+Armourers Guild=956
+Armourers Guild=957
+Blacksmiths Guild=958
+Blacksmiths Guild=959
+Weapons Guild=960
+Weapons Guild=961
+Bardic Guild=962
+Bardic Guild=963
+Barders Guild=964
+Barders Guild=965
+Provisioners Guild=966
+Provisioners Guild=967
+}
+Guild Signs 2
+{
+Traders Guild=968
+Traders Guild=969
+Cooks Guild=970
+Cooks Guild=971
+Healers Guild=972
+Healers Guild=973
+Mages Guild=974
+Mages Guild=975
+Sorcerers Guild=976
+Sorcerers Guild=977
+Illusionists Guild=978
+Illusionists Guild=979
+Miners Guild=980
+Miners Guild=981
+}
+Guild Signs 3
+{
+Archers Guild=982
+Archers Guild=983
+Seamans Guild=984
+Seamans Guild=985
+Fishermans Guild=986
+Fishermans Guild=987
+Sailors Guild=988
+Sailors Guild=989
+Shipwrights Guild=990
+Shipwrights Guild=991
+Tailors Guild=992
+Tailors Guild=993
+Thieves Guild=994
+Thieves Guild=995
+}
+Guild Signs 4
+{
+Rouges Guild=996
+Rouges Guild=997
+Assassins Guild=998
+Assassins Guild=999
+Tinkers Guild=1000
+Tinkers Guild=1001
+Warriors Guild=1002
+Warriors Guild=1003
+Cavalry Guild=1004
+Cavalry Guild=1005
+Fighters Guild=1006
+Fighters Guild=1007
+Merchants Guild=1008
+Merchants Guild=1009
+}
+Misc Signs
+{
+Roadsign=895
+Roadsign=896
+Roadsign=897
+Roadsign=898
+Roadsign=899
+Roadsign=900
+Roadsign=901
+Roadsign=902
+Signpost=903
+Wooden Sign =1010
+Wooden Sign =1011
+Brass Sign =1012
+Brass Sign =1013
+Sign =1014
+Sign =1015
+}

@@ -1,0 +1,340 @@
+format=D
+
+farming tools
+{
+plough1=121021
+plough1 2=121022
+plough2=121031
+plough2 2=121032
+harrow1=121041
+harrow1 2=121042
+harrow2=121051
+harrow2 2=121052
+scarecrow1 1=121061
+scarecrow1 2=121062
+}
+potted plants
+{
+small flower pot=120001
+potted orfluer=120002
+potted plant=120003
+potted cactus1=120004
+potted cactus2=120005
+big flower pot=120041
+potted plant=120042
+potted tree=120043
+potted=foxglove=120044
+potted cactus3=120045
+potted cactus4=120046
+potted cactus5=120047
+potted cactus6=120048
+}
+non-farming plants
+{
+dot-flowers
+{
+flowers=120101
+flowers2=120102
+flowers3=120103
+flowers4=120104
+flowers5=120105
+flowers7=120106
+flowers8=120107
+flowers9=120108
+flowers10=120109
+flowers11=120110
+flowers12=120111
+flowers13=120112
+flowers14=120113
+flowers15=120114
+flowers16=120115
+flowers17=120116
+flowers18=120117
+}
+real flowers
+{
+campion flowers=120150
+campion flowers 2=120151
+campion flowers 3=120152
+foxglove flowers1=120160
+foxglove flowers2=120161
+orfluer flowers1=120170
+orfluer flowers1 2=120171
+orfluer flowers1 3=120172
+red poppies1=120180
+red poppies2 1=120181
+red poppies2 2=120182
+snow drops=120190
+snow drops 2=120191
+snow drops 3=120192
+morning glory=120200
+morning glory2=120201
+morning glory3=120202
+morning glory4=120203
+morning glory5=120204
+morning glory6=120205
+morning glory7=120206
+}
+Hedges
+{
+hedge1=120561
+hedge1 2=120562
+hedge2=120571
+hedge2 2=120572
+hedge3=120581
+hedge3 2=120582
+hedge4=120591
+hedge4 2=120592
+}
+Misc plants
+{
+blade plant=120641
+bulrushes=120642
+elephant ear=120643
+fan plant=120644
+ohii tree=120645
+fern1=120646
+fern2=120647
+fern3=120648
+fern4=120649
+fern5=120650
+large fern=120651
+pampas grass1=120652
+pampas grass2=120653
+ponytail palm=120654
+cactus1 1=120871
+cactus1 2=120872
+cactus1 3=120873
+cactus2 1=120881
+cactus2 2=120882
+cactus2 3=120883
+cactus3 1=120891
+cactus3 2=120892
+cactus3 3=120893
+cactus4=120901
+century plant=120911
+century plant2=120912
+yucca=120921
+yucca2=120922
+rushes=120656
+snake plant=120657
+juniper bush=120658
+spider tree=120659
+tuscany pine2=120660
+}
+Grasses
+{
+grasses1 1=120671
+grasses1 2=120672
+grasses2 1=120681
+grasses2 2=120682
+grasses3=120691
+grasses4=120692
+grasses5=120693
+grasses6=120694
+grasses7=120695
+grasses8=120696
+grasses9=120697
+grasses10=120698
+grasses11=120699
+grasses12=120700
+grasses13=120701
+grasses14=120702
+grasses15 1=120711
+grasses15 2=120712
+grasses15 3=120713
+grasses15 4=120714
+grasses16 1=120721
+grasses16 2=120722
+grasses16 3=120723
+grasses16 4=120724
+grass mat1=120731
+grass mat1 2=120732
+grass mat2=120741
+grass mat2 2=120742
+muck1=120751
+muck2=120752
+muck3=120753
+weed=120761
+}
+Water plants
+{
+cattails1 1=120771
+cattails1 2=120772
+cattails2 1=120781
+cattails2 2=120782
+water plants=120831
+reeds=120832
+lily pads1=120841
+lily pads2=120842
+lily pads3=120843
+lily pads4=120844
+lily pads5=120845
+lily pads6=120846
+lily pads7=120847
+lily pads8=120848
+lily pads9=120849
+lily pads10=120850
+lily pads11=120851
+lily pads12=120852
+seaweed=120861
+seaweed2=120862
+}
+Vines
+{
+vines1=120791
+vines1 2=120792
+vines1 3=120793
+vines1 4=120794
+vines2 1=120801
+vines2 2=120802
+vines2 3=120803
+vines2 4=120804
+}
+}
+
+farming plants
+{
+sprouts=120300
+sprouts 2=120300
+cloth plant
+{
+cotton1=120301
+cotton1 2=120302
+cotton1 3=120303
+cotton2=120304
+cotton2 2=120305
+cotton2 3=120306
+flax1=120311
+flax1 2=120312
+flax1 3=120313
+flax2=120314
+flax3=120315
+}
+grain and hops
+{
+hops1 1=120321
+hops1 2=120322
+hops2 1=120323
+hops2 2=120324
+hops3=120325
+wheat1 1=120331
+wheat1 2=120332
+wheat1 3=120333
+wheat1 4=120334
+wheat1 5=120335
+wheat2 1=120341
+wheat2 2=120342
+wheat2 3=120343
+wheat2 4=120344
+wheat2 5=120345
+wheat3 1=120351
+wheat3 2=120352
+wheat3 3=120353
+wheat3 4=120354
+wheat3 5=120355
+straw pillow1=120361
+straw pillow2=120362
+loose grain=120363
+hay1 1=120371
+hay1 2=120372
+hay1 3=120373
+hay1 4=120374
+sheaf of hay1=120375
+hay2 1=120381
+hay2 2=120382
+hay2 3=120383
+hay2 4=120384
+sheaf of hay2=120385
+hay3=120391
+hay4=120392
+sheaf of hay3=120393
+}
+vegetable and fruits
+{
+watermelons=120401
+watermelons 2=120402
+turnip1=120411
+turnip1 2=120412
+turnip1 3=120413
+turnip2=120421
+turnip2 2=120422
+turnip2 3=120423
+gourd1=120431
+gourd1 2=120432
+gourd2=120441
+gourd2 2=120442
+pumpkin1=120451
+pumpkin1 2=120452
+pumpkin2=120461
+pumpkin2 2=120462
+onions=120471
+onions 2=120472
+onions 3=120473
+lettuce1=120481
+lettuce2=120482
+squash1=120491
+squash2=120492
+honeydew melons1=120501
+honeydew melons2=120502
+carrots=120511
+carrots 2=120512
+carrots 3=120513
+canteloupes=120521
+canteloupes 2=120522
+heads of cabbage=120531
+heads of cabbage 2=120532
+ears of corn1 1=120541
+ears of corn1 2=120542
+ears of corn1 3=120543
+ears of corn1 4=120544
+ears of corn2 1=120551
+ears of corn2 2=120552
+ears of corn2 3=120553
+ears of corn2 4=120554
+small palm=120601
+small palm 2=120602
+small palm 3=120603
+small palm 4=120604
+small palm 5=120605
+coconut palm=120611
+date palm=120621
+banana plant=12031
+banana plant 2=120632
+banana plant 3=120633
+grape vines1=120811
+grape vines2=120812
+grape vines3=120813
+grape vines4=120814
+grape vines5=120815
+grape vines6=120816
+grape vines7=120817
+grape vines8=120818
+grape vines9=120819
+grape vines10=120820
+}
+}
+Alchemy
+{
+mandrake1 1=120931
+mandrake1 2=120932
+mandrake2 1=120941
+mandrake2 2=120942
+garlic1=120951
+garlic2=120952
+nightshade1 1=120961
+nightshade1 2=120962
+nightshade2 1=120971
+nightshade2 2=120972
+ginseng1 1=120981
+ginseng1 2=120982
+ginseng2 1=120991
+ginseng2 2=120992
+}
+Misc
+{
+egg nest1 1=121001
+egg nest1 2=121002
+christmas tree=121011
+christmas tree deed=121012
+}

@@ -1,0 +1,57 @@
+format=DDD
+
+Covetous
+{
+ouside=2499 917 0
+level 1=5457 1863 0
+level 2=5614 1998 0
+level 3=2546 850 1
+lake=5467 1805 5
+Torture Cells=5552 1806 10
+}
+Deceit
+{
+outside=4111 431 5
+level 1=5188 638 1
+level 2=5305 533 6
+level 3=5138 650 6
+level 4=5305 652 5
+}
+Despise
+{
+outside=1297 1081 0
+entryway=5587 632 30
+level 1=5501 570 57
+level 2=5519 673 20
+level 3=5407 859 45
+}
+Destard
+{
+ouside=1176 2636 0 
+level 1=5244 1006 0
+level 2=5143 801 10
+level 3=5137 986 5
+}
+Hythloth
+{
+outside=4722 3821 0
+level 1=5905 20 44
+level 2=5976 169 1
+level 3=6083 145 -16
+level 4=6059 89 24
+}
+Shame
+{
+ouside=5131560 0
+level 1=5396 126 0
+level 2=5515 11 5
+level 3=5514 148 25
+level 4=5875 20 -5
+}
+Wrong
+{
+outside=2045 234 14
+level 1=5825 630 0
+level 2=5690 570 25
+level 3=5703 639 0
+}

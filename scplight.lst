@@ -1,0 +1,26 @@
+format=D
+
+Hand Light Sources
+{
+Lantern=7044
+Torch=7043
+Candle=7041
+Skull candle=10043
+Wall Candle=13019
+Wall Candle=13020
+}
+Roof Lights
+{
+N/S Wall Torch=2616
+E/W Wall Torch=2617
+Brazier=541
+Candle=538
+Candelabra=539
+Dark Lamp post=2615
+Fancy Dim Post=2613
+Fancy Lit Post=2612
+Lit Lamp Post=2614
+Standard Lit Post=2610
+Standard Off Post=2611
+Tall Candelabra=540
+}

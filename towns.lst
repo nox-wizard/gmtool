@@ -1,0 +1,467 @@
+format=D
+
+Banks
+{
+Brit West=1439 1693 0
+Brit East=1656 1611 20
+Buccs Den=2731 2192 0
+Delucia=5273 3988 37
+Jhelom=1324 3776 0
+Magincia=3730 2160 20
+Minoc=2504 560 0
+Moonglow=4471 1176 0
+Nujelm=3768 1315 0
+Occlo=3692 2520 0
+Papau=5676 3139 13
+Serps Hold=2890 3476 15
+Trinsic=1819 2822 0
+Vesper=2896 676 0
+}
+Bowyers
+{
+Britain=1475 1584 20
+Nujelm=3552 1196 0
+Serps Hold=3051 3376 15
+Skara Brae=595 2216 0
+Vesper=2860 804 0
+Yew=567 976 0
+}
+Carpenters
+{
+Britain=1436 1600 20
+Buccs Den=2632 2101 10
+Jhelom=1427 3824 0
+Minoc=2514 482 15
+Moonglow=4416 1096 1
+Papau=5703 3211 11
+Skara Brae=635 2168 0
+Vesper=2915 808 0
+Yew=576 1011 0
+}
+Food Stores
+{
+Britain 1=1452 1728 6
+Britian 2=1460 1612 20
+Cove=2220 1190 0
+Jhelom 1=1368 3733 0
+Jhelom 2=1388 3832 0
+Jhelom 3=1464 4026 0
+Jhelom 4=1440 3748 0
+Magincia 1=3755 2232 20
+Magincia 2=3683 2176 20
+Minoc=2444 416 15
+Moonglow 1=4478 1092 0
+Moonglow 2=4400 1134 0
+Moonglow 3=4391 1072 0
+Nujelm=3556 1176 0
+Occlo 1=3603 2584 0
+Occlo 2=3720 2651 20
+Papau 1=5745 3209 13
+Papau 2=5698 3288 15
+Serps Hold 1=2975 3360 15
+Serps Hold 2=2907 3496 10
+Skara Brae 1=580 2192 0
+Skara Brae 2=612 2168 0
+Skara Brae 3=597 2152 0
+Trinsic 1=1884 2814 10
+Trinsic 2=2000 2885 5
+Vesper 1=3022 768 0
+Vesper 2=3024 779 0
+Vesper 3=2955 712 0
+Vesper 4=3000 779 0
+Vesper 5=2998 768 0
+Yew 1=560 987 0
+Yew 2=544 1011 0
+}
+Guilds
+{
+Britain
+{
+Artists=1446 1670 11
+Blacksmiths=1360 1778 15
+Councelors 1=1504 1528 40
+Councelors 2=1631 1672 15
+Merchants=1475 1600 20
+Mining Coop=1427 1584 31
+Engineers=1432 1659 10
+Warriors=1343 1744 20
+Weaponsmiths=1592 1564 20
+}
+Buccs Den
+{
+Pirates=2664 2194 4
+}
+Jhelom
+{
+Brothers in Arms=1368 3716 0
+Councelors=1428 3704 0
+Hand of Death=1440 3866 0
+}
+Magincia
+{
+Councelors=3718 2184 20
+Fishermans=3683 2261 21
+Merchants=3712 2244 20
+Mining Coop=3672 2135 20
+}
+Minoc
+{
+Councelors=2435 443 15
+New World Order=2485 440 15
+}
+Moonglow
+{
+Councelors=4479 1130 0
+Mages=4547 872 30
+Tinkers=4471 1176 0
+Sorcery=4683 1423 0
+Illusion=4632 1203 1
+}
+Nujelm
+{
+Bards=3739 1207 0
+Councelors=3778 1198 0
+Merchants=3720 1382 0
+}
+Occlo
+{
+Bards=3661 2536 0
+Councelors=3692 2520 0
+Mages=3632 2540 0
+}
+Serps Hold
+{
+Councelors=2968 3364 15
+Warriors=3055 3408 15
+}
+Skara Brae
+{
+Councelors=624 2114 0
+Rangers=576 2148 0
+}
+Trinsic
+{
+Brotherhood=1942 2738 10
+Councelors 1=1892 2842 30
+Councelors 2=1810 2716 0
+Sons of the Sea=2037 2846 0
+Engineers=1858 2688 0
+Training Hall=2018 2752 30
+}
+Vesper
+{
+Councelors=2848 932 0
+Champions=2856 907 0
+Mages=2916 680 0
+Fishermen=2976 819 0
+Bards=2904 739 0
+Miners=2864 735 0
+}
+}
+Healers
+{
+Britain=1480 1612 20
+Buccs Den=2707 2152 0
+Cove=2248 1230 0
+Delucia=5196 3993 37
+Jhelom=1412 3792 0
+Magincia=3688 2231 20
+Minoc=2578 603 0
+Moonglow=4397 1088 0
+Occlo=3628 2616 0
+Papau=5740 3218 8
+Serps Hold=2995 3440 15
+Skara Brae=576 2212 0
+Trinsic=1916 2813 0
+Vesper=2928 855 0
+Wind=5267 133 21
+Yew 1=648 1091 0
+Yew 2=544 976 0
+}
+Inns
+{
+Britain
+{
+North Side=1475 1520 20
+Sweet Dreams Inn=1496 1626 20
+Wayfarers Inn=1600 1591 20
+}
+Buccaneers Den
+{
+Peg Leg Inn=2715 2104 0
+}
+Delucia
+{
+Barely Inn=5204 4062 37
+}
+Jhelom
+{
+Morning Star Inn=1376 3817 0
+}
+Magincia
+{
+Stag and Lion=3704 2163 20
+}
+Moonglow
+{
+Scholars Inn=4404 1168 0
+Student Hostel=4485 1072 0
+}
+Nujelm
+{
+Restful Slumber=3740 1315 0
+}
+Occlo
+{
+Bountiful Harvest=3668 2624 0
+}
+Papau
+{
+Just Inn=5770 3174 13
+}
+Serpents Hold
+{
+Broken Arrow=2976 3408 15
+}
+Skara Brae=616 2235 0
+}
+Trinsic
+{
+Rusty Anchor=2032 2813 10
+Travellers Inn=1844 2744 0
+}
+Vesper
+{
+Ironwood Inn=2771 976 0
+Youth Hostel=2976 879 0
+}
+Wind
+{
+Seekers Inn=5168 37 17
+Wind Inn=5311 42 40
+}
+}
+Jewelers
+{
+Britain 1=1656 1651 0
+Britain 2=1458 1681 0
+Jhelom 1=1444 3992 0
+Jhelom 2=1324 3776 0
+Magincia=3672 2187 20
+Nujelm=3776 1176 0
+Papau=5670 3149 13
+Trinsic=1898 2811 0
+Vesper=2888 723 0
+}
+Leather Workers
+{
+Britain=1440 1613 20
+Buccs Den=2712 2179 0
+Minoc=2525 536 0
+Nujelm=3552 1180 0
+Occlo=3608 2613 0
+Trinsic=1997 2868 21
+Vesper=2863 991 0
+Yew=520 987 0
+}
+Libraries
+{
+Britain 1=1420 1597 30
+Britain 2=1495 1724 6
+Jhelom=1400 3772 0
+Moonglow=4310 1012 0
+Occlo=3620 2480 0
+Trinsic=2003 2728 30
+Wind 1=5249 185 15
+Wind 2=5238 155 16
+Yew=634 856 0
+}
+Mage Shops
+{
+Britain 1=1592 1664 10
+Britain 2=1508 1658 27
+Britain 3=1571 1720 35
+Britain 4=1491 1572 30
+Delucia=5292 3983 37
+Jhelom=1428 3992 0
+Magincia=3710 2219 20
+Moonglow 1=4421 1136 0
+Moonglow 2=4455 1088 0
+Moonglow 3=4424 1112 1
+Papau 1=5719 3206 12
+Papau 2=5730 3203 9
+Serps Hold 1=3011 3360 15
+Serps Hold 2=3003 3360 15
+Skara Brae 1=611 2184 0
+Skara Brae 2=658 2144 0
+Trinsic=1852 2712 10
+Vesper 1=2883 656 0
+Vesper 2=2915 680 0
+Vesper 3=3000 835 0
+Wind 1=5215 124 0
+Wind 2=5152 79 26
+Wind 3=5307 94 16
+}
+Miner Shops
+{
+Minoc 1=2503 435 15
+Minoc 2=2459 495 15
+}
+Music Shops
+{
+Britain=1456 1561 30
+Minoc=2424 560 0
+}
+Provisioners
+{
+Britain 1=1475 1676 0
+Britain 2=1603 1720 20
+Buccs Den=2744 2252 0
+Delucia=5218 4018 37
+Jhelom=1436 3800 0
+Minoc 1=2461 432 15
+Minoc 2=2531 560 0
+Moonglow=4424 1064 0
+Occlo=3636 2584 0
+Papau=5740 3268 15
+Serps Hold=3016 3387 15
+Skara Brae=592 2227 0
+Trinsic=1854 2800 -8
+Vesper 1=2840 875 0
+Vesper 2=2979 640 0
+}
+Shipwrights
+{
+Britain=1424 1748 10
+Jhelom=1451 3752 0
+Magincia=3667 2261 21
+Nujelm=3704 1214 0
+Occlo=3635 2648 -2
+Papau=5805 3281 9
+Skara Brae=608 2275 0
+Vesper=2995 824 0
+Wind=5158 103 5
+}
+Smiths
+{
+Britain
+{
+Artistic armor=1640 1690 35
+Hammer n Anvil=1428 1547 30
+Heavy Metal=1448 1654 10
+Lords Arms=1372 1584 30
+Stregth Steal=1488 1589 20
+}
+Buccs Den=2636 2088 10
+Cove=2224 1168 0
+Delucia=5227 4008 37
+Jhelom
+{
+Armory=1464 3849 0
+Call to Arms=1474 3872 0
+Deadly Intent=1368 3754 0
+First Defense=1387 3712 0
+Second Skin=1448 3723 0
+Warriors Bounty=1427 3856 0
+}
+Minoc
+{
+Forgery=2473 569 5
+Battle Gear=2527 578 0
+}
+Moonglow
+{
+Mighty Axe=4400 1117 0
+Second Defense=4440 1168 0
+}
+Nujelm=3552 1188 0
+Occlo=3648 2596 0
+Papau=5801 3289 8
+Serps Hold
+{
+Blacksmith=3006 3416 15
+Serps Arms=3024 3431 15
+}
+Skara Brae
+{
+Gore Galore=650 2168 0
+More than Mail=592 2172 0
+On Guard=632 2187 0
+}
+Trinsic
+{
+Honorable Arms=1935 2776 10
+Shining Path=1896 2664 0
+}
+Vesper
+{
+Ironworks=2859 856 0
+Champion=2840 803 0
+}
+}
+Stables
+{
+Britain
+{
+Animal Care=1506 1576 20
+Bucking Horse=1517 1552 25
+Sosarian=1304 1762 10
+Royal Stable=1388 1664 30
+}
+Delucia=5290 4007 40
+Minoc=2527 379 23
+Papau=5678 3284 9
+Serps Hold
+{
+Island Stable=2912 3515 10
+Stablery=3042 3467 15
+}
+Skara Brae
+{
+Beats Burden=580 2128 0
+Stables=557 2128 0
+}
+Trinsic
+{
+Stablery 1=1998 2814 1
+Stablery 2=1828 2736 0
+}
+}
+Tailors
+{
+Britain
+{
+Lords Clothier=1471 1696 0
+Right Fit=1556 1664 26
+Tailor=1386 1608 30
+}
+Delucia=5233 4028 37
+Jhelom
+{
+Adventurers=1360 3789 0
+Fine Tailor=1460 4008 0
+}
+Magincia=3672 2233 20
+Moonglow=4456 1072 0
+Nujelm=3784 1267 0
+Occlo=3659 2592 0
+Papau=5758 3270 13
+Serps Hold=2888 3504 10
+Skara Brae=650 2192 0
+Trinsic=1986 2846 15
+Vesper
+{
+North=2971 624 0
+Center=2840 876 0
+}
+Wind=5203 95 5
+}
+Tinkers
+{
+Jhelom=1408 3811 0
+Magincia=3715 2136 20
+Minoc=2470 458 15
+Papau=5726 3249 16
+Serps Hold=2932 3512 10
+Vesper=2904 796 0
+}

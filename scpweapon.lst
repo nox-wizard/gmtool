@@ -1,0 +1,678 @@
+format=D
+
+non-magic colored
+{
+Iron
+{
+Blades
+{
+iron dagger=350001
+iron cutlass=350002
+iron kryss=350003
+iron katana=350004
+iron scimitar=350005
+iron broadsword=350006
+iron long sword=350007
+iron viking sword=350008
+}
+Maces
+{
+iron mace=360001
+iron maul=360002
+iron war mace=360003
+iron war hammer=360004
+iron hammer pick=360005
+}
+Spear/Forks
+{
+iron short spear=370001
+iron war fork=370002
+iron spear=370003
+}
+Axes
+{
+iron double axe=380001
+iron battle axe=380002
+iron large battle axe=380003
+iron axe=380004
+iron two-handed axe=380005
+iron executioners axe=380006
+iron war axe=380007
+}
+Pole Arms
+{
+iron bardiche=390001
+iron halberd=390002
+}
+}
+Shadow
+{
+Blades
+{
+shadow dagger=350101
+shadow cutlass=350102
+shadow kryss=350103
+shadow katana=350104
+shadow scimitar=350105
+shadow broadsword=350106
+shadow long sword=350107
+shadow viking sword=350108
+}
+Maces
+{
+shadow mace=360101
+shadow maul=360102
+shadow war mace=360103
+shadow war hammer=360104
+shadow hammer pick=360105
+}
+Spears/Forks
+{
+shadow short spear=370101
+shadow war fork=370102
+shadow spear=370103
+}
+Axes
+{
+shadow double axe=380101
+shadow battle axe=380102
+shadow large battle axe=380103
+shadow axe=380104
+shadow two-handed axe=380105
+shadow executioners axe=380106
+shadow war axe=380107
+}
+Pole Arms
+{
+shadow bardiche=390101
+shadow halberd=390102
+}
+}
+Merkite
+{
+Blades
+{
+merkite dagger=350201
+merkite cutlass=350202
+merkite kryss=350203
+merkite katana=350204
+merkite scimitar=350205
+merkite broadsword=350206
+merkite long sword=350207
+merkite viking sword=350208
+}
+Maces
+{
+merkite mace=360201
+merkite maul=360202
+merkite war mace=360203
+merkite war hammer=360204
+merkite hammer pick=360205
+}
+Spears/Forks
+{
+merkite short spear=370201
+merkite war fork=370202
+merkite spear=370203
+}
+Axes
+{
+merkite double axe=380201
+merkite battle axe=380202
+merkite large battle axe=380203
+merkite axe=380204
+merkite two-handed axe=380205
+merkite executioners axe=380206
+merkite war axe=380207
+}
+Pole Arms
+{
+merkite bardiche=390201
+merkite halberd=390202
+}
+}
+Copper
+{
+Blades
+{
+copper dagger=350301
+copper cutlass=350302
+copper kryss=350303
+copper katana=350304
+copper scimitar=350305
+copper broadsword=350306
+copper long sword=350307
+copper viking sword=350308
+}
+Maces
+{
+copper mace=360301
+copper maul=360302
+copper war mace=360303
+copper war hammer=360304
+copper hammer pick=360305
+}
+Spears/Forkes
+{
+copper short spear=370301
+copper war fork=370302
+copper spear=370303
+}
+Axes
+{
+copper double axe=380301
+copper battle axe=380302
+copper large battle axe=380303
+copper axe=380304
+copper two-handed axe=380305
+copper executioners axe=380306
+copper war axe=380307
+}
+Pole Arms
+{
+copper bardiche=390301
+copper halberd=390302
+}
+}
+Silver
+{
+Blades
+{
+silver dagger=350401
+silver cutlass=350402
+silver kryss=350403
+silver katana=350404
+silver scimitar=350405
+silver broadsword=350406
+silver long sword=350407
+silver viking sword=350408
+}
+Maces
+{
+silver mace=360401
+silver maul=360402
+silver war mace=360403
+silver war hammer=360404
+silver hammer pick=360405
+}
+Spears/Forkes
+{
+silver short spear=370401
+silver war fork=370402
+silver spear=370403
+}
+Axes
+{
+silver double axe=380401
+silver battle axe=380402
+silver large battle axe=380403
+silver axe=380404
+silver two-handed axe=380405
+silver executioners axe=380406
+silver war axe=380407
+}
+Pole Arms
+{
+silver bardiche=390401
+silver halberd=390402
+}
+}
+Bronze
+{
+Blades
+{
+bronze dagger=350501
+bronze cutlass=350502
+bronze kryss=350503
+bronze katana=350504
+bronze scimitar=350505
+bronze broadsword=350506
+bronze long sword=350507
+bronze viking sword=350508
+}
+Maces
+{
+bronze mace=360501
+bronze maul=360502
+bronze war mace=360503
+bronze war hammer=360504
+bronze hammer pick=360505
+}
+Spears/Forkes
+{
+bronze short spear=370501
+bronze war fork=370502
+bronze spear=370503
+}
+Axes
+{
+bronze double axe=380501
+bronze battle axe=380502
+bronze large battle axe=380503
+bronze axe=380504
+bronze two-handed axe=380505
+bronze executioners axe=380506
+bronze war axe=380507
+}
+Pole Arms
+{
+bronze bardiche=390501
+bronze halberd=390502
+}
+}
+Gold
+{
+Blades
+{
+golden dagger=350601
+golden cutlass=350602
+golden kryss=350603
+golden katana=350604
+golden scimitar=350605
+golden broadsword=350606
+golden long sword=350607
+golden viking sword=350608
+}
+Maces
+{
+golden mace=360601
+golden maul=360602
+golden war mace=360603
+golden war hammer=360604
+golden hammer pick=360605
+}
+Spear/Forks
+{
+golden short spear=370601
+golden war fork=370602
+golden spear=370603
+}
+Axes
+{
+golden double axe=380601
+golden battle axe=380602
+golden large battle axe=380603
+golden axe=380604
+golden two-handed axe=380605
+golden executioners axe=380606
+golden war axe=380607
+}
+Pole Arms
+{
+golden bardiche=390601
+golden halberd=390602
+}
+}
+Agapite
+{
+Blades
+{
+agapite dagger=350701
+agapite cutlass=350702
+agapite kryss=350703
+agapite katana=350704
+agapite scimitar=350705
+agapite broadsword=350706
+agapite long sword=350707
+agapite viking sword=350708
+}
+Maces
+{
+agapite mace=360701
+agapite maul=360702
+agapite war mace=360703
+agapite war hammer=360704
+agapite hammer pick=360705
+}
+Spear/Forks
+{
+agapite short spear=370701
+agapite war fork=370702
+agapite spear=370703
+}
+Axes
+{
+agapite double axe=380701
+agapite battle axe=380702
+agapite large battle axe=380703
+agapite axe=380704
+agapite two-handed axe=380705
+agapite executioners axe=380706
+agapite war axe=380707
+}
+Pole Arms
+{
+agapite bardiche=390701
+agapite halberd=390702
+}
+}
+Verite
+{
+Blades
+{
+verite dagger=350801
+verite cutlass=350802
+verite kryss=350803
+verite katana=350804
+verite scimitar=350805
+verite broadsword=350806
+verite long sword=350807
+verite viking sword=350808
+}
+Maces
+{
+verite mace=360801
+verite maul=360802
+verite war mace=360803
+verite war hammer=360804
+verite hammer pick=360805
+}
+Spear/Forkes
+{
+verite short spear=370801
+verite war fork=370802
+verite spear=370803
+}
+Axes
+{
+verite double axe=380801
+verite battle axe=380802
+verite large battle axe=380803
+verite axe=380804
+verite two-handed axe=380805
+verite executioners axe=380806
+verite war axe=380807
+}
+Pole Arms
+{
+verite bardiche=390801
+verite halberd=390802
+}
+}
+Valorite
+{
+Blades
+{
+valorite dagger=350901
+valorite cutlass=350902
+valorite kryss=350903
+valorite katana=350904
+valorite scimitar=350905
+valorite broadsword=350906
+valorite long sword=350907
+valorite viking sword=350908
+}
+Maces
+{
+valorite mace=360901
+valorite maul=360902
+valorite war mace=360903
+valorite war hammer=360904
+valorite hammer pick=360905
+}
+Spear/Forkes
+{
+valorite short spear=370901
+valorite war fork=370902
+valorite spear=370903
+}
+Axes
+{
+valorite double axe=380901
+valorite battle axe=380902
+valorite large battle axe=380903
+valorite axe=380904
+valorite two-handed axe=380905
+valorite executioners axe=380906
+valorite war axe=380907
+}
+Pole Arms
+{
+valorite bardiche=390901
+valorite halberd=390902
+}
+}
+}
+magic weapons
+{
+magical hardened weapon
+{
+Swords
+{
+iron long sword of ruin=3300
+iron long sword of might=3301
+iron long sword of force=3302
+iron long sword of power=3303
+iron long sword of vanquishing=3304
+iron viking sword of ruin=3305
+iron viking sword of might=3306
+iron viking sword of force=3307
+iron viking sword of power=3308
+iron viking sword of vanquishing=3309
+iron broad sword of ruin=3310
+iron broad sword of might=3311
+iron broad sword of force=3312
+iron broad sword of power=3313
+iron broad sword of vanquishing=3314
+iron scimitar of ruin=3315
+iron scimitar of might=3316
+iron scimitar of force=3317
+iron scimitar of power=3318
+iron scimitar of vanquishing=3319
+iron cutlass of ruin=3320
+iron cutlass of might=3321
+iron cutlass of force=3322
+iron cutlass of power=3323
+iron cutlass of vanquishing=3324
+iron katana of ruin=3325
+iron katana of might=3326
+iron katana of force=3327
+iron katana of power=3328
+iron katana of vanquishing=3329
+}
+Axes
+{
+iron hatchet of ruin=3330
+iron hatchet of might=3331
+iron hatchet of force=3332
+iron hatchet of power=3333
+iron hatchet of vanquishing=3334
+iron executionners axe of ruin=3335
+iron executionners axe of might=3336
+iron executionners axe of force=3337
+iron executionners axe of power=3338
+iron executionners axe of vanquishing=3339
+iron axe of ruin=3340
+iron axe of might=3341
+iron axe of force=3342
+iron axe of power=3343
+iron axe of vanquishing=3344
+iron double axe of ruin=3345
+iron double axe of might=3346
+iron double axe of force=3347
+iron double axe of power=3348
+iron double axe of vanquishing=3349
+iron large battle axe of ruin=3350
+iron large battle axe of might=3351
+iron large battle axe of force=3352
+iron large battle axe of power=3353
+iron large battle axe of vanquishing=3354
+iron pick axe of ruin=3355
+iron pick axe of might=3356
+iron pick axe of force=3357
+iron pick axe of power=3358
+iron pick axe of vanquishing=3359
+iron war axe of ruin=3360
+iron war axe of might=3361
+iron war axe of force=3362
+iron war axe of power=3363
+iron war axe of vanquishing=3364
+}
+Knifes/Dagger
+{
+iron butcher knife of ruin=3365
+iron butcher knife of might=3366
+iron butcher knife of force=3367
+iron butcher knife of power=3368
+iron butcher knife of vanquishing=3369
+iron skinning knife of ruin=3370
+iron skinning knife of might=3371
+iron skinning knife of force=3372
+iron skinning knife of power=3373
+iron skinning knife of vanquishing=3374
+iron cleaver of ruin=3375
+iron cleaver of might=3376
+iron cleaver of force=3377
+iron cleaver of power=3378
+iron cleaver of vanquishing=3379
+iron dagger of ruin=3380
+iron dagger of might=3381
+iron dagger of force=3382
+iron dagger of power=3383
+iron dagger of vanquishing=3384
+iron kryss of ruin=3385
+iron kryss of might=3386
+iron kryss of force=3387
+iron kryss of power=3388
+iron kryss of vanquishing=3389
+}
+Maces
+{
+iron club of ruin=3390
+iron club of might=3391
+iron club of force=3392
+iron club of power=3393
+iron club of vanquishing=3394
+iron hammer pick of ruin=3395
+iron hammer pick of might=3396
+iron hammer pick of force=3397
+iron hammer pick of power=3398
+iron hammer pick of vanquishing=3399
+}
+Bows
+{
+iron bow of ruin=15050
+iron bow of might=15051
+iron bow of force=15052
+iron bow of power=15053
+iron bow of vanquishing=15054
+iron crossbow of ruin=15055
+iron crossbow of might=15056
+iron crossbow of force=15057
+iron crossbow of power=15058
+iron crossbow of vanquishing=15059
+iron heavy crossbow of ruin=15060
+iron heavy crossbow of might=15061
+iron heavy crossbow of force=15062
+iron heavy crossbow of power=15063
+iron heavy crossbow of vanquishing=15064
+}
+}
+weapon with magic attack
+{
+blades
+{
+iron viking sword of flamestrike=10158
+iron viking sword of feeblemind=10159
+iron viking sword of mana drain=10160
+iron viking sword of lightning=10161
+iron viking sword of energy bolt=10162
+iron viking sword of invisibility=10163
+iron viking sword of resurrection=10164
+iron long sword of flamestrike=10165
+iron long sword of feeblemind=10166
+iron long sword of mana drain=10167
+iron long sword of lightning=10168
+iron long sword of energy bolt=10169
+iron long sword of invisibility=10170
+iron long sword of resurrection=10171
+iron scimitar of flamestrike=10172
+iron scimitar of feeblemind=10173
+iron scimitar of mana drain=10174
+iron scimitar of lightning=10175
+iron scimitar of energy bolt=10176
+iron scimitar of invisibility=10177
+iron scimitar of resurrection=10178
+iron broad sword of flamestrike=10179
+iron broad sword of feeblemind=10180
+iron broad sword of mana drain=10181
+iron broad sword of lightning=10182
+iron broad sword of energy bolt=10183
+iron broad sword of invisibility=10184
+iron broad sword of resurrection=10185
+}
+Maces
+{
+iron mace of ruin=15000
+iron mace of might=15001
+iron mace of force=15002
+iron mace of power=15003
+iron mace of vanquishing=15004
+iron maul of ruin=15005
+iron maul of might=15006
+iron maul of force=15007
+iron maul of power=15008
+iron maul of vanquishing=15009
+iron smiths hammer of ruin=15010
+iron smiths hammer of might=15011
+iron smiths hammer of force=15012
+iron smiths hammer of power=15013
+iron smiths hammer of vanquishing=15014
+iron war hammer of ruin=15015
+iron war hammer of might=15016
+iron war hammer of force=15017
+iron war hammer of power=15018
+iron war hammer of vanquishing=15019
+iron war mace of ruin=15020
+iron war mace of might=15021
+iron war mace of force=15022
+iron war mace of power=15023
+iron war mace of vanquishing=15024
+}
+Spears/Forkes
+{
+iron pitch fork of ruin=15025
+iron pitch fork of might=15026
+iron pitch fork of force=15027
+iron pitch fork of power=15028
+iron pitch fork of vanquishing=15029
+iron spear of ruin=15030
+iron spear of might=15031
+iron spear of force=15032
+iron spear of power=15033
+iron spear of vanquishing=15034
+iron war fork of ruin=15035
+iron war fork of might=15036
+iron war fork of force=15037
+iron war fork of power=15038
+iron war fork of vanquishing=15039
+}
+Pole Arms
+{
+iron bardiche of ruin=15040
+iron bardiche of might=15041
+iron bardiche of force=15042
+iron bardiche of power=15043
+iron bardiche of vanquishing=15044
+iron halberd of ruin=15045
+iron halberd of might=15046
+iron halberd of force=15047
+iron halberd of power=15048
+iron halberd of vanquishing=15049
+}
+}
+}
+Practice Weapon
+{
+spear practice weapon =49999
+crook practice weapon =50000
+bow practice weapon =50001
+gnarled staff practice weapon =50002
+iron spear practice weapon =50003
+hatchet practice weapon =50004
+iron mace practice weapon =50005
+longsword practice weapon =50006
+skinning knife practice weapon =50007
+mace practice weapon =400010
+}
+

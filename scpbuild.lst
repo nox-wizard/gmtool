@@ -1,0 +1,513 @@
+Floor Tiles
+{
+Marble 1
+{
+Marble=119
+Marble=120
+Marble=121
+Marble=122
+Marble=123
+Marble=124
+Marble=125
+Marble=126
+Marble=127
+Marble=128
+Marble=129
+}
+Marble 2
+{
+Marble=130
+Marble=131
+Marble=132
+Marble=133
+Marble=134
+Marble=135
+Marble=136
+Marble=137
+Marble=138
+}
+Sandstone Pavers
+{
+Sandstone Pavers=139
+Sandstone Pavers=140
+Sandstone Pavers=141
+Sandstone Pavers=142
+}
+Wooden Planks
+{
+Wooden Planks=143
+Wooden Planks=144
+Wooden Planks=145
+Wooden Planks=146
+}
+Wooden Boards 1
+{
+Wooden Boards=147
+Wooden Boards=148
+Wooden Boards=149
+Wooden Boards=150
+Wooden Boards=151
+Wooden Boards=152
+Wooden Boards=153
+Wooden Boards=154
+Wooden Boards=155
+Wooden Boards=156
+Wooden Boards=157
+Wooden Boards=158
+Wooden Boards=159
+Wooden Boards=160
+}
+Wooden Boards 2
+{
+Wooden Boards=161
+Wooden Boards=162
+Wooden Boards=163
+Wooden Boards=164
+Wooden Boards=165
+Wooden Boards=166
+Wooden Boards=167
+Wooden Boards=168
+Wooden Boards=169
+Wooden Boards=170
+Wooden Boards=171
+Wooden Boards=172
+Wooden Boards=173
+Wooden Boards=174
+}
+Bricks
+{
+Bricks=175
+Bricks=176
+Bricks=177
+Bricks=178
+Bricks=179
+Bricks=180
+Bricks=181
+Bricks=182
+}
+Cobblestones & Flagstones
+{
+Flagstones=183
+Flagstones=184
+Flagstones=185
+Flagstones=186
+Cobblestones=187
+Cobblestones=188
+Cobblestones=189
+Cobblestones=190
+}
+Wooden Logs
+{
+Wooden Logs=194
+Wooden Logs=195
+Wooden Logs=196
+Wooden Logs=197
+Wooden Logs=198
+Wooden Logs=199
+Wooden Logs=200
+Wooden Logs=201
+Wooden Logs=202
+Wooden Logs=203
+Wooden Logs=204
+Wooden Logs=205
+Wooden Logs=206
+Wooden Logs=207
+}
+Stone Pavers
+{
+Stone Pavers=208
+Stone Pavers=209
+Stone Pavers=210
+Stone Pavers=211
+Stone Pavers=212
+Stone Pavers=213
+Stone Pavers=214
+Stone Pavers=215
+}
+Blue & Red Tiles
+{
+Blue Tile=216
+Blue Tile=217
+Blue Tile=218
+Blue Tile=219
+Blue Tile=220
+Blue Tile=221
+Blue Tile=222
+Blue Tile=223
+Blue Tile=224
+Blue Tile=225
+Red Tile=226
+Red Tile=227
+Red Tile=228
+Red Tile=229
+Red Tile=230
+Red Tile=231
+Red Tile=232
+Red Tile=233
+}
+Sandstone Floor
+{
+Sandstone Floor=234
+Sandstone Floor=235
+Sandstone Floor=236
+Sandstone Floor=237
+Sandstone Floor=238
+Sandstone Floor=239
+Sandstone Floor=240
+Sandstone Floor=241
+Sandstone Floor=242
+Sandstone Floor=243
+Sandstone Floor=244
+Sandstone Floor=245
+Sandstone Floor=246
+Sandstone Floor=247
+}
+}
+Walls & Blocks
+{
+Brick Walls
+{
+Brick Walls I
+{
+SE Corner=3150
+E-W Wall=3151
+N-S Wall=3152
+Brick Post=3153
+E-W Wall with Wood=3154
+N-S Wall with Wood=3155
+E-W Wall with Wood=3156
+N-S Wall with Wood=3157
+E-W Wall with Window=3158
+N-S Wall with Window=3159
+SE Corner Small=3160
+E-W Wall Small=3161
+N-S Wall Small=3162
+}
+Brick Walls II
+{
+Small Brick Post=3163
+SE Corner=3164
+E-W Wall Really Small=3165
+N-S Wall Really Small=3166
+Really Small Post=3167
+SE Corner Arch=3185
+N-S Arch=3168
+E-W Arch=3169
+E-W Arch=3170
+N-S Arch=3171
+E-W Arched Top Wall=3172
+N-S Arched Top Wall=3173
+N-S Arched Top Wall=3174
+E-W Arched Top Wall=3175
+E-W Top Arch End=3176
+}
+Brick Walls III
+{
+N-S Top Arch End=3177
+E-W Top Arch Middle=3178
+N-S Top Arch Middle=3179
+SE Corner Blocks=3180
+E-W Blocks=3181
+N-S Blocks=3182
+E-W Blocks=3183
+N-S Blocks=3184
+}
+}
+Palisade Walls
+{
+Banners/Curtains/Standards
+{
+Banner, Tattered N-S 1=3027
+Banner, Tattered N-S 2=3028
+Banner, Tattered N-S 3=3029
+Banner, Tattered N-S 4=3030
+Banner, Tattered E-W 1=3031
+Banner, Tattered E-W 2=3032
+Banner, Tattered E-W 3=3033
+Banner, Tattered E-W 4=3034
+Curtain N-S 1=3035
+Curtain N-S 2=3051
+Curtain S-N=3050
+Curtain, Rod N-S=3036
+Curtain E-W 1=3037
+Curtain E-W 2=3052
+Curtain W-E=3053
+Curtain, Rod E-W=3038
+Standard, Shield N-S=3046
+Standard, Shield E-W=3047
+Standard, Skull N-S=3048
+Standard, Skull E-W=3049
+}
+Walls
+{
+Corner Pole=3054
+Palisade, Corner=3064
+Palisade, N-S=3064
+Palisade, E-W=3064
+Palisade, Skull N-S=3041
+Palisade, Skull E-W 1=3043
+Palisade, Skull E-W 2=3045
+Palisade, Skull E-W 3=3044
+Small Palisade, Corner=3039
+Small Palisade, N-S=3040
+Small Palisade, E-W=3042
+Small Palisade, Slant N-S 1=3055
+Small Palisade, Slant N-S 2=3056
+Small Palisade, Slant E-W 1=3057
+Small Palisade, Slant E-W 2=3058
+Un-spiked Palisade, Corner=3059
+Un-spiked Palisade, N-S=3060
+Un-spiked Palisade, N-S=3061
+Un-spiked Palisade, E-W=3062
+Un-spiked Palisade, E-W=3063
+}
+}
+Stone Walls
+{
+Stone Walls I
+{
+SE Corner=3100
+SE Small Corner=3110
+Really Small SE Corner=3119
+E-W Wall=3102
+E-W Wall with Wood=3104
+E-W Wall with Wood=3107
+E-W Wall with Window=3108
+Really Small E-W Wall=3121
+Really Small E-W Wall 2=3123
+E-W Small Wall=3111
+N-S Wall=3101
+}
+Stone Walls II
+{
+N-S Wall with Wood=3105
+N-S Wall with Wood=3106
+N-S Wall with Window=3109
+N-S Small Wall=3112
+Really Small N-S Wall=3120
+Really Small N-S Wall 2=3124
+Really Small Stone Post=3122
+Stone Post=3103
+Small Stone Post=3113
+SE Arch=3114
+E-W Arch=3115
+N-S Arch=3116
+N-S Arch=3117
+E-W Arch=3118
+}
+}
+Wooden Walls
+{
+Wooden Walls I
+{
+SE Corner=3006
+SE Corner Small=3016
+SE Corner Really Small=3020
+E-W Wall=3007
+E-W Wall=3010
+E-W Wall=3012
+E-W Wall with Window=3014
+E-W Small Wall=3018
+E-W Really Small Wall=3022
+}
+Wooden Walls II
+{
+E-W Really Small Wall=3024
+N-S Wall=3008
+N-S Wall=3011
+N-S Wall=3013
+N-S Wall with Window=3015
+N-S Small Wall=3017
+N-S Really Small Wall=3021
+N-S Really Small Wall=3025
+Wooden Post=3009
+Wooden Post=3019
+Small Corner Post=3023
+}
+}
+}
+Rugs
+{
+Red Rug
+{
+Red Rug=248
+Red Rug=249
+Red Rug=250
+Red Rug=251
+Red Rug=252
+Red Rug=253
+Red Rug=254
+Red Rug=255
+Red Rug=256
+Red Rug=257
+}
+Greenish Rug
+{
+Greenish Rug=258
+Greenish Rug=259
+Greenish Rug=260
+Greenish Rug=261
+Greenish Rug=262
+Greenish Rug=263
+Greenish Rug=264
+Greenish Rug=265
+Greenish Rug=266
+Greenish Rug=267
+}
+Fancy Blue Rug
+{
+Fancy Blue Rug=268
+Fancy Blue Rug=269
+Fancy Blue Rug=270
+Fancy Blue Rug=271
+Fancy Blue Rug=272
+Fancy Blue Rug=273
+Fancy Blue Rug=274
+Fancy Blue Rug=275
+Fancy Blue Rug=276
+}
+Fancy Red Rug
+{
+Fancy Red Rug=277
+Fancy Red Rug=278
+Fancy Red Rug=279
+Fancy Red Rug=280
+Fancy Red Rug=281
+Fancy Red Rug=282
+Fancy Red Rug=283
+Fancy Red Rug=284
+Fancy Red Rug=285
+Fancy Red Rug=286
+Fancy Red Rug=287
+}
+Fancy Blue/Gold Rug
+{
+Fancy Blue/Gold Rug=288
+Fancy Blue/Gold Rug=289
+Fancy Blue/Gold Rug=290
+Fancy Blue/Gold Rug=291
+Fancy Blue/Gold Rug=292
+Fancy Blue/Gold Rug=293
+Fancy Blue/Gold Rug=294
+Fancy Blue/Gold Rug=295
+Fancy Blue/Gold Rug=296
+}
+Fancy Gold Rug
+{
+Fancy Golden Rug=297
+Fancy Golden Rug=298
+Fancy Golden Rug=299
+Fancy Golden Rug=300
+Fancy Golden Rug=301
+Fancy Golden Rug=302
+Fancy Golden Rug=303
+Fancy Golden Rug=304
+Fancy Golden Rug=305
+}
+Fancy Pink Rug
+{
+Fancy Pink Rug=306
+Fancy Pink Rug=307
+Fancy Pink Rug=308
+Fancy Pink Rug=309
+Fancy Pink Rug=310
+Fancy Pink Rug=311
+Fancy Pink Rug=312
+Fancy Pink Rug=313
+Fancy Pink Rug=314
+}
+Fancy Pink/Blue Rug
+{
+Fancy Pink & Blue Rug=315
+Fancy Pink & Blue Rug=316
+Fancy Pink & Blue Rug=317
+Fancy Pink & Blue Rug=318
+Fancy Pink & Blue Rug=319
+Fancy Pink & Blue Rug=320
+Fancy Pink & Blue Rug=321
+Fancy Pink & Blue Rug=322
+Fancy Pink & Blue Rug=323
+Fancy Pink & Blue Rug=324
+Fancy Pink & Blue Rug=325
+}
+}
+Doors
+{
+Metal Door 1
+{
+West Door=542
+East Door=543
+South Door=544
+North Door=545
+}
+Metal Door 2
+{
+West Door=562
+East Door=563
+South Door=564
+North Door=565
+}
+Barred Metal Door
+{
+West Door=546
+East Door=547
+South Door=548
+North Door=549
+}
+Iron Gate
+{
+West Door=578
+East Door=579
+South Door=580
+North Door=581
+}
+Rattan Door
+{
+West Door=550
+East Door=551
+South Door=552
+North Door=553
+}
+Wooden Door 1
+{
+West Door=554
+East Door=555
+South Door=556
+North Door=557
+}
+Wooden Door 2
+{
+West Door=558
+East Door=559
+South Door=560
+North Door=561
+}
+Wooden Door 3
+{
+West Door=566
+East Door=567
+South Door=568
+North Door=569
+}
+Wooden Door 4
+{
+West Door=570
+East Door=571
+South Door=572
+North Door=573
+}
+Wooden Gate 1
+{
+West Door=574
+East Door=575
+South Door=576
+North Door=577
+}
+Wooden Gate 2
+{
+West Door=582
+East Door=583
+South Door=584
+North Door=585
+}
+}

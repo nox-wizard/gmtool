@@ -1,0 +1,14 @@
+title=Travel
+columns=6
+rows=6
+vspace=0
+hspace=0
+xsize=165
+ysize=235
+
+Frame=1,1,26,35,"Dungeons"
+Button=2,4,24,3,"Go by Coords","go",DDD,PROMPT,"Enter coordinates."
+Button=2,8,24,3,"Send by Coords","xgo",DDD,PROMPT,"Enter coordinates."
+Button=2,12,24,3,"Add from List","go",D,"list"
+Listbox=2,16,24,15,"list",dungeons.lst
+Button=2,32,24,3,"Send from List","xgo",D,"list"

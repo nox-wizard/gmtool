@@ -1,0 +1,26 @@
+Single Use Adv Gates
+{
+Black Smith=801
+Swordsman=802
+Archer=803
+Mage=804
+Armsman=805
+Fencer=10057
+Thief=10107
+Bard=10108
+Ranger=10109
+Assassin=10110
+}
+Multi Use Adv Gates
+{
+Black Smith=10058
+Swordsman=10059
+Archer=10060
+Mage=10061
+Armsman=10062
+Fencer=10063
+Thief=10111
+Bard=10112
+Ranger=10113
+Assassin=10114
+}

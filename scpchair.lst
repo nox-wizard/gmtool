@@ -1,0 +1,516 @@
+format=D
+
+Benches
+{
+Marble Benches
+{
+Marble Bench=342
+Marble Bench 2=343
+Marble Bench=386
+Marble Bench=387
+Marble Bench=388
+}
+Sandstone Benches
+{
+Stone Bench=344
+Stone Bench 2=345
+Sandstone Bench=389
+Sandstone Bench=390
+Sandstone Bench=391
+}
+Wooden
+{
+yew benches
+{
+yew bench A1 1=200202
+yew bench A1 2=200203
+yew bench A1 3=200204
+yew bench A2 2=200205
+yew bench A2 3=200206
+yew bench A2 1=200207
+yew bench B1 1=200208
+yew bench B1 2=200209
+yew bench B1 3=200210
+yew bench B2 1=200211
+yew bench B2 2=200212
+yew bench B2 3=200213
+yew bench C1 1=200214
+yew bench C1 2=200215
+yew bench C2 1=200216
+yew bench C2 2=200217
+yew wooden bench D1=200218
+yew wooden bench D2=200219
+}
+maple benches
+{
+maple bench A1 1=200702
+maple bench A1 2=200703
+maple bench A1 3=200704
+maple bench A2 2=200705
+maple bench A2 3=200706
+maple bench A2 1=200707
+maple bench B1 1=200708
+maple bench B1 2=200709
+maple bench B1 3=200710
+maple bench B2 1=200711
+maple bench B2 2=200712
+maple bench B2 3=200713
+maple bench C1 1=200714
+maple bench C1 2=200715
+maple bench C2 1=200716
+maple bench C2 2=200717
+maple wooden bench D1=200718
+maple wooden bench D2=200719
+}
+pine benches
+{
+pine bench A1 1=201202
+pine bench A1 2=201203
+pine bench A1 3=201204
+pine bench A2 2=201205
+pine bench A2 3=201206
+pine bench A2 1=201207
+pine bench B1 1=201208
+pine bench B1 2=201209
+pine bench B1 3=201210
+pine bench B2 1=201211
+pine bench B2 2=201212
+pine bench B2 3=201213
+pine bench C1 1=201214
+pine bench C1 2=201215
+pine bench C2 1=201216
+pine bench C2 2=201217
+pine wooden bench D1=201218
+pine wooden bench D2=201219
+}
+mahogany benches
+{
+mahogany bench A1 1=201702
+mahogany bench A1 2=201703
+mahogany bench A1 3=201704
+mahogany bench A2 2=201705
+mahogany bench A2 3=201706
+mahogany bench A2 1=201707
+mahogany bench B1 1=201708
+mahogany bench B1 2=201709
+mahogany bench B1 3=201710
+mahogany bench B2 1=201711
+mahogany bench B2 2=201712
+mahogany bench B2 3=201713
+mahogany bench C1 1=201714
+mahogany bench C1 2=201715
+mahogany bench C2 1=201716
+mahogany bench C2 2=201717
+mahogany wooden bench D1=201718
+mahogany wooden bench D2=201719
+}
+cedar benches
+{
+cedar bench A1 1=202202
+cedar bench A1 2=202203
+cedar bench A1 3=202204
+cedar bench A2 2=202205
+cedar bench A2 3=202206
+cedar bench A2 1=202207
+cedar bench B1 1=202208
+cedar bench B1 2=202209
+cedar bench B1 3=202210
+cedar bench B2 1=202211
+cedar bench B2 2=202212
+cedar bench B2 3=202213
+cedar bench C1 1=202214
+cedar bench C1 2=202215
+cedar bench C2 1=202216
+cedar bench C2 2=202217
+cedar wooden bench D1=202218
+cedar wooden bench D2=202219
+}
+alder benches
+{
+alder bench A1 1=202702
+alder bench A1 2=202703
+alder bench A1 3=202704
+alder bench A2 2=202705
+alder bench A2 3=202706
+alder bench A2 1=202707
+alder bench B1 1=202708
+alder bench B1 2=202709
+alder bench B1 3=202710
+alder bench B2 1=202711
+alder bench B2 2=202712
+alder bench B2 3=202713
+alder bench C1 1=202714
+alder bench C1 2=202715
+alder bench C2 1=202716
+alder bench C2 2=202717
+alder wooden bench D1=202718
+alder wooden bench D2=202719
+}
+ebony benches
+{
+ebony bench A1 1=203202
+ebony bench A1 2=203203
+ebony bench A1 3=203204
+ebony bench A2 2=203205
+ebony bench A2 3=203206
+ebony bench A2 1=203207
+ebony bench B1 1=203208
+ebony bench B1 2=203209
+ebony bench B1 3=203210
+ebony bench B2 1=203211
+ebony bench B2 2=203212
+ebony bench B2 3=203213
+ebony bench C1 1=203214
+ebony bench C1 2=203215
+ebony bench C2 1=203216
+ebony bench C2 2=203217
+ebony wooden bench D1=203218
+ebony wooden bench D2=203219
+}
+oak benches
+{
+oak bench A1 1=203702
+oak bench A1 2=203703
+oak bench A1 3=203704
+oak bench A2 2=203705
+oak bench A2 3=203706
+oak bench A2 1=203707
+oak bench B1 1=203708
+oak bench B1 2=203709
+oak bench B1 3=203710
+oak bench B2 1=203711
+oak bench B2 2=203712
+oak bench B2 3=203713
+oak bench C1 1=203714
+oak bench C1 2=203715
+oak bench C2 1=203716
+oak bench C2 2=203717
+oak wooden bench D1=203718
+oak wooden bench D2=203719
+}
+beech benches
+{
+beech bench A1 1=204202
+beech bench A1 2=204203
+beech bench A1 3=204204
+beech bench A2 2=204205
+beech bench A2 3=204206
+beech bench A2 1=204207
+beech bench B1 1=204208
+beech bench B1 2=204209
+beech bench B1 3=204210
+beech bench B2 1=204211
+beech bench B2 2=204212
+beech bench B2 3=204213
+beech bench C1 1=204214
+beech bench C1 2=204215
+beech bench C2 1=204216
+beech bench C2 2=204217
+beech wooden bench D1=204218
+beech wooden bench D2=204219
+}
+walnut benches
+{
+walnut bench A1 1=204702
+walnut bench A1 2=204703
+walnut bench A1 3=204704
+walnut bench A2 2=204705
+walnut bench A2 3=204706
+walnut bench A2 1=204707
+walnut bench B1 1=204708
+walnut bench B1 2=204709
+walnut bench B1 3=204710
+walnut bench B2 1=204711
+walnut bench B2 2=204712
+walnut bench B2 3=204713
+walnut bench C1 1=204714
+walnut bench C1 2=204715
+walnut bench C2 1=204716
+walnut bench C2 2=204717
+walnut wooden bench D1=204718
+walnut wooden bench D2=204719
+}
+}
+}
+
+Chairs
+{
+yew chairs
+{
+yew stool1=200200
+yew stool2=200201
+yew throne1=200250
+yew throne2=200251
+yew wooden chair1 1=200252
+yew wooden chair1 2=200253
+yew wooden chair1 3=200254
+yew wooden chair1 4=200255
+yew wooden chair2 1=200256
+yew wooden chair2 2=200257
+yew wooden chair2 3=200258
+yew wooden chair2 4=200259
+yew fancy chair1 1=200260
+yew fancy chair1 2=200261
+yew fancy chair1 3=200262
+yew fancy chair1 4=200263
+yew fancy chair2 1=200264
+yew fancy chair2 2=200265
+yew fancy chair2 3=200266
+yew fancy chair2 4=200267
+yew straw chair1 1=200268
+yew straw chair1 2=200269
+yew straw chair1 3=200270
+yew straw chair1 4=200271
+}
+maple chairs
+{
+maple stool1=200700
+maple stool2=200701
+maple throne1=200750
+maple throne2=200751
+maple wooden chair1 1=200752
+maple wooden chair1 2=200753
+maple wooden chair1 3=200754
+maple wooden chair1 4=200755
+maple wooden chair2 1=200756
+maple wooden chair2 2=200757
+maple wooden chair2 3=200758
+maple wooden chair2 4=200759
+maple fancy chair1 1=200760
+maple fancy chair1 2=200761
+maple fancy chair1 3=200762
+maple fancy chair1 4=200763
+maple fancy chair2 1=200764
+maple fancy chair2 2=200765
+maple fancy chair2 3=200766
+maple fancy chair2 4=200767
+maple straw chair1 1=200768
+maple straw chair1 2=200769
+maple straw chair1 3=200770
+maple straw chair1 4=200771
+}
+pine chairs
+{
+pine stool1=201200
+pine stool2=201201
+pine throne1=201250
+pine throne2=201251
+pine wooden chair1 1=201252
+pine wooden chair1 2=201253
+pine wooden chair1 3=201254
+pine wooden chair1 4=201255
+pine wooden chair2 1=201256
+pine wooden chair2 2=201257
+pine wooden chair2 3=201258
+pine wooden chair2 4=201259
+pine fancy chair1 1=201260
+pine fancy chair1 2=201261
+pine fancy chair1 3=201262
+pine fancy chair1 4=201263
+pine fancy chair2 1=201264
+pine fancy chair2 2=201265
+pine fancy chair2 3=201266
+pine fancy chair2 4=201267
+pine straw chair1 1=201268
+pine straw chair1 2=201269
+pine straw chair1 3=201270
+pine straw chair1 4=201271
+}
+mahogany chairs
+{
+mahogany stool1=201700
+mahogany stool2=201701
+mahogany throne1=201750
+mahogany throne2=201751
+mahogany wooden chair1 1=201752
+mahogany wooden chair1 2=201753
+mahogany wooden chair1 3=201754
+mahogany wooden chair1 4=201755
+mahogany wooden chair2 1=201756
+mahogany wooden chair2 2=201757
+mahogany wooden chair2 3=201758
+mahogany wooden chair2 4=201759
+mahogany fancy chair1 1=201760
+mahogany fancy chair1 2=201761
+mahogany fancy chair1 3=201762
+mahogany fancy chair1 4=201763
+mahogany fancy chair2 1=201764
+mahogany fancy chair2 2=201765
+mahogany fancy chair2 3=201766
+mahogany fancy chair2 4=201767
+mahogany straw chair1 1=201768
+mahogany straw chair1 2=201769
+mahogany straw chair1 3=201770
+mahogany straw chair1 4=201771
+}
+cedar chairs
+{
+cedar stool1=202200
+cedar stool2=202201
+cedar throne1=202250
+cedar throne2=202251
+cedar wooden chair1 1=202252
+cedar wooden chair1 2=202253
+cedar wooden chair1 3=202254
+cedar wooden chair1 4=202255
+cedar wooden chair2 1=202256
+cedar wooden chair2 2=202257
+cedar wooden chair2 3=202258
+cedar wooden chair2 4=202259
+cedar fancy chair1 1=202260
+cedar fancy chair1 2=202261
+cedar fancy chair1 3=202262
+cedar fancy chair1 4=202263
+cedar fancy chair2 1=202264
+cedar fancy chair2 2=202265
+cedar fancy chair2 3=202266
+cedar fancy chair2 4=202267
+cedar straw chair1 1=202268
+cedar straw chair1 2=202269
+cedar straw chair1 3=202270
+cedar straw chair1 4=202271
+}
+alder chairs
+{
+alder stool1=202700
+alder stool2=202701
+alder throne1=202750
+alder throne2=202751
+alder wooden chair1 1=202752
+alder wooden chair1 2=202753
+alder wooden chair1 3=202754
+alder wooden chair1 4=202755
+alder wooden chair2 1=202756
+alder wooden chair2 2=202757
+alder wooden chair2 3=202758
+alder wooden chair2 4=202759
+alder fancy chair1 1=202760
+alder fancy chair1 2=202761
+alder fancy chair1 3=202762
+alder fancy chair1 4=202763
+alder fancy chair2 1=202764
+alder fancy chair2 2=202765
+alder fancy chair2 3=202766
+alder fancy chair2 4=202767
+alder straw chair1 1=202768
+alder straw chair1 2=202769
+alder straw chair1 3=202770
+alder straw chair1 4=202771
+}
+ebony chairs
+{
+ebony stool1=203200
+ebony stool2=203201
+ebony throne1=203250
+ebony throne2=203251
+ebony wooden chair1 1=203252
+ebony wooden chair1 2=203253
+ebony wooden chair1 3=203254
+ebony wooden chair1 4=203255
+ebony wooden chair2 1=203256
+ebony wooden chair2 2=203257
+ebony wooden chair2 3=203258
+ebony wooden chair2 4=203259
+ebony fancy chair1 1=203260
+ebony fancy chair1 2=203261
+ebony fancy chair1 3=203262
+ebony fancy chair1 4=203263
+ebony fancy chair2 1=203264
+ebony fancy chair2 2=203265
+ebony fancy chair2 3=203266
+ebony fancy chair2 4=203267
+ebony straw chair1 1=203268
+ebony straw chair1 2=203269
+ebony straw chair1 3=203270
+ebony straw chair1 4=203271
+}
+oak chairs
+{
+oak stool1=203700
+oak stool2=203701
+oak throne1=203750
+oak throne2=203751
+oak wooden chair1 1=203752
+oak wooden chair1 2=203753
+oak wooden chair1 3=203754
+oak wooden chair1 4=203755
+oak wooden chair2 1=203756
+oak wooden chair2 2=203757
+oak wooden chair2 3=203758
+oak wooden chair2 4=203759
+oak fancy chair1 1=203760
+oak fancy chair1 2=203761
+oak fancy chair1 3=203762
+oak fancy chair1 4=203763
+oak fancy chair2 1=203764
+oak fancy chair2 2=203765
+oak fancy chair2 3=203766
+oak fancy chair2 4=203767
+oak straw chair1 1=203768
+oak straw chair1 2=203769
+oak straw chair1 3=203770
+oak straw chair1 4=203771
+}
+beech chairs
+{
+beech stool1=204200
+beech stool2=204201
+beech throne1=204250
+beech throne2=204251
+beech wooden chair1 1=204252
+beech wooden chair1 2=204253
+beech wooden chair1 3=204254
+beech wooden chair1 4=204255
+beech wooden chair2 1=204256
+beech wooden chair2 2=204257
+beech wooden chair2 3=204258
+beech wooden chair2 4=204259
+beech fancy chair1 1=204260
+beech fancy chair1 2=204261
+beech fancy chair1 3=204262
+beech fancy chair1 4=204263
+beech fancy chair2 1=204264
+beech fancy chair2 2=204265
+beech fancy chair2 3=204266
+beech fancy chair2 4=204267
+beech straw chair1 1=204268
+beech straw chair1 2=204269
+beech straw chair1 3=204270
+beech straw chair1 4=204271
+}
+walnut chairs
+{
+walnut stool1=204700
+walnut stool2=204701
+walnut throne1=204750
+walnut throne2=204751
+walnut wooden chair1 1=204752
+walnut wooden chair1 2=204753
+walnut wooden chair1 3=204754
+walnut wooden chair1 4=204755
+walnut wooden chair2 1=204756
+walnut wooden chair2 2=204757
+walnut wooden chair2 3=204758
+walnut wooden chair2 4=204759
+walnut fancy chair1 1=204760
+walnut fancy chair1 2=204761
+walnut fancy chair1 3=204762
+walnut fancy chair1 4=204763
+walnut fancy chair2 1=204764
+walnut fancy chair2 2=204765
+walnut fancy chair2 3=204766
+walnut fancy chair2 4=204767
+walnut straw chair1 1=204768
+walnut straw chair1 2=204769
+walnut straw chair1 3=204770
+walnut straw chair1 4=204771
+}
+Stone Throne
+{
+Stone Throne=392
+Stone Throne=393
+Stone Throne=394
+Stone Throne=395
+}
+}
+}

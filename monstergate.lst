@@ -1,0 +1,15 @@
+format=D
+
+Monster Gates
+{
+Orc=10064
+Ettin=10065
+Troll=10066
+Skeleton=10067
+Lich=10068
+Daemon=10069
+Dragon=10070
+Drake=10071
+Male Human=10105
+Female Human=10106
+}

@@ -1,0 +1,77 @@
+format=D
+
+Statues
+{
+Statue 1 Left=396
+Statue 1 Center=397
+Statue 1 Right=398
+Statue 2 Left=399
+Statue 2 Center=400
+Statue 2 Right=401
+Statue 3 Left=404
+Statue 3 Center=405
+Statue 3 Right=406
+Unfinished Statue=403
+Statue=407
+Statue=408
+Statue=409
+Statue=410
+Statue=411
+}
+Trophies
+{
+Grizzly Bear Trophy, Back Wall=524
+Deer Trophy, Back Wall=525
+Fish Trophy, Back Wall=526
+Gorilla Trophy, Back Wall=527
+Orc Trophy, Back Wall=528
+Polar Bear Trophy, Back Wall=529
+Troll Trophy, Back Wall=530
+Grizzly Bear Trophy, West Wall=531
+Deer Trophy, West Wall=532
+Fish Trophy, West Wall=533
+Gorilla Trophy, West Wall=534
+Orc Trophy, West Wall=535
+Polar Bear Trophy, West Wall=536
+Troll Trophy, West Wall=537
+}
+Decorative Items
+{
+A Goblet=10186
+A Golden Goblet=10187
+A Pewter Mug=10188
+A Vase=10189
+Jars=10190
+A Boat Model=10191
+A Set of Vials=10192
+A skull=10193
+}
+Unique Items
+{
+Bracelet of Crom=7052
+Dragon's Shield=7051
+Falcon's Helmet=7055
+Lizard Killer=7048
+Mitra's Basin=7047
+Orcish Shield=7050
+Shiva's Bow=7046
+Shiva's Rubi=7053
+Sword of Heavens=7049
+Undead's Robe=7054
+}
+Quest Items
+{
+Compassion=37
+Courage=38
+Honesty=31
+Honor=34
+Humility=30
+Justice=32
+Love=40
+Sacrifice=33
+Spirituality=36
+Valor=35
+Truth=39
+Gem of Immortality=1018
+}
+

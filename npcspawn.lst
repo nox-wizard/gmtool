@@ -1,0 +1,447 @@
+Format=D
+
+Monsters
+{
+T2A Monsters
+{
+T2A List 1
+{
+Kraken=400
+Titan=401
+Giant Toad=402
+Bullfrog=403
+Cyclopedian Warrior=404
+Mummy=405
+Snow Elemental=406
+Ice Snake=407
+Ice Titan=1202
+Frost Troll=408
+Swamp Tentacle=409
+Terathen Drone=410
+Terathen Warrior=411
+Terathen Avenger=412
+Terathen Matriarche=413
+Stone Harpy=414
+Stone Gargoyle=415
+}
+T2A List 2
+{
+Imp=417
+Ice Fiend=418
+Ophidian Warrior=420
+Ophidian Enforcer=421
+Ophidian Avenger=422
+Ophidian Apprentice=423
+Ophidian Shaman=424
+Ophidian Matriarche=425
+Lava Lizard=426
+Frenzied Ostard=427
+Forest Ostard=428
+Desert Ostard=429
+Nightmare=430
+Efreet=432
+Frost Ooze=433
+}
+T2A List 3
+{
+Elder Gazer=434
+Hellcat=435
+Ice Elemental=437
+Ophidian Knight=438
+Phoenix=439
+Ice Serpent=440
+Lava Serpent=441
+Frost Spider=442
+}
+}
+Deamon/Elementals
+{
+an air elemental=19
+a blood elemental=88
+the Collector of Souls=16
+a daemon=65
+a daemon W/Sword=17
+an earth elemental=20
+a fire elemental=21
+the Lord of the Abyss=64
+a poison elemental=89
+the Slayer=63
+a water elemental=22
+}
+Dragon-Kin
+{
+a Wyvern (brown)=416
+a Drake (red)=78
+a Drake (brown)=40
+a Dragon (brown)=18
+a Dragon (red)=66
+an ancient Wyrm (brown)=93
+an ancient Wyrm (brown)=431
+an ancient Wyrm (red)=675
+a Dragon (brown)=665
+a Drake (brown)=674
+}
+Orc Kin
+{
+an ettin=12
+an ettin with axe=67
+an orc=1
+an orc with club=69
+an orcish mage=90
+an orcish captian=91
+an orcish lord=92
+an ogre=11
+an ogre lord=80
+a troll=41
+a troll 2=74
+a troll 3=75
+}
+Undead Creatures
+{
+a burning skeleton=616
+a dracula=2008
+a frankenstien=2013
+a headless=28
+a headless mage=2009
+a lich=24
+a lich lord=68
+a rotting corpse=617
+a skeletal knight=77
+a skeletal mage=87
+a skeleton=36
+a skeleton with axe=76
+a spectre=25
+a vampire (he)=2011
+a vampire (she)=2012
+a warlock=611
+a wraith=10005
+a zombie=13
+a zombie elder=2010
+}
+Other Monsters A-L
+{
+a corpser=15
+a gargoyle=14
+a gazer=23
+a giant rat=79
+a giant scorpion=32
+a giant serpent=39
+a giant spider=26
+a dark spider=1005
+a harpy=27
+a harpy hen=96
+ice giant=614
+a lizardman=29
+a lizardman with spear=72
+a lizardman with hammer=73
+}
+Other Monsters M-Z
+{
+a mongbat=38
+a ratman=30
+a ratman with club=70
+a ratman with sword=71
+a ratman mage=554
+a reaper=31
+a sewer rat=62
+a slime=35
+a snake=37
+a wisp=33
+}
+New Monsters
+{
+a Fire Bat=619
+a Demon Dog=679
+a Poldergueist=1012
+a Poldergueist Lord=1013
+a Savage=1204
+a Savage=1205
+a Savage Shaman=1206
+a Savage Chief=1207
+a Bloodknight=1208
+}
+}
+Animals
+{
+Animals I
+{
+Horse 1=7
+Horse 2=8
+Horse 3=9
+Horse 4=10
+a grizzly bear=6
+a gorilla=43
+a brown bear=44
+a chicken=45
+a deer=46
+a dog=47
+an alligator=48
+a polar bear=49
+}
+Animals II
+{
+a rabbit=50
+a sheep=51
+a bird=52
+an eagle=53
+a llama=54
+a pig=55
+a panther=56
+a cow=57
+a goat=58
+a cat=59
+a pack horse=60
+a pack llama=61
+a mountain goat=697
+a black sheep=698
+}
+}
+Merchants
+{
+Merchants - Males - A-G
+{
+Alchemist=1102
+Animal Trainer=1098
+Architect=1090
+Armorer=1086
+Baker=1060
+Banker=1108
+Bard=1055
+The BeeKeeper=1110
+Blacksmith=1088
+Bowyer=1076
+Butcher=1072
+Carpenter=1092
+Cobbler=1064
+Cook=1096
+Farmer=1094
+Fisherman=1100
+}
+Merchants - Males - H-Z
+{
+Healer (wandering)=4
+Healer=1112
+Herbalist=1070
+Innkeeper=1066
+Jeweler=1078
+Leather Worker=1080
+Mage=1068
+Miner=1056
+Necromancer=527
+Provisioner=1062
+Spinner=1084
+Tailor=1074
+Tinker=1104
+Weaponsmith=1058
+}
+Merchants - Females - A-G
+{
+Alchemist=1103
+Animal Trainer=1099
+Architect=1091
+Armorer=1087
+Baker=1061
+Banker=1053
+Bard=1054
+The Beekeeper=1111
+Blacksmith=1089
+Bowyer=1077
+Butcher=1073
+Carpenter=1093
+Cobbler=1065
+Cook=1097
+Farmer=1095
+Fisherlady=1101
+}
+Merchants - Females - H-Z
+{
+Healer (wandering)=5
+Healer=1113
+Herbalist=1071
+Innkeeper=1067
+Jeweler=1079
+Leather Worker=1081
+Mage=1069
+Miner=1057
+Provisoner=1063
+Spinner=1085
+Tailor=1075
+Tinker=1105
+Weaponsmith=1059
+}
+}
+People
+{
+People - Males - A-G
+{
+Artist=711
+Basic Male=94
+Beggar=217
+Brigand=215
+Cobbler=235
+Cultist=207
+Fighter=205
+Game Master=34
+Guard=3
+Gypsy=225
+}
+People - Males - H-Z
+{
+Jailor=256
+The Murderer=229
+Murderous Mage=557
+Murderous Archer=2000
+Noble=219
+a Necromancer Mage=555
+Peasant=223
+Pirate=203
+Sailor=209
+Seeker of Adventure=227
+Shipwright=262
+Thief=221
+Town Crier=699
+}
+People - Female - A-G
+{
+Artist=712
+Basic Female=95
+Beggar=218
+Brigand=216
+Cultist=208
+Fighter=206
+Guard=2
+Gypsy=226
+}
+People - Female - H-Z
+{
+Jailor=257
+Noble=220
+Peasant=224
+Pirate=204
+Murderer=230
+Sailor=210
+Seeker of Adventure=228
+Shipwright=263
+Thief=222
+Town Crier=700
+}
+Elves
+{
+The Elven Female=667
+The Elven Male=668
+The High Elf=690
+High Elves
+{
+High Elven King=1020
+High Elven Prince=1021
+High Elven Mage=1022
+High Elven Enchantress=1023
+}
+Wood Elves
+{
+Basic Elven Male=1024
+Basic Elven Female=1025
+Wood Elf King=1026
+Wood Elf Queen=1027
+Wood Elf Archer (Male)=1028
+Wood Elf Archer (Female)=1029
+Wood Elf Wizard=1030
+Wood Elf Enchantress=1031
+Wood Elf Priest=1032
+Wood Elf Priestess=1033
+}
+Drow Elves
+{
+The Drow Weapon Lord=1002
+The Dark Elf Assassin=1003
+The Matron Mistress=1004
+The Drow Warrior=1006
+The Drow Priestess=1007
+The Drow High Priestess=1008
+The Dark Elf Archer=1009
+The Drow Wizard=1010
+The Drow ArchMage=1011
+}
+}
+Deacon Jones=1109
+}
+Racial Merchants
+{
+Vampiric Females A->H
+{
+Alchemist=3100
+Animal Trainer=3101
+Architect=3102
+Armorer=3103
+Baker=3104
+Banker=3105
+Bard=3106
+The Beekeeper=3107
+Blacksmith=3108
+Bowyer=3109
+Butcher=3110
+Carpenter=3111
+Cobbler=3112
+Cook=3113
+Farmer=3114
+Fisherlady=3115
+}
+Vampiric Females H->
+{
+Healer (wandering)=3116
+Healer=3117
+Herbalist=3118
+Innkeeper=3119
+Jeweler=3120
+Leather Worker=3121
+Mage=3122
+Miner=3123
+Provisoner=3124
+Spinner=3125
+Tailor=3126
+Tinker=3127
+Weaponsmith=3128
+}
+Vampiric Males A->H
+{
+Alchemist=3000
+Animal Trainer=3001
+Architect=3002
+Armorer=3003
+Baker=3004
+Banker=3005
+Bard=3006
+The BeeKeeper=3007
+Blacksmith=3008
+Bowyer=3009
+Butcher=3010
+Carpenter=3011
+Cobbler=3012
+Cook=3013
+Farmer=3014
+Fisherman=3015
+}
+Vampiric Males H->
+{
+Healer (wandering)=3016
+Healer=3017
+Herbalist=3018
+Innkeeper=3019
+Jeweler=3020
+Leather Worker=3021
+Mage=3022
+Miner=3023
+Provisioner=3024
+Spinner=3025
+Tailor=3026
+Tinker=3027
+Weaponsmith=3028
+}
+}
+Racial Creatures
+{
+Female Fairy=3201
+Male Fairy=3200
+Female Dwarf=3211
+Male Dwarf=3210
+}

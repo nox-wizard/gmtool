@@ -1,0 +1,24 @@
+format=D
+
+Leather
+{
+Backpack=327
+Leather Bag=328
+Pouch=331
+}
+Wood
+{
+large wooden crate=140401
+medium wooden crate1=140402
+medium wooden crate2=140403
+wooden chest1=140405
+wooden chest2=140406
+tub=140407
+wooden keg1 1=140408
+wooden keg1 2=140409
+wooden keg2 1=140410
+open wooden keg=140411
+bucket=140412
+barrel without lid=140414
+barrel with lid=140415
+}

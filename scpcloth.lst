@@ -1,0 +1,61 @@
+format=D
+
+Boots
+{
+Boots=455
+Sandals=456
+Shoes=457
+Thigh boots=458
+}
+Hats
+{
+Floppy hat=459
+Wide-brim hat=460
+Cap=461
+Tall straw hat=462
+Straw hat=463
+Wizard's hat=464
+Bonnet=465
+Feathered hat=466
+Tricorne hat=467
+Jester hat=468
+}
+Shirts & Robes
+{
+Cape=469
+Fancy shirt=470
+Plain shirt=471
+Surcoat=472
+Tunic=473
+Robe=474
+Fancy suit=475
+Doublet=476
+Fancy Dress=477
+Plain Dress=478
+}
+Pants
+{
+Skirt=479
+Short pants=480
+Kilt=481
+Long pants=482
+}
+Misc.
+{
+Half apron=483
+Full apron=484
+Bandana=485
+Body sash=486
+Skullcap=487
+}
+Masks
+{
+Deer mask=488
+Bear mask=489
+Orc helm=490
+Orc mask=491
+Tribal mask=492
+Voodoo mask=493
+Polar bear mask=10042
+}
+}

@@ -1,0 +1,606 @@
+format=D
+
+bedroll=7016
+wooden
+{
+yew small beds
+{
+yew bed headboard A1 1=200300
+yew bed headboard A1 2=200301
+yew bed headboard A1 3=200302
+yew bed headboard A1 4=200303
+yew bed feet A1 1=200304
+yew bed feet A1 2=200305
+yew bed feet A1 3=200306
+yew bed headboard A2 1=200307
+yew bed headboard A2 2=200308
+yew bed headboard A2 3=200309
+yew bed headboard A2 4=200310
+yew bed feet A2 1=200311
+yew bed feet A2 2=200312
+yew bed feet A2 3=200313
+}
+yew big beds
+{
+yew bigbed headleft A1 1=200351
+yew bigbed headleft A1 2=200352
+yew bigbed headleft A1 3=200353
+yew bigbed headleft A1 4=200354
+yew bigbed headleft A1 5=200355
+yew bigbed headleft A1 6=200356
+yew bigbed feetleft A1 1=200357
+yew bigbed feetleft A1 2=200358
+yew bigbed feetleft A1 3=200359
+yew bigbed feetleft A1 4=200360
+yew bigbed feetright A1 1=200361
+yew bigbed feetright A1 2=200362
+yew bigbed feetright A1 3=200363
+yew bigbed feetright A1 4=200364
+yew bigbed headright A1 1=200365
+yew bigbed headright A1 2=200366
+yew bigbed headright A1 3=200367
+yew bigbed headright A1 4=200368
+yew bigbed headright A1 5=200369
+yew bigbed headright A1 6=200370
+yew bigbed headleft A2 1=200371
+yew bigbed headleft A2 2=200372
+yew bigbed headleft A2 3=200373
+yew bigbed headleft A2 4=200374
+yew bigbed headleft A2 5=200375
+yew bigbed headleft A2 6=200376
+yew bigbed feetleft A2 1=200377
+yew bigbed feetleft A2 2=200378
+yew bigbed feetleft A2 3=200379
+yew bigbed feetleft A2 4=200380
+yew bigbed feetright A2 1=200381
+yew bigbed feetright A2 2=200382
+yew bigbed feetright A2 3=200383
+yew bigbed feetright A2 4=200384
+yew bigbed headright A2 1=200385
+yew bigbed headright A2 2=200386
+yew bigbed headright A2 3=200387
+yew bigbed headright A2 4=200388
+yew bigbed headright A2 5=200389
+yew bigbed headright A2 6=200390
+}
+maple small beds
+{
+maple bed headboard A1 1=200800
+maple bed headboard A1 2=200801
+maple bed headboard A1 3=200802
+maple bed headboard A1 4=200803
+maple bed feet A1 1=200804
+maple bed feet A1 2=200805
+maple bed feet A1 3=200806
+maple bed headboard A2 1=200807
+maple bed headboard A2 2=200808
+maple bed headboard A2 3=200809
+maple bed headboard A2 4=200810
+maple bed feet A2 1=200811
+maple bed feet A2 2=200812
+maple bed feet A2 3=200813
+}
+maple big beds
+{
+maple bigbed headleft A1 1=200851
+maple bigbed headleft A1 2=200852
+maple bigbed headleft A1 3=200853
+maple bigbed headleft A1 4=200854
+maple bigbed headleft A1 5=200855
+maple bigbed headleft A1 6=200856
+maple bigbed feetleft A1 1=200857
+maple bigbed feetleft A1 2=200858
+maple bigbed feetleft A1 3=200859
+maple bigbed feetleft A1 4=200860
+maple bigbed feetright A1 1=200861
+maple bigbed feetright A1 2=200862
+maple bigbed feetright A1 3=200863
+maple bigbed feetright A1 4=200864
+maple bigbed headright A1 1=200865
+maple bigbed headright A1 2=200866
+maple bigbed headright A1 3=200867
+maple bigbed headright A1 4=200868
+maple bigbed headright A1 5=200869
+maple bigbed headright A1 6=200870
+maple bigbed headleft A2 1=200871
+maple bigbed headleft A2 2=200872
+maple bigbed headleft A2 3=200873
+maple bigbed headleft A2 4=200874
+maple bigbed headleft A2 5=200875
+maple bigbed headleft A2 6=200876
+maple bigbed feetleft A2 1=200877
+maple bigbed feetleft A2 2=200878
+maple bigbed feetleft A2 3=200879
+maple bigbed feetleft A2 4=200880
+maple bigbed feetright A2 1=200881
+maple bigbed feetright A2 2=200882
+maple bigbed feetright A2 3=200883
+maple bigbed feetright A2 4=200884
+maple bigbed headright A2 1=200885
+maple bigbed headright A2 2=200886
+maple bigbed headright A2 3=200887
+maple bigbed headright A2 4=200888
+maple bigbed headright A2 5=200889
+maple bigbed headright A2 6=200890
+}
+pine small beds
+{
+pine bed headboard A1 1=201300
+pine bed headboard A1 2=201301
+pine bed headboard A1 3=201302
+pine bed headboard A1 4=201303
+pine bed feet A1 1=201304
+pine bed feet A1 2=201305
+pine bed feet A1 3=201306
+pine bed headboard A2 1=201307
+pine bed headboard A2 2=201308
+pine bed headboard A2 3=201309
+pine bed headboard A2 4=201310
+pine bed feet A2 1=201311
+pine bed feet A2 2=201312
+pine bed feet A2 3=201313
+}
+pine big beds
+{
+pine bigbed headleft A1 1=201351
+pine bigbed headleft A1 2=201352
+pine bigbed headleft A1 3=201353
+pine bigbed headleft A1 4=201354
+pine bigbed headleft A1 5=201355
+pine bigbed headleft A1 6=201356
+pine bigbed feetleft A1 1=201357
+pine bigbed feetleft A1 2=201358
+pine bigbed feetleft A1 3=201359
+pine bigbed feetleft A1 4=201360
+pine bigbed feetright A1 1=201361
+pine bigbed feetright A1 2=201362
+pine bigbed feetright A1 3=201363
+pine bigbed feetright A1 4=201364
+pine bigbed headright A1 1=201365
+pine bigbed headright A1 2=201366
+pine bigbed headright A1 3=201367
+pine bigbed headright A1 4=201368
+pine bigbed headright A1 5=201369
+pine bigbed headright A1 6=201370
+pine bigbed headleft A2 1=201371
+pine bigbed headleft A2 2=201372
+pine bigbed headleft A2 3=201373
+pine bigbed headleft A2 4=201374
+pine bigbed headleft A2 5=201375
+pine bigbed headleft A2 6=201376
+pine bigbed feetleft A2 1=201377
+pine bigbed feetleft A2 2=201378
+pine bigbed feetleft A2 3=201379
+pine bigbed feetleft A2 4=201380
+pine bigbed feetright A2 1=201381
+pine bigbed feetright A2 2=201382
+pine bigbed feetright A2 3=201383
+pine bigbed feetright A2 4=201384
+pine bigbed headright A2 1=201385
+pine bigbed headright A2 2=201386
+pine bigbed headright A2 3=201387
+pine bigbed headright A2 4=201388
+pine bigbed headright A2 5=201389
+pine bigbed headright A2 6=201390
+}
+mahogany small beds
+{
+mahogany bed headboard A1 1=201800
+mahogany bed headboard A1 2=201801
+mahogany bed headboard A1 3=201802
+mahogany bed headboard A1 4=201803
+mahogany bed feet A1 1=201804
+mahogany bed feet A1 2=201805
+mahogany bed feet A1 3=201806
+mahogany bed headboard A2 1=201807
+mahogany bed headboard A2 2=201808
+mahogany bed headboard A2 3=201809
+mahogany bed headboard A2 4=201810
+mahogany bed feet A2 1=201811
+mahogany bed feet A2 2=201812
+mahogany bed feet A2 3=201813
+}
+mahogany big beds
+{
+mahogany bigbed headleft A1 1=201851
+mahogany bigbed headleft A1 2=201852
+mahogany bigbed headleft A1 3=201853
+mahogany bigbed headleft A1 4=201854
+mahogany bigbed headleft A1 5=201855
+mahogany bigbed headleft A1 6=201856
+mahogany bigbed feetleft A1 1=201857
+mahogany bigbed feetleft A1 2=201858
+mahogany bigbed feetleft A1 3=201859
+mahogany bigbed feetleft A1 4=201860
+mahogany bigbed feetright A1 1=201861
+mahogany bigbed feetright A1 2=201862
+mahogany bigbed feetright A1 3=201863
+mahogany bigbed feetright A1 4=201864
+mahogany bigbed headright A1 1=201865
+mahogany bigbed headright A1 2=201866
+mahogany bigbed headright A1 3=201867
+mahogany bigbed headright A1 4=201868
+mahogany bigbed headright A1 5=201869
+mahogany bigbed headright A1 6=201870
+mahogany bigbed headleft A2 1=201871
+mahogany bigbed headleft A2 2=201872
+mahogany bigbed headleft A2 3=201873
+mahogany bigbed headleft A2 4=201874
+mahogany bigbed headleft A2 5=201875
+mahogany bigbed headleft A2 6=201876
+mahogany bigbed feetleft A2 1=201877
+mahogany bigbed feetleft A2 2=201878
+mahogany bigbed feetleft A2 3=201879
+mahogany bigbed feetleft A2 4=201880
+mahogany bigbed feetright A2 1=201881
+mahogany bigbed feetright A2 2=201882
+mahogany bigbed feetright A2 3=201883
+mahogany bigbed feetright A2 4=201884
+mahogany bigbed headright A2 1=201885
+mahogany bigbed headright A2 2=201886
+mahogany bigbed headright A2 3=201887
+mahogany bigbed headright A2 4=201888
+mahogany bigbed headright A2 5=201889
+mahogany bigbed headright A2 6=201890
+}
+cedar small beds
+{
+cedar bed headboard A1 1=202300
+cedar bed headboard A1 2=202301
+cedar bed headboard A1 3=202302
+cedar bed headboard A1 4=202303
+cedar bed feet A1 1=202304
+cedar bed feet A1 2=202305
+cedar bed feet A1 3=202306
+cedar bed headboard A2 1=202307
+cedar bed headboard A2 2=202308
+cedar bed headboard A2 3=202309
+cedar bed headboard A2 4=202310
+cedar bed feet A2 1=202311
+cedar bed feet A2 2=202312
+cedar bed feet A2 3=202313
+}
+cedar big beds
+{
+cedar bigbed headleft A1 1=202351
+cedar bigbed headleft A1 2=202352
+cedar bigbed headleft A1 3=202353
+cedar bigbed headleft A1 4=202354
+cedar bigbed headleft A1 5=202355
+cedar bigbed headleft A1 6=202356
+cedar bigbed feetleft A1 1=202357
+cedar bigbed feetleft A1 2=202358
+cedar bigbed feetleft A1 3=202359
+cedar bigbed feetleft A1 4=202360
+cedar bigbed feetright A1 1=202361
+cedar bigbed feetright A1 2=202362
+cedar bigbed feetright A1 3=202363
+cedar bigbed feetright A1 4=202364
+cedar bigbed headright A1 1=202365
+cedar bigbed headright A1 2=202366
+cedar bigbed headright A1 3=202367
+cedar bigbed headright A1 4=202368
+cedar bigbed headright A1 5=202369
+cedar bigbed headright A1 6=202370
+cedar bigbed headleft A2 1=202371
+cedar bigbed headleft A2 2=202372
+cedar bigbed headleft A2 3=202373
+cedar bigbed headleft A2 4=202374
+cedar bigbed headleft A2 5=202375
+cedar bigbed headleft A2 6=202376
+cedar bigbed feetleft A2 1=202377
+cedar bigbed feetleft A2 2=202378
+cedar bigbed feetleft A2 3=202379
+cedar bigbed feetleft A2 4=202380
+cedar bigbed feetright A2 1=202381
+cedar bigbed feetright A2 2=202382
+cedar bigbed feetright A2 3=202383
+cedar bigbed feetright A2 4=202384
+cedar bigbed headright A2 1=202385
+cedar bigbed headright A2 2=202386
+cedar bigbed headright A2 3=202387
+cedar bigbed headright A2 4=202388
+cedar bigbed headright A2 5=202389
+cedar bigbed headright A2 6=202390
+}
+alder small beds
+{
+alder bed headboard A1 1=202800
+alder bed headboard A1 2=202801
+alder bed headboard A1 3=202802
+alder bed headboard A1 4=202803
+alder bed feet A1 1=202804
+alder bed feet A1 2=202805
+alder bed feet A1 3=202806
+alder bed headboard A2 1=202807
+alder bed headboard A2 2=202808
+alder bed headboard A2 3=202809
+alder bed headboard A2 4=202810
+alder bed feet A2 1=202811
+alder bed feet A2 2=202812
+alder bed feet A2 3=202813
+}
+alder big beds
+{
+alder bigbed headleft A1 1=202851
+alder bigbed headleft A1 2=202852
+alder bigbed headleft A1 3=202853
+alder bigbed headleft A1 4=202854
+alder bigbed headleft A1 5=202855
+alder bigbed headleft A1 6=202856
+alder bigbed feetleft A1 1=202857
+alder bigbed feetleft A1 2=202858
+alder bigbed feetleft A1 3=202859
+alder bigbed feetleft A1 4=202860
+alder bigbed feetright A1 1=202861
+alder bigbed feetright A1 2=202862
+alder bigbed feetright A1 3=202863
+alder bigbed feetright A1 4=202864
+alder bigbed headright A1 1=202865
+alder bigbed headright A1 2=202866
+alder bigbed headright A1 3=202867
+alder bigbed headright A1 4=202868
+alder bigbed headright A1 5=202869
+alder bigbed headright A1 6=202870
+alder bigbed headleft A2 1=202871
+alder bigbed headleft A2 2=202872
+alder bigbed headleft A2 3=202873
+alder bigbed headleft A2 4=202874
+alder bigbed headleft A2 5=202875
+alder bigbed headleft A2 6=202876
+alder bigbed feetleft A2 1=202877
+alder bigbed feetleft A2 2=202878
+alder bigbed feetleft A2 3=202879
+alder bigbed feetleft A2 4=202880
+alder bigbed feetright A2 1=202881
+alder bigbed feetright A2 2=202882
+alder bigbed feetright A2 3=202883
+alder bigbed feetright A2 4=202884
+alder bigbed headright A2 1=202885
+alder bigbed headright A2 2=202886
+alder bigbed headright A2 3=202887
+alder bigbed headright A2 4=202888
+alder bigbed headright A2 5=202889
+alder bigbed headright A2 6=202890
+}
+ebony small beds
+{
+ebony bed headboard A1 1=203300
+ebony bed headboard A1 2=203301
+ebony bed headboard A1 3=203302
+ebony bed headboard A1 4=203303
+ebony bed feet A1 1=203304
+ebony bed feet A1 2=203305
+ebony bed feet A1 3=203306
+ebony bed headboard A2 1=203307
+ebony bed headboard A2 2=203308
+ebony bed headboard A2 3=203309
+ebony bed headboard A2 4=203310
+ebony bed feet A2 1=203311
+ebony bed feet A2 2=203312
+ebony bed feet A2 3=203313
+}
+ebony big beds
+{
+ebony bigbed headleft A1 1=203351
+ebony bigbed headleft A1 2=203352
+ebony bigbed headleft A1 3=203353
+ebony bigbed headleft A1 4=203354
+ebony bigbed headleft A1 5=203355
+ebony bigbed headleft A1 6=203356
+ebony bigbed feetleft A1 1=203357
+ebony bigbed feetleft A1 2=203358
+ebony bigbed feetleft A1 3=203359
+ebony bigbed feetleft A1 4=203360
+ebony bigbed feetright A1 1=203361
+ebony bigbed feetright A1 2=203362
+ebony bigbed feetright A1 3=203363
+ebony bigbed feetright A1 4=203364
+ebony bigbed headright A1 1=203365
+ebony bigbed headright A1 2=203366
+ebony bigbed headright A1 3=203367
+ebony bigbed headright A1 4=203368
+ebony bigbed headright A1 5=203369
+ebony bigbed headright A1 6=203370
+ebony bigbed headleft A2 1=203371
+ebony bigbed headleft A2 2=203372
+ebony bigbed headleft A2 3=203373
+ebony bigbed headleft A2 4=203374
+ebony bigbed headleft A2 5=203375
+ebony bigbed headleft A2 6=203376
+ebony bigbed feetleft A2 1=203377
+ebony bigbed feetleft A2 2=203378
+ebony bigbed feetleft A2 3=203379
+ebony bigbed feetleft A2 4=203380
+ebony bigbed feetright A2 1=203381
+ebony bigbed feetright A2 2=203382
+ebony bigbed feetright A2 3=203383
+ebony bigbed feetright A2 4=203384
+ebony bigbed headright A2 1=203385
+ebony bigbed headright A2 2=203386
+ebony bigbed headright A2 3=203387
+ebony bigbed headright A2 4=203388
+ebony bigbed headright A2 5=203389
+ebony bigbed headright A2 6=203390
+}
+oak small beds
+{
+oak bed headboard A1 1=203800
+oak bed headboard A1 2=203801
+oak bed headboard A1 3=203802
+oak bed headboard A1 4=203803
+oak bed feet A1 1=203804
+oak bed feet A1 2=203805
+oak bed feet A1 3=203806
+oak bed headboard A2 1=203807
+oak bed headboard A2 2=203808
+oak bed headboard A2 3=203809
+oak bed headboard A2 4=203810
+oak bed feet A2 1=203811
+oak bed feet A2 2=203812
+oak bed feet A2 3=203813
+}
+oak big beds
+{
+oak bigbed headleft A1 1=203851
+oak bigbed headleft A1 2=203852
+oak bigbed headleft A1 3=203853
+oak bigbed headleft A1 4=203854
+oak bigbed headleft A1 5=203855
+oak bigbed headleft A1 6=203856
+oak bigbed feetleft A1 1=203857
+oak bigbed feetleft A1 2=203858
+oak bigbed feetleft A1 3=203859
+oak bigbed feetleft A1 4=203860
+oak bigbed feetright A1 1=203861
+oak bigbed feetright A1 2=203862
+oak bigbed feetright A1 3=203863
+oak bigbed feetright A1 4=203864
+oak bigbed headright A1 1=203865
+oak bigbed headright A1 2=203866
+oak bigbed headright A1 3=203867
+oak bigbed headright A1 4=203868
+oak bigbed headright A1 5=203869
+oak bigbed headright A1 6=203870
+oak bigbed headleft A2 1=203871
+oak bigbed headleft A2 2=203872
+oak bigbed headleft A2 3=203873
+oak bigbed headleft A2 4=203874
+oak bigbed headleft A2 5=203875
+oak bigbed headleft A2 6=203876
+oak bigbed feetleft A2 1=203877
+oak bigbed feetleft A2 2=203878
+oak bigbed feetleft A2 3=203879
+oak bigbed feetleft A2 4=203880
+oak bigbed feetright A2 1=203881
+oak bigbed feetright A2 2=203882
+oak bigbed feetright A2 3=203883
+oak bigbed feetright A2 4=203884
+oak bigbed headright A2 1=203885
+oak bigbed headright A2 2=203886
+oak bigbed headright A2 3=203887
+oak bigbed headright A2 4=203888
+oak bigbed headright A2 5=203889
+oak bigbed headright A2 6=203890
+}
+beech small beds
+{
+beech bed headboard A1 1=204300
+beech bed headboard A1 2=204301
+beech bed headboard A1 3=204302
+beech bed headboard A1 4=204303
+beech bed feet A1 1=204304
+beech bed feet A1 2=204305
+beech bed feet A1 3=204306
+beech bed headboard A2 1=204307
+beech bed headboard A2 2=204308
+beech bed headboard A2 3=204309
+beech bed headboard A2 4=204310
+beech bed feet A2 1=204311
+beech bed feet A2 2=204312
+beech bed feet A2 3=204313
+}
+beech big beds
+{
+beech bigbed headleft A1 1=204351
+beech bigbed headleft A1 2=204352
+beech bigbed headleft A1 3=204353
+beech bigbed headleft A1 4=204354
+beech bigbed headleft A1 5=204355
+beech bigbed headleft A1 6=204356
+beech bigbed feetleft A1 1=204357
+beech bigbed feetleft A1 2=204358
+beech bigbed feetleft A1 3=204359
+beech bigbed feetleft A1 4=204360
+beech bigbed feetright A1 1=204361
+beech bigbed feetright A1 2=204362
+beech bigbed feetright A1 3=204363
+beech bigbed feetright A1 4=204364
+beech bigbed headright A1 1=204365
+beech bigbed headright A1 2=204366
+beech bigbed headright A1 3=204367
+beech bigbed headright A1 4=204368
+beech bigbed headright A1 5=204369
+beech bigbed headright A1 6=204370
+beech bigbed headleft A2 1=204371
+beech bigbed headleft A2 2=204372
+beech bigbed headleft A2 3=204373
+beech bigbed headleft A2 4=204374
+beech bigbed headleft A2 5=204375
+beech bigbed headleft A2 6=204376
+beech bigbed feetleft A2 1=204377
+beech bigbed feetleft A2 2=204378
+beech bigbed feetleft A2 3=204379
+beech bigbed feetleft A2 4=204380
+beech bigbed feetright A2 1=204381
+beech bigbed feetright A2 2=204382
+beech bigbed feetright A2 3=204383
+beech bigbed feetright A2 4=204384
+beech bigbed headright A2 1=204385
+beech bigbed headright A2 2=204386
+beech bigbed headright A2 3=204387
+beech bigbed headright A2 4=204388
+beech bigbed headright A2 5=204389
+beech bigbed headright A2 6=204390
+}
+walnut small beds
+{
+walnut bed headboard A1 1=204800
+walnut bed headboard A1 2=204801
+walnut bed headboard A1 3=204802
+walnut bed headboard A1 4=204803
+walnut bed feet A1 1=204804
+walnut bed feet A1 2=204805
+walnut bed feet A1 3=204806
+walnut bed headboard A2 1=204807
+walnut bed headboard A2 2=204808
+walnut bed headboard A2 3=204809
+walnut bed headboard A2 4=204810
+walnut bed feet A2 1=204811
+walnut bed feet A2 2=204812
+walnut bed feet A2 3=204813
+}
+walnut big beds
+{
+walnut bigbed headleft A1 1=204851
+walnut bigbed headleft A1 2=204852
+walnut bigbed headleft A1 3=204853
+walnut bigbed headleft A1 4=204854
+walnut bigbed headleft A1 5=204855
+walnut bigbed headleft A1 6=204856
+walnut bigbed feetleft A1 1=204857
+walnut bigbed feetleft A1 2=204858
+walnut bigbed feetleft A1 3=204859
+walnut bigbed feetleft A1 4=204860
+walnut bigbed feetright A1 1=204861
+walnut bigbed feetright A1 2=204862
+walnut bigbed feetright A1 3=204863
+walnut bigbed feetright A1 4=204864
+walnut bigbed headright A1 1=204865
+walnut bigbed headright A1 2=204866
+walnut bigbed headright A1 3=204867
+walnut bigbed headright A1 4=204868
+walnut bigbed headright A1 5=204869
+walnut bigbed headright A1 6=204870
+walnut bigbed headleft A2 1=204871
+walnut bigbed headleft A2 2=204872
+walnut bigbed headleft A2 3=204873
+walnut bigbed headleft A2 4=204874
+walnut bigbed headleft A2 5=204875
+walnut bigbed headleft A2 6=204876
+walnut bigbed feetleft A2 1=204877
+walnut bigbed feetleft A2 2=204878
+walnut bigbed feetleft A2 3=204879
+walnut bigbed feetleft A2 4=204880
+walnut bigbed feetright A2 1=204881
+walnut bigbed feetright A2 2=204882
+walnut bigbed feetright A2 3=204883
+walnut bigbed feetright A2 4=204884
+walnut bigbed headright A2 1=204885
+walnut bigbed headright A2 2=204886
+walnut bigbed headright A2 3=204887
+walnut bigbed headright A2 4=204888
+walnut bigbed headright A2 5=204889
+walnut bigbed headright A2 6=204890
+}
+}

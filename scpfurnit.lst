@@ -1,0 +1,232 @@
+format=D
+
+yew
+{
+yew chest of drawers1=200100
+yew chest of drawers2=200101
+yew chest of drawers 2=200102
+yew chest of drawers 3=200103
+yew dresser1 2=200104
+yew dresser1 1=200105
+yew dresser2 1=200106
+yew dresser2 2=200107
+yew armoire1 1=200108
+yew armoire1 2=200109
+yew armoire2 1=200110
+yew armoire2 2=200111
+yew bookcase1 1=200112
+yew bookcase1 2=200113
+yew bookcase1 3=200114
+yew bookcase2 1=200115
+yew bookcase2 2=200116
+yew bookcase2 3=200117
+yew wooden shelf1=200118
+yew wooden shelf2=200119
+}
+maple
+{
+maple chest of drawers1=200600
+maple chest of drawers2=200601
+maple chest of drawers 2=200602
+maple chest of drawers 3=200603
+maple dresser1 2=200604
+maple dresser1 1=200605
+maple dresser2 1=200606
+maple dresser2 2=200607
+maple armoire1 1=200608
+maple armoire1 2=200609
+maple armoire2 1=200610
+maple armoire2 2=200611
+maple bookcase1 1=200612
+maple bookcase1 2=200613
+maple bookcase1 3=200614
+maple bookcase2 1=200615
+maple bookcase2 2=200616
+maple bookcase2 3=200617
+maple wooden shelf1=200618
+maple wooden shelf2=200619
+}
+pine
+{
+pine chest of drawers1=201100
+pine chest of drawers2=201101
+pine chest of drawers 2=201102
+pine chest of drawers 3=201103
+pine dresser1 2=201104
+pine dresser1 1=201105
+pine dresser2 1=201106
+pine dresser2 2=201107
+pine armoire1 1=201108
+pine armoire1 2=201109
+pine armoire2 1=201110
+pine armoire2 2=201111
+pine bookcase1 1=201112
+pine bookcase1 2=201113
+pine bookcase1 3=201114
+pine bookcase2 1=201115
+pine bookcase2 2=201116
+pine bookcase2 3=201117
+pine wooden shelf1=201118
+pine wooden shelf2=201119
+}
+mahogany
+{
+mahogany chest of drawers1=201600
+mahogany chest of drawers2=201601
+mahogany chest of drawers 2=201602
+mahogany chest of drawers 3=201603
+mahogany dresser1 2=201604
+mahogany dresser1 1=201605
+mahogany dresser2 1=201606
+mahogany dresser2 2=201607
+mahogany armoire1 1=201608
+mahogany armoire1 2=201609
+mahogany armoire2 1=201610
+mahogany armoire2 2=201611
+mahogany bookcase1 1=201612
+mahogany bookcase1 2=201613
+mahogany bookcase1 3=201614
+mahogany bookcase2 1=201615
+mahogany bookcase2 2=201616
+mahogany bookcase2 3=201617
+mahogany wooden shelf1=201618
+mahogany wooden shelf2=201619
+}
+cedar
+{
+cedar chest of drawers1=202100
+cedar chest of drawers2=202101
+cedar chest of drawers 2=202102
+cedar chest of drawers 3=202103
+cedar dresser1 2=202104
+cedar dresser1 1=202105
+cedar dresser2 1=202106
+cedar dresser2 2=202107
+cedar armoire1 1=202108
+cedar armoire1 2=202109
+cedar armoire2 1=202110
+cedar armoire2 2=202111
+cedar bookcase1 1=202112
+cedar bookcase1 2=202113
+cedar bookcase1 3=202114
+cedar bookcase2 1=202115
+cedar bookcase2 2=202116
+cedar bookcase2 3=202117
+cedar wooden shelf1=202118
+cedar wooden shelf2=202119
+}
+alder
+{
+alder chest of drawers1=202600
+alder chest of drawers2=202601
+alder chest of drawers 2=202602
+alder chest of drawers 3=202603
+alder dresser1 2=202604
+alder dresser1 1=202605
+alder dresser2 1=202606
+alder dresser2 2=202607
+alder armoire1 1=202608
+alder armoire1 2=202609
+alder armoire2 1=202610
+alder armoire2 2=202611
+alder bookcase1 1=202612
+alder bookcase1 2=202613
+alder bookcase1 3=202614
+alder bookcase2 1=202615
+alder bookcase2 2=202616
+alder bookcase2 3=202617
+alder wooden shelf1=202618
+alder wooden shelf2=202619
+}
+ebony
+{
+ebony chest of drawers1=203100
+ebony chest of drawers2=203101
+ebony chest of drawers 2=203102
+ebony chest of drawers 3=203103
+ebony dresser1 2=203104
+ebony dresser1 1=203105
+ebony dresser2 1=203106
+ebony dresser2 2=203107
+ebony armoire1 1=203108
+ebony armoire1 2=203109
+ebony armoire2 1=203110
+ebony armoire2 2=203111
+ebony bookcase1 1=203112
+ebony bookcase1 2=203113
+ebony bookcase1 3=203114
+ebony bookcase2 1=203115
+ebony bookcase2 2=203116
+ebony bookcase2 3=203117
+ebony wooden shelf1=203118
+ebony wooden shelf2=203119
+}
+oak
+{
+oak chest of drawers1=203600
+oak chest of drawers2=203601
+oak chest of drawers 2=203602
+oak chest of drawers 3=203603
+oak dresser1 2=203604
+oak dresser1 1=203605
+oak dresser2 1=203606
+oak dresser2 2=203607
+oak armoire1 1=203608
+oak armoire1 2=203609
+oak armoire2 1=203610
+oak armoire2 2=203611
+oak bookcase1 1=203612
+oak bookcase1 2=203613
+oak bookcase1 3=203614
+oak bookcase2 1=203615
+oak bookcase2 2=203616
+oak bookcase2 3=203617
+oak wooden shelf1=203618
+oak wooden shelf2=203619
+}
+beech
+{
+beech chest of drawers1=204100
+beech chest of drawers2=204101
+beech chest of drawers 2=204102
+beech chest of drawers 3=204103
+beech dresser1 2=204104
+beech dresser1 1=204105
+beech dresser2 1=204106
+beech dresser2 2=204107
+beech armoire1 1=204108
+beech armoire1 2=204109
+beech armoire2 1=204110
+beech armoire2 2=204111
+beech bookcase1 1=204112
+beech bookcase1 2=204113
+beech bookcase1 3=204114
+beech bookcase2 1=204115
+beech bookcase2 2=204116
+beech bookcase2 3=204117
+beech wooden shelf1=204118
+beech wooden shelf2=204119
+}
+walnut
+{
+walnut chest of drawers1=204600
+walnut chest of drawers2=204601
+walnut chest of drawers 2=204602
+walnut chest of drawers 3=204603
+walnut dresser1 2=204604
+walnut dresser1 1=204605
+walnut dresser2 1=204606
+walnut dresser2 2=204607
+walnut armoire1 1=204608
+walnut armoire1 2=204609
+walnut armoire2 1=204610
+walnut armoire2 2=204611
+walnut bookcase1 1=204612
+walnut bookcase1 2=204613
+walnut bookcase1 3=204614
+walnut bookcase2 1=204615
+walnut bookcase2 2=204616
+walnut bookcase2 3=204617
+walnut wooden shelf1=204618
+walnut wooden shelf2=204619
+}

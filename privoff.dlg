@@ -1,0 +1,11 @@
+title=Priveledges
+columns=6
+rows=6
+vspace=0
+hspace=0
+xsize=165
+ysize=200
+
+Frame=1,1,26,27,"Set Priveledges"
+Button=2,4,24,3,"Set It","set privoff",S,"list"
+Listbox=2,8,24,15,"list",privs.lst

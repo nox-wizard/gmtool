@@ -1,0 +1,70 @@
+format=D
+
+Coins, Gems, Jewelry
+{
+Coins
+{
+Gold, Single=3185
+Gold, Few=3186
+Gold, PILEABLE=3187
+Silver, Single=3188
+Silver, Few=3189
+Silver, PILEABLE=3190
+Copper, Single=3191
+Copper, Few=3192
+Copper, PILEABLE=3193
+}
+Gems
+{
+Cut Gems
+{
+Amethyst=3194
+Amethyst=3195
+Citrine=3196
+Diamond=3234
+Emerald=3197
+Ruby=3198
+Ruby=3199
+Ruby=3200
+Ruby=3201
+Ruby=3202
+Sapphire=3203
+Sapphire=3204
+Sapphire=3205
+Sapphire=3206
+Sapphire, Star=3207
+Sapphire, Star=3208
+Tourmaline=3209
+Tourmaline=3210
+Tourmaline=3211
+}
+Un-Cut Gems
+{
+Amber=3212
+Amethyst=3213
+Amethyst=3214
+Citrine=3215
+Citrine=3216
+Citrine=3217
+Diamond=3218
+Diamond=3219
+Diamond=3220
+Diamond=3221
+Emerald=3222
+Ruby=3223
+Ruby=3224
+Sapphire, Star=3225
+Tourmaline=3226
+}
+}
+Jewelry
+{
+Beads=3227
+Bracelet=3228
+Earings=3229
+Necklace=3230
+Necklace=3231
+Necklace=3232
+Ring=3233
+}
+}

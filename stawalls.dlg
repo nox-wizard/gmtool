@@ -1,0 +1,13 @@
+title=Static Items
+columns=6
+rows=6
+vspace=0
+hspace=0
+xsize=165
+ysize=215
+
+Frame=1,1,26,30,"Walls"
+Button=2,4,24,3,"Add Item by Hex","add",HH,PROMPT,"Enter item hex."
+Button=2,8,24,3,"From List as One","add",D,"list"
+Button=2,12,24,3,"From List as Line/Square","tile",HH,"list"
+Listbox=2,16,24,14,"list",stawalls.lst

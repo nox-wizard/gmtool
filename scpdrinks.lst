@@ -1,0 +1,110 @@
+format=D
+
+champaine
+{
+bottle of pink_champaine=100005
+a pink champaine flute=100006
+}
+Ale
+{
+bottle of ale=100011
+bottles of ale=100012
+bottles of ale 1=100013
+bottles of ale 2=100014
+pitcher of ale=100015
+pitcher of ale 2=100016
+mug of ale=100017
+mug of ale 2=100018
+}
+Liquor
+{
+bottle of liquor=100031
+bottles of liquor=100032
+bottles of liquor 1=100033
+bottles of liquor 2=100034
+pitcher of liquor=100035
+pitcher of liquor 2=100036
+glass of liquor=100037
+glass of liquor 2=100038
+glass of liquor 3=100039
+glass of liquor 4=100040
+}
+Wine
+{
+bottle of wine=100061
+bottles of wine=100062
+bottles of wine 2=100063
+bottles of wine 3=100064
+pitcher of wine=100065
+pitcher of wine 2=100066
+glass of wine=100067
+glass of wine 2=100068
+glass of wine 3=100069
+glass of wine 4=100070
+}
+Water
+{
+tub of water=100091
+bucket of water=100092
+pitcher of water=100093
+pitcher of water 2=100094
+pitcher of water 3=100095
+pitcher of water 4=100096
+glass of water=100097
+glass of water 2=100098
+glass of water 3=100099
+glass of water 4=100100
+}
+Cider
+{
+jugs of cider=100101
+jugs of cider 1=100102
+jugs of cider 2=100103
+pitcher of cider=100104
+pitcher of cider 2=100105
+glass of cider=100106
+glass of cider 2=100107
+glass of cider 3=100108
+glass of cider 4=100109
+}
+Milk
+{
+pitcher of milk 1=103751
+pitcher of milk 2=103752
+jar for milk=103753
+a jar full of milk=103754
+pitcher of milk=103755
+glass of milk=103756
+glass of milk 2=103757
+glass of milk 3=103758
+glass of milk 4=103759
+}
+
+dishes drinks
+{
+a goblet=105301
+a goblet 2=105302
+golden goblet=105303
+a golden goblet 2=105304
+glass=105305
+glass 2=105306
+glass 3=105307
+glass 4=105308
+a pewter mug=105310
+a pewter mug 2=105311
+a pewter mug 3=105312
+a pewter mug 4=105313
+a skull mug=105314
+a skull mug 2=105315
+a skull mug 3=105316
+a skull mug 4=105317
+a ceramic mug=105318
+a ceramic mug 2=105319
+a ceramic mug 3=105320
+a ceramic mug 4=105321
+a mug=105322
+a mug 2=105323
+glass pitcher=105324
+glass pitcher 2=105325
+glass pitcher 3=105326
+}

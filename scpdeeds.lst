@@ -1,0 +1,130 @@
+format=D
+
+Old House Deeds
+{
+Small Stone & Plaster House=6000
+Small Stone House=6001
+Small Brick House=6002
+Small Wood House=6003
+Small Wood & Plaster House=6004
+Small Wood House (Straw Roof)=6005
+Blue Tent=6006
+Green Tent=6007
+3 Room Brick House=6008
+2 Story Wood & Plaster House=6009
+2 Story Stone & Plaster House=6010
+Stone Tower=6011
+Stone Keep=6012
+Castle=6013
+Large Smithy=6014
+}
+New House Deeds
+{
+Small Tower=6037
+Small Marble Shop=6038
+Small Stone Shop=6039
+2 Story Villa=6040
+Sandstone Patio House=6041
+2 Story Log Cabin=6042
+Large Marble Patio House=6043
+}
+Ship Deeds
+{
+Small Boat=2117
+Small Dragon Ship=2118
+Medium Boat=2119
+Medium Dragon Ship=2120
+Large Boat=2121
+Large Dragon Ship=2122
+}
+bed deeds
+{
+yew bed facing south deed=200391
+yew bed facing east deed=200392
+yew bed-east deed=200393
+yew bed-south deed=200394
+}
+bed deeds
+{
+maple bed facing south deed=200891
+maple bed facing east deed=200892
+maple bed-east deed=200893
+maple bed-south deed=200894
+}
+bed deeds
+{
+pine bed facing south deed=201391
+pine bed facing east deed=201392
+pine bed-east deed=201393
+pine bed-south deed=201394
+}
+bed deeds
+{
+mahogany bed facing south deed=201891
+mahogany bed facing east deed=201892
+mahogany bed-east deed=201893
+mahogany bed-south deed=201894
+}
+bed deeds
+{
+cedar bed facing south deed=202391
+cedar bed facing east deed=202392
+cedar bed-east deed=202393
+cedar bed-south deed=202394
+}
+bed deeds
+{
+alder bed facing south deed=202891
+alder bed facing east deed=202892
+alder bed-east deed=202893
+alder bed-south deed=202894
+}
+bed deeds
+{
+ebony bed facing south deed=203391
+ebony bed facing east deed=203392
+ebony bed-east deed=203393
+ebony bed-south deed=203394
+}
+bed deeds
+{
+oak bed facing south deed=203891
+oak bed facing east deed=203892
+oak bed-east deed=203893
+oak bed-south deed=203894
+}
+bed deeds
+{
+beech bed facing south deed=204391
+beech bed facing east deed=204392
+beech bed-east deed=204393
+beech bed-south deed=204394
+}
+bed deeds
+{
+walnut bed facing south deed=204891
+walnut bed facing east deed=204892
+walnut bed-east deed=204893
+walnut bed-south deed=204894
+}
+
+Other Deeds
+{
+Townstone Deed=3299
+Guild Deed=6035
+Rename Deed=6036
+Pentagram Deed=6025
+Skull Candle Deed=10194
+cannon deed=6500
+Vendor Deed=50005
+Forge=6015
+Anvil s=6016
+Andvil e=6017
+Wheel s=6018
+Archery butte e=6019
+Archery butte s=6020
+Train dummy s=6021
+Train dummy e=6022
+Pickpocket s=6023
+Pickpocket e=6024
+}
