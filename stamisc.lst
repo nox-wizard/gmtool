@@ -182,16 +182,16 @@ dirt patch2=$item_dirt_patch2=0912
 dirt patch3=$item_dirt_patch3=0913
 dirt patch4=$item_dirt_patch4=0914
 debris=$item_debris1_1=0c2d
-hay1=item_hay1=1036
-hay2=item_hay2=1037
-hay3=item_hay3=0f34
-hay4=item_hay4=0f35
+hay1=$item_hay1=1036
+hay2=$item_hay2=1037
+hay3=$item_hay3=0f34
+hay4=$item_hay4=0f35
 loose grain=$item_loose_grain=1449
 wood curls=$item_wood_curls=1038
-garbage=item_garbage1=10ee
-garbage=item_garbage2=10ef
-garbage=item_garbage3=10f0
-garbage=item_garbage4=10f1
+garbage=$item_garbage1=10ee
+garbage=$item_garbage2=10ef
+garbage=$item_garbage3=10f0
+garbage=$item_garbage4=10f1
 pile ofgarbage=$item_pile_of_garbage1_1=10f2
 horse dung1=$item_horse_dung1=0f3b
 horse dung2=$item_horse_dung2=0f3c
@@ -290,23 +290,23 @@ cocoon open=$item_cocoon_open=10dd
 }
 Games
 {
-backgammon=item_backgammon_1=0fad
-black chessmen=item_black_chessmen1_1=0e12
-white chessmen=item_white_chessmen2_1=0e14
-cards1=item_cards1_1=0e15
-cards2=item_cards2_1=0fa2
-carddeck=item_deck_of_cards=0e17
-red checkers=item_red_checkers_1=0e1a
-white checkers=item_white_checkers_1=0e1b
-checkerboard=item_checker_board=0fa6
-dice and cup=item_dice_and_cup=0fa7
-tarot1=item_tarot1_1=12a5
-tarot2=item_tarot2_1=12a7
-tarot3=item_tarot3_1=12a9
-tarotdecks=item_decks_of_tarot_1=12ab
-axe dartboard=item_dartboard_axe_1=1e30
-knive dartboard=item_dartboard_knives_1=1e32
-dartboard=item_dartboard_2=1e2f
+backgammon=$item_backgammon_1=0fad
+black chessmen=$item_black_chessmen1_1=0e12
+white chessmen=$item_white_chessmen2_1=0e14
+cards1=$item_cards1_1=0e15
+cards2=$item_cards2_1=0fa2
+carddeck=$item_deck_of_cards=0e17
+red checkers=$item_red_checkers_1=0e1a
+white checkers=$item_white_checkers_1=0e1b
+checkerboard=$item_checker_board=0fa6
+dice and cup=$item_dice_and_cup=0fa7
+tarot1=$item_tarot1_1=12a5
+tarot2=$item_tarot2_1=12a7
+tarot3=$item_tarot3_1=12a9
+tarotdecks=$item_decks_of_tarot_1=12ab
+axe dartboard=$item_dartboard_axe_1=1e30
+knive dartboard=$item_dartboard_knives_1=1e32
+dartboard=$item_dartboard_2=1e2f
 }
 Money and jewelery
 {
@@ -385,55 +385,59 @@ silver coins=$item_many_silver_coin=0x0ef2
 }
 Jewels
 {
-amethysts1=item_amethysts1=0F16
-amethysts2=item_amethysts2=0F17
-amethysts3=item_amethysts3=0F22
-amethysts4=item_amethysts4=0F2E
-citrines1=item_citrines1=0F15
-citrines2=item_citrines2=0F23
-citrines3=item_citrines3=0F24
-citrines4=item_citrines4=0F2C
-emeralds1=item_emeralds1=0F10
-emeralds2=item_emeralds2=0F2F
-rubies1=item_rubies1=0F13
-rubies3=item_rubies3=0F1A
-rubies4=item_rubies4=0F1C
-rubies5=item_rubies5=0F1D
-rubies6=item_rubies6=0F2A
-rubies7=item_rubies7=0F2B
-sapphires1=item_sapphires1=0F11
-sapphires2=item_sapphires2=0F12
-sapphires3=item_sapphires3=0F19
-sapphires4=item_sapphires4=0F1F
-star sapphires1=item_star_sapphires1=0F0F
-star sapphires2=item_star_sapphires2=0F1B
-star sapphires3=item_star_sapphires3=0F21
-tourmalines1=item_tourmalines1=0F18
-tourmalines2=item_tourmalines2=0F1E
-tourmalines3=item_tourmalines3=0F20
-tourmalines4=item_tourmalines4=0F2D
-amber=item_pieces_of_amber=0F25
-diamonds1=item_diamonds1=0F27
-diamonds2=item_diamonds2=0F28
-diamonds3=item_diamonds3=0F29
-diamonds4=item_diamonds4=0F30
-diamonds5=item_diamonds5=0F26
+amethysts1=$item_amethysts1=0F16
+amethysts2=$item_amethysts2=0F17
+amethysts3=$item_amethysts3=0F22
+amethysts4=$item_amethysts4=0F2E
+citrines1=$item_citrines1=0F15
+citrines2=$item_citrines2=0F23
+citrines3=$item_citrines3=0F24
+citrines4=$item_citrines4=0F2C
+emeralds1=$item_emeralds1=0F10
+emeralds2=$item_emeralds2=0F2F
+rubies1=$item_rubies1=0F13
+rubies3=$item_rubies3=0F1A
+rubies4=$item_rubies4=0F1C
+rubies5=$item_rubies5=0F1D
+rubies6=$item_rubies6=0F2A
+rubies7=$item_rubies7=0F2B
+sapphires1=$item_sapphires1=0F11
+sapphires2=$item_sapphires2=0F12
+sapphires3=$item_sapphires3=0F19
+sapphires4=$item_sapphires4=0F1F
+star sapphires1=$item_star_sapphires1=0F0F
+star sapphires2=$item_star_sapphires2=0F1B
+star sapphires3=$item_star_sapphires3=0F21
+tourmalines1=$item_tourmalines1=0F18
+tourmalines2=$item_tourmalines2=0F1E
+tourmalines3=$item_tourmalines3=0F20
+tourmalines4=$item_tourmalines4=0F2D
+amber=$item_pieces_of_amber=0F25
+diamonds1=$item_diamonds1=0F27
+diamonds2=$item_diamonds2=0F28
+diamonds3=$item_diamonds3=0F29
+diamonds4=$item_diamonds4=0F30
+diamonds5=$item_diamonds5=0F26
 }
-necklace=0x10 0x85=0x1085
-bracelet=0x10 0x86=0x1086
-earrings=0x10 0x87=0x1087
-necklace=0x10 0x88=0x1088
-necklace=0x10 0x89=0x1089
-ring=0x10 0x8a=0x108a
-beads=0x10 0x8b=0x108b
-bead necklace=0x1f 0x05=0x1f05
-bracelet=0x1f 0x06=0x1f06
-earrings=0x1f 0x07=0x1f07
-necklace=0x1f 0x08=0x1f08
-ring=0x1f 0x09=0x1f09
-silver necklace=0x1f 0x0a=0x1f0a
-gold belt=0x15 0x35=0x1535
-gold belt=0x15 0x36=0x1536
+beads=$item_beads=108B
+bracelet=$item_bracelet1=1086
+bracelet=$item_bracelet2=1f06
+earrings=$item_earrings1=1087
+earrings=$item_earrings2=1f07
+necklace=$item_necklace1=1085
+necklace=$item_necklace2=1088
+necklace=$item_necklace3=1089
+necklace=$item_necklace4=1f08
+necklace=$item_necklace5=1f05
+necklace=$item_necklace6=1f0a
+ring=$item_ring1=108A
+ring=$item_ring2=1f09
+gold_belt=$item_gold_belt_1=1535
+gold_belt=$item_gold_belt_2=1536
+steel_wire=$item_steel_wire=1876
+silver_wire=$item_silver_wire=1877
+gold_wire=$item_gold_wire=1878
+copper_wire=$item_copper_wire=1879
 }
 Keys
 {
